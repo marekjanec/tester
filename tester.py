@@ -38,6 +38,7 @@ exam_score = 0
 exam = False
 question = []
 question_btn_clicked = False
+file_loaded = False
 
 
 def clear():
@@ -157,6 +158,7 @@ def load_questions():
     global pop_list_question
     global otazky
     global filename
+    global file_loaded
 
     otazky.clear()
     pop_list_question.clear()
@@ -197,6 +199,8 @@ def load_questions():
 
     pb['value'] = 0
     value_label['text'] = update_progress_label()
+
+    file_loaded = True
 
 
 def load_exam():
@@ -290,82 +294,117 @@ def btn_random_question_hover_enter(e):
     status_label.config(
         text="Nacita nahodnu otazku bez opakovania.")
 
+    btn_random_question.config(bg=default_grey_highlight)
 
 def btn_random_question_hover_leave(e):
     status_label.config(text="")
 
+    btn_random_question.config(bg=default_grey)
 
 def btn_in_order_question_hover_enter(e):
     status_label.config(
         text="Nacita nasleduju otazku.")
 
+    btn_in_order_question.config(bg=default_grey_highlight)
 
 def btn_in_order_question_hover_leave(e):
     status_label.config(text="")
 
+    btn_in_order_question.config(bg=default_grey)
+
+def btn_question_answer_hover_enter(e):
+    btn_question_answer.config(bg=green_color_highlight)
+
+def btn_question_answer_hover_leave(e):
+    btn_question_answer.config(bg=green_color)
 
 def btn_load_hover_enter(e):
     status_label.config(
         text="Pre nacitanie otazok je potrebne vlozit .csv subor s 2 stlpcami s headrami\n'otazka' a 'odpoved', prvy stlpec su otazky a druhy stlpce su odpovede.")
 
+    if file_loaded:
+        btn_load.config(bg=green_color_highlight)
+    else:
+        btn_load.config(bg=strong_red_color_highlight)
 
 def btn_load_hover_leave(e):
     status_label.config(text="")
+
+    if file_loaded:
+        btn_load.config(bg=green_color)
+    else:
+        btn_load.config(bg=strong_red_color)
 
 
 def btn_new_hover_enter(e):
     status_label.config(
         text="Vytvorenie prazdneho suboru pre otazky.\nPre pracu so suborom je potrebneho ho nacitat cez tlacidlo 'Load'")
 
+    btn_new.config(bg=green_color_highlight)
 
 def btn_new_hover_leave(e):
     status_label.config(text="")
 
+    btn_new.config(bg=green_color)
 
 def btn_question_add_hover_enter(e):
     status_label.config(
         text="Po nacitani setu otazok moze pridat novu otazku, vypisanim pola 'Question' a 'Answer'.\nPo stlaceni tlacidla 'Add' sa otazka prida do setu.")
 
+    btn_question_add.config(bg=green_color_highlight)
+
 
 def btn_question_add_hover_leave(e):
     status_label.config(text="")
+
+    btn_question_add.config(bg=green_color)
 
 
 def btn_question_delete_hover_enter(e):
     status_label.config(
         text="Aktualne nacitana otazka v poli 'Question' sa natrvalo vymaze zo setu otazok.\n Vymazanie po stlaceni tlacidla 'Delete' je potrebne este potvdit.")
 
+    btn_question_delete.config(bg=red_color_highlight)
+
 
 def btn_question_delete_hover_leave(e):
     status_label.config(text="")
+
+    btn_question_delete.config(bg=red_color)
 
 
 def btn_question_update_hover_enter(e):
     status_label.config(
         text="Aktualne nacitanu otazku s odpovedou vieme upravit priamo v poli.\nPo stlaceni tlacidla 'Update' sa ulozi nova verzia otazky do setu")
 
+    btn_question_update.config(bg=yellow_color_highlight)
 
 def btn_question_update_hover_leave(e):
     status_label.config(text="")
 
+    btn_question_update.config(bg=yellow_color)
 
 def btn_clear_hover_enter(e):
     status_label.config(
         text="Tlacidlo vymaze obsah v poliach 'Question' a 'Answer'.\nOtazka zostane v sete otazok nezmenena.")
 
+    btn_clear.config(bg=orange_color_highlight)
 
 def btn_clear_hover_leave(e):
     status_label.config(text="")
 
+    btn_clear.config(bg=orange_color)
 
 def btn_reset_hover_enter(e):
     status_label.config(
         text="Nanovo nacita set otazok a zresetuje postup v otazkach.")
 
+    btn_reset.config(bg=red_color_highlight)
 
 def btn_reset_hover_leave(e):
     status_label.config(text="")
 
+    btn_reset.config(bg=red_color)
 
 ###################################EXAM SETTING###########################################
 def set_question_amount(val):
@@ -501,20 +540,36 @@ txt_field_answer.place(height=200, width=390, x=5, y=260)
 
 #########################################BUTTONS#################################################
 
-btn_clear = tk.Button(root, text="Clear", bg="#F9CB9C", command=clear)
-btn_reset = tk.Button(root, text="Reset", bg="#EA9999", command=reset)
+green_color = "#B6D7A8"
+red_color = "#EA9999"
+strong_red_color = "#F22672"
+orange_color = "#F9CB9C"
+yellow_color = "#FFE599"
+default_grey = "#F0F0EF"
+
+green_color_highlight = "#99C785"
+red_color_highlight = "#E58080"
+strong_red_color_highlight = "#D90D58"
+orange_color_highlight = "#F7B36E"
+yellow_color_highlight = "#FFD966"
+default_grey_highlight = "#DADAD8"
+
+
+
+btn_clear = tk.Button(root, text="Clear", bg=orange_color, command=clear)
+btn_reset = tk.Button(root, text="Reset", bg=red_color, command=reset)
 
 btn_random_question = tk.Button(root, text="Random", command=random_question)
 btn_in_order_question = tk.Button(root, text="Next", command=in_order_question)
 
-btn_question_answer = tk.Button(root, text="Answer", bg="#B6D7A8", command=question_answer)
+btn_question_answer = tk.Button(root, text="Answer", bg=green_color, command=question_answer)
 
-btn_question_update = tk.Button(root, text="Update", bg="#FFE599", command=update_question_answer)
-btn_question_add = tk.Button(root, text="Add", bg="#FFE599", command=add_question_answer)
-btn_question_delete = tk.Button(root, text="Delete", bg="#EA9999", command=delete_question_answer)
+btn_question_update = tk.Button(root, text="Update", bg=yellow_color, command=update_question_answer)
+btn_question_add = tk.Button(root, text="Add", bg=green_color, command=add_question_answer)
+btn_question_delete = tk.Button(root, text="Delete", bg=red_color, command=delete_question_answer)
 
-btn_load = tk.Button(root, text="Load", bg="#F22672", command=load_questions)
-btn_new = tk.Button(root, text="New", bg="#B6D7A8", command=new_question_file)
+btn_load = tk.Button(root, text="Load", bg=strong_red_color, command=load_questions)
+btn_new = tk.Button(root, text="New", bg=green_color, command=new_question_file)
 
 status_label = tk.Label(root, text="", anchor="center")
 
@@ -551,6 +606,11 @@ btn_random_question.bind("<Leave>", btn_random_question_hover_leave)
 
 btn_in_order_question.bind("<Enter>", btn_in_order_question_hover_enter)
 btn_in_order_question.bind("<Leave>", btn_in_order_question_hover_leave)
+
+
+
+btn_question_answer.bind("<Enter>", btn_question_answer_hover_enter)
+btn_question_answer.bind("<Leave>", btn_question_answer_hover_leave)
 
 btn_load.bind("<Enter>", btn_load_hover_enter)
 btn_load.bind("<Leave>", btn_load_hover_leave)

@@ -1,4 +1,4 @@
-otazka,odpoved
+otazka,odpovede
 Čo je to projekt?,Projekt je dočasné úsilie s cieľom vytvoriť unikátny produkt alebo službu.
 Čo nie je projekt?,"1.opakovaná činnosť
 2.štandardné pracovné postupy
@@ -92,16 +92,10 @@ Aké sú odlišnosti propjektového riadenia softvéru od iných prjektov?,"1.ne
 3.veľké softvérové projekty sú zvyčajne jednorazové
 4.rapídny vývoj technológií
 5.flexibilný"
-"Ktorým z projektových štandardov by ste sa inšpirovali pri zostavení projektového tímu a výbere projektového manažéra? 
-
-","1.PRINCE2 - metóda riadenia projektov
-2.Project Management Body of Knowledge - súbor najlepších praktík na riadenie projektov
-3.IPMA - súbor požadovaných spôsobilos; na riadenie projektov
-"
-"Z čoho pozostá životny cyklus softvérového projektu?
-
-","Životný cyklus SW projektu je séria fáz, ktorými projekt prechádza od začiatku do konca.
-"
+Aké úlohy manažmentu softvérového projektu?,"1.dodanie načas
+2.dodanie v rámci rozpočtu
+3.uspokojenie požiadaviek klienta"
+Z čoho pozostá životny cyklus softvérového projektu?,"Životný cyklus SW projektu je séria fáz, ktorými projekt prechádza od začiatku do konca."
 Čo je to fáza(eatapa) v životnom cykle projektu?,"je súbor logicky súvisiacich projektových akIvít, ktoré sú ukončené dokončením jedného alebo viacerých výstupov."
 Čo je to miľník v životnom cykle projektu?,"oddeľuje jednotlivé fázy. Predstavujú zásadné termíny alebo dokončené práce, ktoré sú nutné k dosiahnuIu cieľa projektu. Je to udalosť, ktorá nemá žiadnu dobu trvania a k jej dosiahnutiu je potrebné vykonať viacero aktivít."
 Vymenuje procesy manažnemtu projektu(5),"1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
@@ -329,15 +323,12 @@ Uveďte aspoň 3 príklady odporúčania pri písaní WBS.,"1. Každá jednotka 
 7.Najnižšiu úroveň je možné vhodne odhadnúť (čas, náklady)"
 Čo je to OBS?,"Organizational Breakdown Structure, popisuje čo má ktorý človek robiť na projekte."
 Čo vychádza z OBS?,Matica zodpovednosti
-"Čo je to RACI matica? 
-
-","Matica zodpovednosti
+Čo je to RACI matica? ,"Matica zodpovednosti
 
 R – responsible
 A – accountable
 C – consulted
-I – informed
-"
+I – informed"
 Čo popisuje RACI matica?,"Vyjadruje úroveň spoluúčasti, aktivity, úlohy a rozhodnutia"
 "Vymenujte činnosti, ktoré spadajú pod plánovanie času.","1. Definovanie činnností
 2. Zoradenie činností
@@ -393,12 +384,9 @@ Podhodnotenie
 2.zmenšuje šance na včasné dodanie projektu
 3.deštrukBvna dynamika v oneskorenom projekte ju ešte viac zhorší
 4.prudko rastú náklady"
-"Vymenujte techniky na vytváranie časového plánu.
-
-","1. Ganttov diagram
+Vymenujte techniky na vytváranie časového plánu.,"1. Ganttov diagram
 2. Analýza kritickej cesty
-3. Metóda PERT
-"
+3. Metóda PERT"
 O čom hovorí Ganttov diagram?,"Znázorňuje všetky činnosti v projekte s dátumom zahájenia a ukončenia. 
 
 jedna činnosť = jeden riadok"
@@ -413,3 +401,62 @@ projektu, časový plán projektu, požiadavky na zdroje."
 Aké druhy nákladov poznáme?,"1. priame náklady: vieme ich jednoznačne vyčísliť
 2. nepriame náklady: nie je možné ich jednoznačne prideliť jednému projektu
 3. režijné náklady: náklady na réžiu"
+Definujte riziko.,"Je to udalosť, ktorá ohrozuje alebo má dopad na úspešné dodanie projektu. Riziko nemusí byř vždy negatívne."
+Popíšte rozdiel medzi rizikom a problémom.,"Problém = niečo, čo sa už stalo a treba to akútne riešiť
+Riziko = ešte sa to nestalo ale vieme, že ak sa to stane, bude to treba riešiť
+Problém je riziko, ktoré sa naplnilo"
+Čo je výsledkom riadenia rizík.,"Riziko sa stáva zvládnuteľným. Neznamená to, že riziko zmizne alebo, že ho máme úplne pod kontorolou."
+Aký je rozdiel medzi riadením rizík a analýzou rizík?,"Riadenie rizík = Monitorovanie a vykazovanie, sledujeme ako sa vyvíja situácia, plánujeme koľko zdrojov môžme vyčleniť, rieši situáciu ak už riziko nastalo
+Analýza rizík = Snažíme sa identifikovať aké rôzne riziká môžu nastať, aký budú mať dopad a aké opatrenia by sme mali použiť ak nastanú"
+Na aké riziká by sme sa mali sústrediť?,"80% rizík má tak malú pravdepodobosť alebo dopad, že sa nikdy nestanú. Mali by sme sa sústrediť na 20% tých ""fatálnych"""
+Čo by sme mali mať uvedené pre každé riziko pri správnom manažmente rizík? ,"1. Akú kategóriu v rámci projektu nám ovplyvní
+2. Kto za neho preberie zodpovednosť (nemyslí sa, kto bude za neho vinný ale kto to bude riešiť)"
+Pomocou čoho sa ohocnocujú riziká? Popíšte postup.,"Pomocou grafu (matice), ktorá má na y osi pravdepodobnosť nastatia a na x osi dopad. 
+Určím si hranicu tolerancie = čiara, ktorá oddeľuje pravý horný roh, len to čo je nad hranicou tolerancie sú riziká, ktorými sa budem zaoberať a denne ich monitorovať, zvyšok má buď veľmi malú pravdepodobnosť (nikdy sa nestane) alebo veľmi malý dopad (nezaváži mi to moc na projekte)"
+Akými spôsobmi môžem riešiť riziká?,"1. predchádzanie : zabránim vzniku problému
+2. odmedzenie : zmenším pravdepodobnosť, že situácia nastane
+3. prenesenie : napr. v zmluve prenesiem časť zodpovednosti na dodávateľov
+4. rezervný plán : ak sa riziko naplní, pôjdem podľa záložného plánu
+5. akceptovanie : zmierim sa s tým, že to neviem ovplyvniť alebo si poviem, že je tak malá pravdepodobnosť, źe to nastane, že to nebudem riešiť"
+Aké dva faktory sa zohľadňujú pri výbere opatrení na riešenie rizika?,Cena opatrenia (koľko ma to bude stáť) a dopad (čo to reálne vyrieši)
+Aké činnosti sa vykonávajú pri výbere opatrení aby sa predišlo hádzaniu viny na projektového manažéra? ,"1. Dávam svoje kroky zvažovať kadekomu aby som sa vedel odvolať, že ""aha on mi to schválil""
+2. Svoje kroky v čase evidujem v registri rizík"
+Definujte startup,"Podnikanie, ktoré má potenciál mať veľmi vysokú hodnotu za veľmi krátky čas."
+Čo môže byť výsledkom startupu?,"Nemusí to byť len nová technológia, môže to byť produkt, po ktorom je dopyt alebo nový biznis model."
+Čo je to valuácia?,Ohodnocovanie startupov
+"Aký je hlavný rozdiel v ""korporátnej"" a startupovej mentalite?","Korporátna: ""Stačí mi jedno nie a skončil som"". = Ak ma raz niekto pošle do prdele nikam sa ďalej nepohnem
+Startup: ""Stačí mi 1 áno a idem ďalej"" = Stačí ak presvedčím 1 investora a môžem pokračovat"
+V akých fázach projektu by malo prebiehať monitorovanie a kontrola?,"Vo všetkých, bez toho nemôžem riadiť projekt."
+Kedy môže začať realizácia projektu?,Keď mám povolenie a všetko je dobre naplánované.
+Čo je hlavným cieľom monitoringu a kontroly?,"Aby sme sa po odklonení od ""baseline"" (projektového plánu) vedeli vrátiť späť"
+Aké dva druhy opatrení využívame v priebehu kontoly a monitoringu aby sme sa vrátili k pôvodnému plánu? ,"1. Preventívne : aby sme sa od plánu neodklonili ak to hrozí - napr. mám deadline na január ale ja viem, že v decembri si všetci budú chcieť zobrať dovolenku, tak to spravíme skôr
+2. Nápravné : aby sme sa vrátili ak už sme sa odklonili - meškáme s termínom lebo niekto ochorel, tak potiahneme nadčas"
+Čo je podstatnou súčasťou fázy vykonávania projektu?,Komunikácia ľudí a ich riadenie
+Prečo vždy ukladáme pôvodnú verziu plánu riadenia? ,"Pretože voči nemu potom v záverečnej fáze porovnávame, čo išlo a nešlo ako malo aby sme si mohli zobrať ponaučenie."
+Čo je to kick-off meeting?,"Je to meeting na ktorom oficiálne povieme, že začíname realizáciu zákazníkom a partnerom. Pomyslené ""strihanie červenej pásky"""
+Pomenujte dobré odporúčanie pre kick-off meeting.,"1. Mal by byť prítomný každý člen tímu, zákazníci aj partneri
+2. Každý by mal vidieť zmysel prijektu, prečo to robíme.
+3. Sám musím robiť, že to dáme
+4. Mal by sa zoznámiť tím a naplánovať komunikáciu
+5. Je dôležité stretnúť sa s protistranou a vykomunikovať si očakávania
+6. Ideálne je mať predtým interný meeting aby sa niekto neopýtal na Matúša
+7. Prezentujem tam plán, ktorý nemusí byť úplne hotový"
+Čo je hlavným cieľom kontroly?,"Zisťovať odchýlky od plánu (čas, náklady, zdroje)"
+Ako môžem kontrolovať plnenie termínov?,"1. Môžem kontrolovať začaté úlohy a riešiť, či ma tam niečo nebrzdí
+2. Môžem monitorovať aj ešte nezačaté a už ukončené úlohy ale to stojí veľa času
+3. Dokončené úlohy porovnávam s tým koľko zdrojov na ne bolo použitých, pre úlohy mimo kritickej cesty to nie je podstatné"
+Prečo je dôležitá dôsledná kontrola zdrojov a nákladov?,"Ak to budem robiť len preto aby to bolo, nebude to presné a nepomôže mi to."
+"Popíšte problémy, ktoré nastávajú pri kontrolách?","1. Príliš časté kontroly alebo žiadne alebo príliš malé kontroly
+2. Nehospodárnosť: stojí ma to viac ako je reálny prínos
+3. Subjektivita: Nehovoríme realitu ale to, čo chce nadriadený počuť"
+Popíšte jednoduchý spôsob reportovania stavu projektu.,"Semafór pri ktorom mám štádia napr. V poriadku, Pozor, Tu sa niečo dojebalo"
+Prečo je dôležité evidovať zamietnostie opatrenia pri kontrole?,"Aby ma niekto potom nemohol zdrbať, že som ""nič nespravil"". Ja im to ukážem a poviem ""Aha, ja som to chcel riešiť ale tento tu mi povedal, že sa mám na to vykašlať."""
+Popíšte issue log.,"Je to zoznam bodov aby sme dospeli k nejakému riešeniu, do ktorého môžu prispievať všetci členovia tímu ale zodpovedný je manažér."
+Popíšte rôzne možnosti riešenia problému v projekte.,"1. Metóda štrukturovaných porád: prednesenie problému a doskusia s moderátorom
+2. Metóda prepnutia: dve protistrany majú prezentácie a chcem dosiahnuť konsenzus
+3. Metóda 6 otázok: Čo je problém a čo nie? Kedy problém nastáva a nenastáva? Kde nastáva? Kto prispieva príčinami? Ako zistím, že mám problém?"
+Prečo je dôležité nepreskakovať fázu ukončenia projektu?,"1. Treba dokončiť všetky úlohy
+2. Riešim preklopenie do prevázdky a SLA (zmluva o supporte)
+3. Treba spísať záverečnú správu a vyhodnotiť finančné a iné záväzky"
+Na čo by sme sa mali zamerať pri riadení zmien?,"Na to, čo sa bude diať, keď príde zmena, ako ju prijmeme alebo zamietneme. "
+Aký je rozdiel medzi zmenou a odchýlkou v kontexte riadenia zmien v projekte?,"Zmena je implementovaná odchýlka tj. zmena je niečo, čo mi mení projektový plán, odchýlka ja niečo, s čím sme nepočítali ale nezmenilo to plán."
