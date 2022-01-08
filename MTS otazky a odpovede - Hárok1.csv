@@ -296,7 +296,10 @@ Vymenuj časti v pláne riadenia projektu ktoré nie sú variabilné na základe
 2.definuje hranice projektu
 3.čo má byť v rámci projektu vyprodukované (produkty, služby, dokumenty a ďalšie výsledky)"
 Čo by malo obsahovať definovanie rozsahu?,"1. Akceptačné kritéria
-2. "
+2. Dodávky – všetky produkty, výsledky alebo služby, ktoré sú potrebné na realizáciu projektu
+3. Čo nebude realizované (uvádza sa, čo sa domnieva, že sa bude realizovať)
+4. Obmedzenia
+5. Predpoklady"
 Čo je to WBS?,"Work breakdown structure - dekompozícia projektu, hierarchická štruktúra vecí, ktorá máme dodať
 Prehľadne ukazuje aktivity"
 Čo definuje a nedefinuje WBS?,"WBS definuje ČO bude dodané (výsledok úsilia), nie činnosti ako to bude srpavené a kedy."
