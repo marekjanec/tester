@@ -460,3 +460,75 @@ Prečo je dôležité nepreskakovať fázu ukončenia projektu?,"1. Treba dokon�
 3. Treba spísať záverečnú správu a vyhodnotiť finančné a iné záväzky"
 Na čo by sme sa mali zamerať pri riadení zmien?,"Na to, čo sa bude diať, keď príde zmena, ako ju prijmeme alebo zamietneme. "
 Aký je rozdiel medzi zmenou a odchýlkou v kontexte riadenia zmien v projekte?,"Zmena je implementovaná odchýlka tj. zmena je niečo, čo mi mení projektový plán, odchýlka ja niečo, s čím sme nepočítali ale nezmenilo to plán."
+Aké tri triedy zmien poznáme a kto ich schvaľuje?,"1. Zásadný vplyv (trieda A) : musí byť bezodkladne implementovaná, napr. pri zmene legislatívy, schvaľuje štatutár
+2. Významná zmena (trieda B) : významne mi mení plán, býva dané napr. že ak sa prekročí rozpoćet o xy tak je to trieda A, ak je to menej, tak trieda B, schvaľuje to riadiaci výbor
+3. Bez významného vplyvu (trieda C) : menšie zmeny, schvaľuje projektový manažér ale musí to byť niekde zaevidované
+
+"
+Aké dva typy zmien poznáme podľa toho kto ich vyvolal? Uveďte príklady.,"1. zmeny vyvolané okolím : napr. zmena požiadaviek zákazníka alebo vlastníka projektu, legislatívne zmeny, zmeny na trhu (napr. v dôsledku pandémie)
+2. zmeny vyvolané samotným projektom : prešvihnuté odhady, nedostatočné plánovanie času zdrojov a nákladov"
+Popíšte proces schvaľovania zmeny.,"1. Dostanem podnet, či už vyvolaný okolím alebo projektom
+2. Predložím návrh na zmenu
+3. Prebehne analýza zmeny (tvorba variantov, analýza dopadov, výber najlepšieho variantu)
+4. Realizujem zmeny a monitorujem
+5. Schválim a vytvorím záverečnú správu"
+Uveďte dobré rady pri schvaľovaní zmien.,"1. Aj keď zmenu zamietnem, mal by som zaznamenať prečo som to urobil
+2. Vždy by sme mali komunikovať s tými, čo zmenu vudú implementovať
+3. Zmena by mala byť schválená príslušným orgánom
+4. Zmena by mala byť komunikovaná zákazníkom"
+Ktoré štyri činnosti sú hlavné pri riadení ľudí a zdrojov?,"1. Plánovanie ľudí a zdrojov : akí ľudia budú kde + zodpovednosti
+2. Zostavovanie tímu : nie len na papieri
+3. Rozvoj tímu : potrebujeme aby sa tím zladil a fungoval
+4. Riadenie tímu : riešeni konfliktov, sledovanie spätnej väzby"
+"Čo je to kapacitný plán, kedy sa vytvára a prečo ho robím?","Je to plán riadenia zamestnancov, organizačná schéma ľudí a zodpovedností.
+Vytvára sa v rámci plánovania ľudí a zdrojov.
+Robím ho preto aby som nemala ľudí vo firme, ktorí sú na benchi = nie sú pridelení na projekt"
+Kedy musím revidovať kapacitný plán?,"Keď zistím, že potrebujem kapacitu, ktorú nemám, napr. sľúbili mi architekta ale nakoniec je na inom projekte."
+Na čo slúži Dantov diagram?,"Na to aby som zistila, či sa mi nemôže stať, že nejaká činnosť vyžaduje viac ľudí ako mám."
+"Ako môžem riešiť situáciu, keď zistím, že potrebujem viac ľudí ako mám?","1. Činnosť môžem natiahnuť v čase alebo presunúť v rámci časového plánu (nemusí ísť súbežne s inou)
+2. Riešim zmeny termínov so zákazníkom"
+Akým spôsobom môžem získať ľudí na projekt?,"1. Prijmem nových ľudí do pracovného pomeru
+2. Krátkodobá spolupráca s expertmi, ktorých potrebujem na chvílu
+3. Outsourcing = celé to dám urobiť inej firme"
+Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.,"Dostupnosť človeka, náklady, hĺbku skúseností v danej oblasti, schopnosť použiť svoje znalosti, znalosť prostredia zákazníka a domény, schopnosť spolupracovať, medzinárodné faktory"
+Akými spôsobmi môžem rozvíjať projektový tím?,"1. Vzdelávanie a tréningy v nejakej oblasti (preverovanie znalostí z praxe)
+2. Koučovanie: pracujem s presvedčením a zaoberá sa hĺbkou človeka
+3. Mentoring: podpora od skúsenejšieho človeka  v danej oblasti"
+"Uveďte rozdiely medzi tímom, skupinou a komunitou.","skupina = jednolivci, ktorí pracujú vedľa seba, majú spoločného manažéra, ale ich úohy nie sú závislé
+tím = sústredia sa na dosiahnutie spoločného cieľa, ich úlohy sú závislé, potrebujú dobré vedenie
+komunita = ľudia majú niečo spoločné ale nesnažia sa o spoločné dosiahnutoe cieľa (napr. klub priaznivcov psov)"
+Pri akých činnostiach v rámci tvorby SW je vhodná skupina a nie tím?,Napr. pri technickej podpore.
+Čo je dôležité pre správne fungovanie tímu? Uveďte príklady.,"1. Treba pripomínať spoločný cieľ
+2. vzájomná zodpovednosť a akcieschopnosť navzájom
+3. konštruktívne konflikty: vznikajú z nich dobré riešenia
+4. vzajomná dôvera, otvorenosť a informovanosť
+5. vodcovské schopnosti manažéra"
+Pomenujte fázy vývoja tímu.,"1. Forming: spoznávanie
+2. Storming: konflikty
+3. Norming: sadnutie si
+4. Performing: Vysoká efektivita
+5. Rozpustenie"
+Aké funkcie má komunikácia tíme?,"1. Informačná: poskytovanie informácii
+2. Motivačná: motivovanie k naplneniu cieľa
+3. Kontrolná: kontrolujem, či bolo niečo vykonané, či to bolo dobre pochopené
+4. Emotívna: vyjadrujem cítenie a náladu"
+Prečo je dôležitá distribúcia údajov v tíme?,Nie každý musí vedieť všetko. Veľa informácii môže byť rovnako zlé ako málo informácii.
+Aký je rozdiel medzi účinnosťou a účelnosťou informácii?,"Účinnosť = dávam potrebné informácie
+Účelnosť = sú podané v správny čas"
+Kde sa tvorí plán komunikácie?,Na kick.off meetingu
+Prečo nie je dobré posielať maily o všetkom?,Môže prísť k zahlteniu a nikto to nebude sledovať.
+Čo je to implicitná komunikácia?,"Nepoviem narovinu to, čo chcem a môžem to neskôr ohnúť ako potrebujem."
+Popíšte hygienický a motivačný faktor motivácie a uveďte príklady.,"Hygienický faktor = krátkodobý efekt, ktoré musia byť naplnené napr. peniaze ale nemotivujú zamestnanca
+Motivačný faktor = dlhodobý efekt, nemusia byť naplnené ale keď sú motivuje to ľudí dopredu, napr. zamestnanecké benefity"
+Aké typy činností máme v rámci projektu?,"1. Dôležité, naliehavé: Reaktívne úlohy - kríza, činnosti s pevnými termínmi
+2. Dôležité, nenaliehavé: Proaktívne úlohy - tvoria vzťahy (mali by sme riešiť najviac)
+3. Nedôležité, naliehavé: Priority niekoho iného
+4. Nedôležité, nenaliehavé: Zabíjanie času - bežné zbytočné činnosti"
+Aké výsledky konfliktu sú možné?,"1. výhra /prehra: jeden má všetko a druhý nič - toto v realite nefunguje
+2. kompromis: akceptovateľné ale nie ideálne
+3. Win/win : chceme dosiahnuť"
+Uveďte typy ako produktívne riešiť konflikt.,"1. emocionálny odstup
+2. vecná diskusia
+3. počúvanie a snaha o dobrý úmysel
+4. nepopierať, že konflikt existuje
+5. navrhnutie spôsobu riešenia"
