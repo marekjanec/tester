@@ -37,6 +37,7 @@ exam_question_amount = 0
 exam_score = 0
 exam = False
 question = []
+question_btn_clicked = False
 
 
 def clear():
@@ -66,6 +67,7 @@ def random_question():
     global question_index
     global counter
     global question
+    global question_btn_clicked
 
     txt_field_question.delete("1.0", "end")
     txt_field_answer.delete("1.0", "end")
@@ -81,11 +83,14 @@ def random_question():
 
     counter += 1
 
+    question_btn_clicked = True
+
 
 def in_order_question():
     global question_index
     global counter
     global question
+    global question_btn_clicked
 
     txt_field_question.delete("1.0", "end")
     txt_field_answer.delete("1.0", "end")
@@ -100,19 +105,25 @@ def in_order_question():
 
     counter += 1
 
+    question_btn_clicked = True
+
 
 def question_answer():
     global question_index
+    global question_btn_clicked
 
-    txt_field_answer.insert(INSERT, pop_list_question[question_index][1])
-    pop_list_question.pop(pop_list_question.index(pop_list_question[question_index]))
+    if question_btn_clicked:
+        txt_field_answer.insert(INSERT, pop_list_question[question_index][1])
+        pop_list_question.pop(pop_list_question.index(pop_list_question[question_index]))
 
-    if pb['value'] < 100:
-        pb['value'] = (100 / amount_question) * counter
-        value_label['text'] = update_progress_label()
+        if pb['value'] < 100:
+            pb['value'] = (100 / amount_question) * counter
+            value_label['text'] = update_progress_label()
 
-    if counter == amount_question and not exam:
-        showinfo(message='Chill time!')
+        if counter == amount_question and not exam:
+            showinfo(message='Chill time!')
+
+        question_btn_clicked = False
 
 
 def update_progress_label():
@@ -355,6 +366,7 @@ def btn_reset_hover_enter(e):
 def btn_reset_hover_leave(e):
     status_label.config(text="")
 
+
 ###################################EXAM SETTING###########################################
 def set_question_amount(val):
     global exam_question_amount
@@ -462,6 +474,7 @@ def open_exam_settings():
 
     scala.place(height=40, width=290, x=5, y=40)
 
+
 ########################################PROGRESS BAR###################################################
 
 
@@ -480,8 +493,8 @@ label_answer = tk.Label(root, text="Answer")
 label_question.place(height=20, width=200, x=100, y=5)
 label_answer.place(height=20, width=200, x=100, y=235)
 
-txt_field_question = tk.Text(root,wrap=WORD)
-txt_field_answer = tk.Text(root,wrap=WORD)
+txt_field_question = tk.Text(root, wrap=WORD)
+txt_field_answer = tk.Text(root, wrap=WORD)
 
 txt_field_question.place(height=200, width=390, x=5, y=30)
 txt_field_answer.place(height=200, width=390, x=5, y=260)
@@ -559,10 +572,6 @@ btn_clear.bind("<Leave>", btn_clear_hover_leave)
 
 btn_reset.bind("<Enter>", btn_reset_hover_enter)
 btn_reset.bind("<Leave>", btn_reset_hover_leave)
-
-
-
-
 
 ###########################################MENU################################################
 
