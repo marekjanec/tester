@@ -155,7 +155,7 @@ def update_question_answer():
     showinfo(message='Otazka aktualizovana!')
 
 
-def load_questions():
+def load_questions(file):
     global amount_question
     global pop_list_question
     global otazky
@@ -165,7 +165,7 @@ def load_questions():
     otazky.clear()
     pop_list_question.clear()
 
-    filename = filedialog.askopenfilename()
+    filename = file
 
     file = open(filename, encoding="utf-8")
     csvreader = csv.reader(file)
@@ -203,6 +203,17 @@ def load_questions():
     value_label['text'] = update_progress_label()
 
     file_loaded = True
+
+
+def load_file():
+    file = filedialog.askopenfilename()
+    file_root = file.split(".")
+    if file_root[len(file_root) - 1] == "json":
+        load_saved_tester(file)
+    elif file_root[len(file_root) - 1] == "csv":
+        load_questions(file)
+    else:
+        messagebox.showinfo('Warning', 'Zlý formát súboru!')
 
 
 def load_exam():
@@ -293,7 +304,7 @@ def new_question_file():
 ###########################################HOVER TEXT ON BUTTONS################################################
 
 def btn_random_question_hover_enter(e):
-    status_label.config(text="Nacita nahodnu otazku bez opakovania.")
+    status_label.config(text="Načíta náhodnú otázku bez opakovania.")
     btn_random_question.config(bg=default_grey_highlight)
 
 
@@ -303,7 +314,7 @@ def btn_random_question_hover_leave(e):
 
 
 def btn_in_order_question_hover_enter(e):
-    status_label.config(text="Nacita nasleduju otazku.")
+    status_label.config(text="Načíta následujúcu otázku.")
     btn_in_order_question.config(bg=default_grey_highlight)
 
 
@@ -322,7 +333,7 @@ def btn_question_answer_hover_leave(e):
 
 def btn_load_hover_enter(e):
     status_label.config(
-        text="Pre nacitanie otazok je potrebne vlozit .csv subor s 2 stlpcami s headrami\n'otazka' a 'odpoved', prvy stlpec su otazky a druhy stlpce su odpovede.")
+        text="Vyber uložený tester v .json alebo otázky v .csv súbore s 2 stĺpcami s headrami\n'otazka' a 'odpoved', prvý stĺpec sú otázky a druhý stĺpec sú odpovede.")
 
     if file_loaded:
         btn_load.config(bg=green_color_highlight)
@@ -341,7 +352,7 @@ def btn_load_hover_leave(e):
 
 def btn_new_hover_enter(e):
     status_label.config(
-        text="Vytvorenie prazdneho suboru pre otazky.\nPre pracu so suborom je potrebneho ho nacitat cez tlacidlo 'Load'")
+        text="Vytvorenie prázdneho súboru pre otázky.\nPre prácu so súborom je potrebné ho načítať cez tlačidlo 'Load'")
     btn_new.config(bg=green_color_highlight)
 
 
@@ -352,7 +363,7 @@ def btn_new_hover_leave(e):
 
 def btn_question_add_hover_enter(e):
     status_label.config(
-        text="Po nacitani setu otazok moze pridat novu otazku, vypisanim pola 'Question' a 'Answer'.\nPo stlaceni tlacidla 'Add' sa otazka prida do setu.")
+        text="Po načítaní setu otázok môže pridať novú otázku, vypísaním poľa 'Question' a 'Answer'.\nPo stlačení tlačidla 'Add' sa otázka pridá do setu.")
     btn_question_add.config(bg=green_color_highlight)
 
 
@@ -363,7 +374,7 @@ def btn_question_add_hover_leave(e):
 
 def btn_question_delete_hover_enter(e):
     status_label.config(
-        text="Aktualne nacitana otazka v poli 'Question' sa natrvalo vymaze zo setu otazok.\n Vymazanie po stlaceni tlacidla 'Delete' je potrebne este potvdit.")
+        text="Aktuálne načítaná otázka v poli 'Question' sa natrvalo vymaže zo setu otázok.\n Vymazanie po stlačeni tlačidla 'Delete' je potrebné ešte potvdiť.")
     btn_question_delete.config(bg=red_color_highlight)
 
 
@@ -374,7 +385,7 @@ def btn_question_delete_hover_leave(e):
 
 def btn_question_update_hover_enter(e):
     status_label.config(
-        text="Aktualne nacitanu otazku s odpovedou vieme upravit priamo v poli.\nPo stlaceni tlacidla 'Update' sa ulozi nova verzia otazky do setu")
+        text="Aktuálne načítanú otázku s odpoveďou vieme upraviť priamo v poli.\nPo stlačení tlačidla 'Update' sa uloží nová verzia otázky do setu")
     btn_question_update.config(bg=yellow_color_highlight)
 
 
@@ -385,7 +396,7 @@ def btn_question_update_hover_leave(e):
 
 def btn_clear_hover_enter(e):
     status_label.config(
-        text="Tlacidlo vymaze obsah v poliach 'Question' a 'Answer'.\nOtazka zostane v sete otazok nezmenena.")
+        text="Tlačidlo vymaže obsah v poliach 'Question' a 'Answer'.\nOtázka zostane v sete otázok nezmenená.")
     btn_clear.config(bg=orange_color_highlight)
 
 
@@ -396,7 +407,7 @@ def btn_clear_hover_leave(e):
 
 def btn_reset_hover_enter(e):
     status_label.config(
-        text="Nanovo nacita set otazok a zresetuje postup v otazkach.")
+        text="Nanovo načíta set otázok a zresetuje postup v otázkach.")
     btn_reset.config(bg=red_color_highlight)
 
 
@@ -419,7 +430,7 @@ def on_closing():
 root.protocol("WM_DELETE_WINDOW", on_closing)
 
 
-def load_saved_tester():
+def load_saved_tester(file):
     global file_loaded
     global question_index
     global counter
@@ -428,8 +439,6 @@ def load_saved_tester():
     global pop_list_question
     global filename
     global question
-
-    file = filedialog.askopenfilename()
 
     with open(file, "r") as f:
         data = json.load(f)
@@ -662,7 +671,7 @@ btn_question_update = tk.Button(root, text="Update", bg=yellow_color, command=up
 btn_question_add = tk.Button(root, text="Add", bg=green_color, command=add_question_answer)
 btn_question_delete = tk.Button(root, text="Delete", bg=red_color, command=delete_question_answer)
 
-btn_load = tk.Button(root, text="Load", bg=strong_red_color, command=load_questions)
+btn_load = tk.Button(root, text="Load", bg=strong_red_color, command=load_file)
 btn_new = tk.Button(root, text="New", bg=green_color, command=new_question_file)
 
 status_label = tk.Label(root, text="", anchor="center")
