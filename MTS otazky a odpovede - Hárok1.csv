@@ -1,4 +1,4 @@
-otazka,odpovede
+otazka,odpoved
 Čo je to projekt?,Projekt je dočasné úsilie s cieľom vytvoriť unikátny produkt alebo službu.
 Čo nie je projekt?,"1.opakovaná činnosť
 2.štandardné pracovné postupy
@@ -14,11 +14,14 @@ Kedy sa projekt ukončí?,"1.dosiahnutie cieľov projektu alebo naopak nenaplnen
 1.unikátny produkt
 2.vylepšený produkt,služba, dokument
 3.kombinácia uvedených)"
-Aké sú projektové kritériá?,"1.jedinečneosť
-2.obmedzenosť(čas, peniaze, zdroje)
-3.Potreba realizovania projektovým Qmom
+"Aké sú projektové kritériá?
+
+","1.jedinečneosť
+2.obmedzenosť(čas, peniaze, zdroje = trojimpertív)
+3.Potreba realizovania projektovým tímom
 4.Komplexnosť a zložitosť
-5.Vysoká miera rizika"
+5.Vysoká miera rizika
+"
 Čo je dôvod vzniku prohektu? Iniciovanie projektu?,"1.Požiadavky a potreby stackeholder-ov
 2.Regulačné, právne alebo sociálne požiadavky
 3.Implementácia alebo zmena biznisovej alebo technickej stratégie
@@ -92,12 +95,20 @@ Aké sú odlišnosti propjektového riadenia softvéru od iných prjektov?,"1.ne
 3.veľké softvérové projekty sú zvyčajne jednorazové
 4.rapídny vývoj technológií
 5.flexibilný"
-Aké úlohy manažmentu softvérového projektu?,"1.dodanie načas
+"Aké sú úlohy manažmentu softvérového projektu?
+
+","1.dodanie načas
 2.dodanie v rámci rozpočtu
-3.uspokojenie požiadaviek klienta"
+3.uspokojenie požiadaviek klienta
+"
 Z čoho pozostá životny cyklus softvérového projektu?,"Životný cyklus SW projektu je séria fáz, ktorými projekt prechádza od začiatku do konca."
 Čo je to fáza(eatapa) v životnom cykle projektu?,"je súbor logicky súvisiacich projektových akIvít, ktoré sú ukončené dokončením jedného alebo viacerých výstupov."
-Čo je to miľník v životnom cykle projektu?,"oddeľuje jednotlivé fázy. Predstavujú zásadné termíny alebo dokončené práce, ktoré sú nutné k dosiahnuIu cieľa projektu. Je to udalosť, ktorá nemá žiadnu dobu trvania a k jej dosiahnutiu je potrebné vykonať viacero aktivít."
+"Ktorým z projektových štandardov by ste sa inšpirovali pri zostavení projektového tímu a výbere projektového manažéra? 
+
+","1.PRINCE2 - metóda riadenia projektov
+2.Project Management Body of Knowledge - súbor najlepších praktík na riadenie projektov
+3.IPMA - súbor požadovaných spôsobilosti na riadenie projektov
+"
 Vymenuje procesy manažnemtu projektu(5),"1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
 2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
 3.VYKONÁVANIE – koordinácia ľudí a zdrojov, tak aby sa plán realizoval a naplnili saciele
@@ -148,18 +159,17 @@ Môže medzi ne patriť znalosť financii a manažmentu, schopnosť komunikovať
 Popíšte kritérium leadership pri hodnotení projektových manažérov.,"Je to schopnpsť viesť tím, motivovať ľudí, kominukovať s nimi, riešiť problémy a nevypičovať niekomu keď ma naserie.
 Môže medzi ne patriť komunikácie počas konfliktov, sústrediť sa na dôležité veci."
 Popíšte rozdiely medzi manažmentom a leadershipom.,"Manažment sa zameriava skôr na administratívne úkony a udržiavanie vecí, ktoré už fungujú, zatiaľ čo leadership sa zameriava skôr na inovácie a prinášanie nových myšlienok a komunikáciu."
-Uveďte vlastnosti a schopnosti dobrého manažéra.,"Poznať dôvody a motiváciu.
-Poznať čo zadávateľ od projektu očakáva.
-Dôvera vo vlastným tím
-Tímový hráč
-Držím emócie pod kontrolou"
+"Kto je to garant výstupu?
+
+","1.zodpovedá za dodržiavanie termínov a kvalitu výstupu
+2.zadáva úlohy jednotlivým ľuďom
+3.informuje o problémoch
+"
 Komu sa zodpovedá projektový manažér?,Riadiacemu výboru.
-Z akých rolí sa skladá projektový tím?,"1. Riadiaci výbor
-2. Projektový manažér
-3. Garant výstupu
-4. Člen tímu
-5. Subject Metter Expert (SME)
-6. Administrátor"
+"Čím sa zaoberá štúdia príležitosti?
+
+","Je vhodná doba na realizáciu? Aké je vnútorné a vonkajšie prostredie organizácie?(či sa nám to ako firme oplatí robiť)
+"
 Definujte riadiaci výbor.,definuje strategické zadanie celého projektu a dohliada na jeho naplnenie
 Kto je to garant výstupu?,"Zodpovedá za dodržiavanie termínov a kvalitu výstupu
 zadáva úlohy jednotlivým ľuďom
@@ -176,7 +186,14 @@ Aké analýzy sa vykonávajú v predprojektovej príprave?,"1. Analýza prílež
 4. Logický rámec
 5. Ekonomické analýzy
 6. Predprojektové úvahy"
-Čím sa zaoberá štúdia príležitosti?,Je vhodná doba na realizáciu? Aké je vnútorné a vonkajšie prostredie organizácie?
+"Vymenujte základné časti logického rámca (4 + 1).
+
+","1. Logická postupnosť krokov
+2. Objektívne overiteľné ukazovatele
+3. Zdroje overenia
+4. Predpoklady - čo musí byť splnené(na pr. externé faktory) aby to malo dobrý výsledok
+5. Out of scope
+"
 Čím sa zaoberá štúdia uskutočniteľnosti?,"Posudzuje, či vieme uskutočniť daný projekt - rozoberá približný rozsah, začiatok a koniec projektu, náklady."
 Čo rozoberá SMART cieľ?,"Potreba porozumenia, čo má byť projektom realizované, na čo to má slúžiť a
 za akých podmienok by to malo byť realizovateľné."
@@ -249,17 +266,17 @@ K čomu pomáha plánovanie projektu?,"1.zvýšenie porozumenia
 Čo je plán projektu?,"definovanie, príprava a koordinácia všetkých súčas8 projektu
 
 najskôr sa dohodneme ČO, potom AKO a následne to spravíme"
-Čo je plán riadenia projektu?,"dokument (sada dokumentov) pokrývajúci projekt vo všetkých relevantných otázkach riadenia projektu.
+"Zjednodušuje plán projektu komunikáciu medzi skupinami zapojenými do projektu?
 
-definuje základ všetkých projektových prác a spôsob ich vykonávania."
-Plánovanie projektu obsahuje plánovanie čoho? Vymenujte 5,"1.integrácie – ako to bude celé koordinované a ako to bude fungovať spolu
-2.rozsahu projektu – ako bude definovaný a spracovaný vecný rozsah projektu
-3.času v projekte – ako bude definovaný a spracovaný harmonogram
-4.nákladov a financovania projektu – ako bude definovaný a spracovaný rozpočet projektu
-5.kvality – ako bude definovaná, sledovaná a riadená kvalita
-6.ľudí – ako bude prebiehať riadenie ľudských zdrojov na projekte
-7.komunikácie – ktoré informácie a akou formou ako často a komu budú komunikované
-8.rizík – ako budú riadené riziká"
+","Ano
+"
+"Pre čo vytvára základ WBS - work breakdown structure? 
+
+","1.rozdelenie úloh
+2.plánovanie termínov
+3.plánovanie nákladov
+4.plánovanie ľudských zdrojov.
+"
 V čom sa odlišujú plány rôznych projektov? Na čom závysia tieto odlišnosti?,"najmä v miere podrobnosti plánovacieho procesu, ktorá je priamo úmerná druhu, rozsahu, komplexnosti a neurčitosti daného projektu."
 Aké sú chyby pri plánovaní?,"1.neplánovanie(Shit you dont say)
 2.nedostatočne detailné plánovanie
@@ -281,10 +298,14 @@ Sú plány vytvorené v ostatných oblastiach projektu súčasťou celkového pl
 
 (Ano, sú)"
 zjednodušuje  plán projektu komunikáciu medzi skupinami zapojenými do projektu?,Ano
-Vymenuj časti v pláne riadenia projektu ktoré nie sú variabilné na základe typu projetku,"1.základný prehľad
-2.organizovanie projektu
-3.popis realizovaných prác
-4.časový harmonogram a rozpočet"
+"Uveďte aspoň 3 príklady prístopov pri tvorbe WBS - work breakdown structure?
+
+","1. top-down: rozklad na menšie ""podčasti"" - od najnižšej úrovne po najvyššiu
+2. bottom-up: zoskupenie vecí dokopy, ktoré spadaju do jednej kategórie
+3. myšlienková mapa: výsledkom je diagram zoskupujúci myšlienky, ktoré nemusia dávať úplne zmysel
+4. podľa štandardov: dopredu predpísaná štruktúra
+5. postup podľa analógie: podľa podobného projektu
+"
 Čo je rozsah produktu (product scope)?,"vlastnosti a funkcie charakterizujúce produkt, službu alebo výsledok"
 Čo je rozsah projektu (project scope)?,"1.akákoľvek práca, ktorá je potrebná na vytvorenie výstupov (produktu) požadovaných v rámci projektu
 2.definuje hranice projektu
@@ -296,7 +317,12 @@ Vymenuj časti v pláne riadenia projektu ktoré nie sú variabilné na základe
 5. Predpoklady"
 Čo je to WBS?,"Work breakdown structure - dekompozícia projektu, hierarchická štruktúra vecí, ktorá máme dodať
 Prehľadne ukazuje aktivity"
-Čo definuje a nedefinuje WBS?,"WBS definuje ČO bude dodané (výsledok úsilia), nie činnosti ako to bude srpavené a kedy."
+"Aké dokumenty sa chronologicky vytvárajú pri vytváraní štruktúry projektu?
+
+","1. Logický rámec
+2. WBS - work breakdown structure
+3. sieťová analýza: sieťový graf zoradených činností
+"
 Pre čo vytvára základ WBS - work breakdown structure? ,"1.plánovanie termínov
 2.rozdelenie úloh
 3.plánovanie nákladov
@@ -329,7 +355,14 @@ R – responsible
 A – accountable
 C – consulted
 I – informed"
-Čo popisuje RACI matica?,"Vyjadruje úroveň spoluúčasti, aktivity, úlohy a rozhodnutia"
+"Uveďte aspoň dve otázky, ktoré sa pýtame pri odhadovaní zdrojov.
+
+","1. Aká je náročnosť realizovania činnosti?
+2. Existuje v rozsahu projektu niečo výnimočné, čo bude mať vplyv na zdroje?
+3. Pracovala firma niekedy na podobných aktivitách? Ktorí zamestnanci to robili?
+4. Sú vo firme k dispozícií všetci zamestnanci, zariadenia a pod, ktorí sú schopní zabezpečiť splnenie úloh?
+5. Má zmysel zadať časť práce externej firme? Čo znamená outsourcing z pohľadu financií? Kedy budú k dispozícií?
+"
 "Vymenujte činnosti, ktoré spadajú pod plánovanie času.","1. Definovanie činnností
 2. Zoradenie činností
 3. Odhadovanie zdrojov
@@ -338,20 +371,27 @@ I – informed"
 Čo rieši definovanie činnosti?,"Definovanie činnosti rieši AKO to budeme robit, nie ČO budeme robiť."
 Čo je výstupom definovania činnosti?,"Zoznam činností, ktoré budú zahrnuté do časového plánu."
 Čo definuje zoradenie činnosti a čo je jeho výsledkom?,"Definuje logické väzby medzi činnosťami a výsledkom je sieťový graf, ktorý znazorňuje aký je vzťah medzi činnosťami. (Také kocečky, ktoré sa dajú presúvať)"
-Aké typy väzieb v rámci zoradenia činnosti poznáme?,"1. Koniec - začiatok : ďalšia činnosť môže začať až keď iná skončí
-2. Koniec - koniec : dve činnosti končia naraz
-3. Začiatok - začiatok : dve činnosti začínajú naraz
-4. Začiatok - koniec : ???"
+"O čom hovorí Parkinsonov zákon?
+
+","Vždy sa nájde dostatok činnosti na využitie celého času
+"
 Aké druhy sieťových grafov(2) môžu byť použité pri zoradení činností? Definujte základné vlastnosti.,"1. Uzlovo definovaný : Činnosti sú body, prechody sú prázdne šípky
 2. Hranovo definovaný : Body sú prázdne a hrany predstavujú činnosti"
 Aké typy zdrojov (3) odhadujeme pri odhadovaní zdorjov?,"1. Ľudia - tester, programátor, analytik, ...
 2. Zariadenia - server, licencia, ..
 3. Materiál - papier, toner, .."
-"Uveďte aspoň dve otázky, ktoré sa pýtame pri odhadovaní zdorjov.","1. Aká je náročnosť realizovania činnosti?
-2. Existuje v rozsahu projektu niečo výnimočné, čo bude mať vplyv na zdroje?
-3. Pracovala firma niekedy na podobných aktivitách? Ktorí zamestnanci to robili?
-4. Sú vo firme k dispozícií všetci zamestnanci, zariadenia a pod, ktorí sú schopní zabezpečiť splnenie úloh?
-5. Má zmysel zadať časť práce externej firme? Čo znamená outsourcing z pohľadu financií? Kedy budú k dispozícií?"
+"Ako ovplyvňuje projekt nadhodnotenie a podhodnotenie odhadu?
+
+","Nadhodnotenie
+1.Parkinsonov zákon – vždy sa nájde dostatok činností na využitie celého času
+2.Goldralov zákon – nikto nezačne pracovať skôr ako je to nevyhnutné
+
+Podhodnotenie
+1.vytvára pocit naliehavosti
+2.zmenšuje šance na včasné dodanie projektu
+3.deštruktívna dynamika v oneskorenom projekte ju ešte viac zhorší
+4.prudko rastú náklady
+"
 "Popíšte dva spôsoby, ktorými môžme odhadovať zdroje.","1. Viem koľko mám dispozícii zdrojov (napr. ľudí) a odhadujem koľko mi to bude trvať
 2. Mám striktný termín dodania a odhadujem koľko zdrojov (napr. ľudí) budem potrebovať aby som to stihol."
 Aké typy odhadov (3) môžme použiť pri odhadovaní času trvania?,"1. Expertný odhad - odborník na vývoj nie je odborník na odhad, čím viac odborníkov a skúsenstí tým lepšie ale stále je to riskatné
@@ -402,9 +442,16 @@ Aké druhy nákladov poznáme?,"1. priame náklady: vieme ich jednoznačne vyč�
 2. nepriame náklady: nie je možné ich jednoznačne prideliť jednému projektu
 3. režijné náklady: náklady na réžiu"
 Definujte riziko.,"Je to udalosť, ktorá ohrozuje alebo má dopad na úspešné dodanie projektu. Riziko nemusí byř vždy negatívne."
-Popíšte rozdiel medzi rizikom a problémom.,"Problém = niečo, čo sa už stalo a treba to akútne riešiť
-Riziko = ešte sa to nestalo ale vieme, že ak sa to stane, bude to treba riešiť
-Problém je riziko, ktoré sa naplnilo"
+"Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.
+
+","1.dostupnosť človeka
+2.náklady
+3.hĺbku skúseností v danej oblasti
+4.schopnosť použiť svoje znalosti
+5.znalosť prostredia, zákazníka a domény
+6.schopnosť spolupracovať
+7.medzinárodné faktory
+"
 Čo je výsledkom riadenia rizík.,"Riziko sa stáva zvládnuteľným. Neznamená to, že riziko zmizne alebo, že ho máme úplne pod kontorolou."
 Aký je rozdiel medzi riadením rizík a analýzou rizík?,"Riadenie rizík = Monitorovanie a vykazovanie, sledujeme ako sa vyvíja situácia, plánujeme koľko zdrojov môžme vyčleniť, rieši situáciu ak už riziko nastalo
 Analýza rizík = Snažíme sa identifikovať aké rôzne riziká môžu nastať, aký budú mať dopad a aké opatrenia by sme mali použiť ak nastanú"
@@ -426,7 +473,14 @@ Definujte startup,"Podnikanie, ktoré má potenciál mať veľmi vysokú hodnotu
 Čo je to valuácia?,Ohodnocovanie startupov
 "Aký je hlavný rozdiel v ""korporátnej"" a startupovej mentalite?","Korporátna: ""Stačí mi jedno nie a skončil som"". = Ak ma raz niekto pošle do prdele nikam sa ďalej nepohnem
 Startup: ""Stačí mi 1 áno a idem ďalej"" = Stačí ak presvedčím 1 investora a môžem pokračovat"
-V akých fázach projektu by malo prebiehať monitorovanie a kontrola?,"Vo všetkých, bez toho nemôžem riadiť projekt."
+"Pomenujte fázy vývoja tímu.
+
+","1. Forming: spoznávanie
+2. Storming: konflikty
+3. Norming: sadnutie si
+4. Performing: Vysoká efektivita
+5. Rozpustenie(Bey Bey Bitches!)
+"
 Kedy môže začať realizácia projektu?,Keď mám povolenie a všetko je dobre naplánované.
 Čo je hlavným cieľom monitoringu a kontroly?,"Aby sme sa po odklonení od ""baseline"" (projektového plánu) vedeli vrátiť späť"
 Aké dva druhy opatrení využívame v priebehu kontoly a monitoringu aby sme sa vrátili k pôvodnému plánu? ,"1. Preventívne : aby sme sa od plánu neodklonili ak to hrozí - napr. mám deadline na január ale ja viem, že v decembri si všetci budú chcieť zobrať dovolenku, tak to spravíme skôr
@@ -442,9 +496,16 @@ Pomenujte dobré odporúčanie pre kick-off meeting.,"1. Mal by byť prítomný 
 6. Ideálne je mať predtým interný meeting aby sa niekto neopýtal na Matúša
 7. Prezentujem tam plán, ktorý nemusí byť úplne hotový"
 Čo je hlavným cieľom kontroly?,"Zisťovať odchýlky od plánu (čas, náklady, zdroje)"
-Ako môžem kontrolovať plnenie termínov?,"1. Môžem kontrolovať začaté úlohy a riešiť, či ma tam niečo nebrzdí
-2. Môžem monitorovať aj ešte nezačaté a už ukončené úlohy ale to stojí veľa času
-3. Dokončené úlohy porovnávam s tým koľko zdrojov na ne bolo použitých, pre úlohy mimo kritickej cesty to nie je podstatné"
+"Aké typy činností máme v rámci projektu?
+
+","1. Dôležité, naliehavé: Reaktívne úlohy - kríza, činnosti s pevnými termínmi
+
+2. Dôležité, nenaliehavé: Proaktívne úlohy - tvoria vzťahy (mali by sme riešiť najviac)
+
+3. Nedôležité, naliehavé: Priority niekoho iného
+
+4. Nedôležité, nenaliehavé: Zabíjanie času - bežné zbytočné činnosti
+"
 Prečo je dôležitá dôsledná kontrola zdrojov a nákladov?,"Ak to budem robiť len preto aby to bolo, nebude to presné a nepomôže mi to."
 "Popíšte problémy, ktoré nastávajú pri kontrolách?","1. Príliš časté kontroly alebo žiadne alebo príliš malé kontroly
 2. Nehospodárnosť: stojí ma to viac ako je reálny prínos
@@ -476,10 +537,13 @@ Uveďte dobré rady pri schvaľovaní zmien.,"1. Aj keď zmenu zamietnem, mal by
 2. Vždy by sme mali komunikovať s tými, čo zmenu vudú implementovať
 3. Zmena by mala byť schválená príslušným orgánom
 4. Zmena by mala byť komunikovaná zákazníkom"
-Ktoré štyri činnosti sú hlavné pri riadení ľudí a zdrojov?,"1. Plánovanie ľudí a zdrojov : akí ľudia budú kde + zodpovednosti
-2. Zostavovanie tímu : nie len na papieri
-3. Rozvoj tímu : potrebujeme aby sa tím zladil a fungoval
-4. Riadenie tímu : riešeni konfliktov, sledovanie spätnej väzby"
+"Aké výsledky konfliktu sú možné?
+
+","1. výhra /prehra: jeden má všetko a druhý nič - toto v realite nefunguje
+2. kompromis: akceptovateľné ale nie ideálne
+3. Win/win : chceme dosiahnuť
+4. prehra /prehra: vo finále je to každá vyhra/prehra lebo sme si dojebali na pr. vsťahy s dodávateľom
+"
 "Čo je to kapacitný plán, kedy sa vytvára a prečo ho robím?","Je to plán riadenia zamestnancov, organizačná schéma ľudí a zodpovedností.
 Vytvára sa v rámci plánovania ľudí a zdrojov.
 Robím ho preto aby som nemala ľudí vo firme, ktorí sú na benchi = nie sú pridelení na projekt"

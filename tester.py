@@ -1,4 +1,5 @@
 import csv
+import json
 import random
 import tkinter as tk
 from tkinter import INSERT, END, HORIZONTAL, WORD
@@ -6,6 +7,7 @@ from tkinter import filedialog
 from tkinter import messagebox
 from tkinter import ttk
 from tkinter.messagebox import showinfo
+from types import SimpleNamespace
 
 root = tk.Tk()
 root.title('Testovac')
@@ -291,32 +293,32 @@ def new_question_file():
 ###########################################HOVER TEXT ON BUTTONS################################################
 
 def btn_random_question_hover_enter(e):
-    status_label.config(
-        text="Nacita nahodnu otazku bez opakovania.")
-
+    status_label.config(text="Nacita nahodnu otazku bez opakovania.")
     btn_random_question.config(bg=default_grey_highlight)
+
 
 def btn_random_question_hover_leave(e):
     status_label.config(text="")
-
     btn_random_question.config(bg=default_grey)
 
-def btn_in_order_question_hover_enter(e):
-    status_label.config(
-        text="Nacita nasleduju otazku.")
 
+def btn_in_order_question_hover_enter(e):
+    status_label.config(text="Nacita nasleduju otazku.")
     btn_in_order_question.config(bg=default_grey_highlight)
+
 
 def btn_in_order_question_hover_leave(e):
     status_label.config(text="")
-
     btn_in_order_question.config(bg=default_grey)
+
 
 def btn_question_answer_hover_enter(e):
     btn_question_answer.config(bg=green_color_highlight)
 
+
 def btn_question_answer_hover_leave(e):
     btn_question_answer.config(bg=green_color)
+
 
 def btn_load_hover_enter(e):
     status_label.config(
@@ -326,6 +328,7 @@ def btn_load_hover_enter(e):
         btn_load.config(bg=green_color_highlight)
     else:
         btn_load.config(bg=strong_red_color_highlight)
+
 
 def btn_load_hover_leave(e):
     status_label.config(text="")
@@ -339,72 +342,165 @@ def btn_load_hover_leave(e):
 def btn_new_hover_enter(e):
     status_label.config(
         text="Vytvorenie prazdneho suboru pre otazky.\nPre pracu so suborom je potrebneho ho nacitat cez tlacidlo 'Load'")
-
     btn_new.config(bg=green_color_highlight)
+
 
 def btn_new_hover_leave(e):
     status_label.config(text="")
-
     btn_new.config(bg=green_color)
+
 
 def btn_question_add_hover_enter(e):
     status_label.config(
         text="Po nacitani setu otazok moze pridat novu otazku, vypisanim pola 'Question' a 'Answer'.\nPo stlaceni tlacidla 'Add' sa otazka prida do setu.")
-
     btn_question_add.config(bg=green_color_highlight)
 
 
 def btn_question_add_hover_leave(e):
     status_label.config(text="")
-
     btn_question_add.config(bg=green_color)
 
 
 def btn_question_delete_hover_enter(e):
     status_label.config(
         text="Aktualne nacitana otazka v poli 'Question' sa natrvalo vymaze zo setu otazok.\n Vymazanie po stlaceni tlacidla 'Delete' je potrebne este potvdit.")
-
     btn_question_delete.config(bg=red_color_highlight)
 
 
 def btn_question_delete_hover_leave(e):
     status_label.config(text="")
-
     btn_question_delete.config(bg=red_color)
 
 
 def btn_question_update_hover_enter(e):
     status_label.config(
         text="Aktualne nacitanu otazku s odpovedou vieme upravit priamo v poli.\nPo stlaceni tlacidla 'Update' sa ulozi nova verzia otazky do setu")
-
     btn_question_update.config(bg=yellow_color_highlight)
+
 
 def btn_question_update_hover_leave(e):
     status_label.config(text="")
-
     btn_question_update.config(bg=yellow_color)
+
 
 def btn_clear_hover_enter(e):
     status_label.config(
         text="Tlacidlo vymaze obsah v poliach 'Question' a 'Answer'.\nOtazka zostane v sete otazok nezmenena.")
-
     btn_clear.config(bg=orange_color_highlight)
+
 
 def btn_clear_hover_leave(e):
     status_label.config(text="")
-
     btn_clear.config(bg=orange_color)
+
 
 def btn_reset_hover_enter(e):
     status_label.config(
         text="Nanovo nacita set otazok a zresetuje postup v otazkach.")
-
     btn_reset.config(bg=red_color_highlight)
+
 
 def btn_reset_hover_leave(e):
     status_label.config(text="")
-
     btn_reset.config(bg=red_color)
+
+
+##################################SAVE BEFORE EXIT##########################################
+def on_closing():
+    res = messagebox.askquestion("Warning", "Chceš uložiť aktuálny stav testera?")
+    if res == 'no':
+        root.destroy()
+    elif res == 'yes':
+        save_tester()
+        messagebox.showinfo('information', 'Tester sa uložil!')
+        root.destroy()
+
+
+root.protocol("WM_DELETE_WINDOW", on_closing)
+
+
+def load_saved_tester():
+    global file_loaded
+    global question_index
+    global counter
+    global otazky
+    global amount_question
+    global pop_list_question
+    global filename
+    global question
+
+    file = filedialog.askopenfilename()
+
+    with open(file, "r") as f:
+        data = json.load(f)
+        saved_tester = json.loads(data, object_hook=lambda d: SimpleNamespace(**d))
+
+        question_index = saved_tester.question_index
+        counter = saved_tester.counter
+        otazky = saved_tester.otazky
+        amount_question = saved_tester.amount_question
+        pop_list_question = saved_tester.pop_list_question
+        filename = saved_tester.filename
+        question = saved_tester.question
+
+    global btn_load
+    btn_load.config(bg="#B6D7A8")
+    btn_load.config(text="Loaded")
+
+    global root
+    title_text = filename.split("/")
+    root.title('Testovac - ' + title_text[len(title_text) - 1])
+
+    btn_clear["state"] = "normal"
+    btn_reset["state"] = "normal"
+    btn_random_question["state"] = "normal"
+    btn_in_order_question["state"] = "normal"
+    btn_question_answer["state"] = "normal"
+    btn_question_update["state"] = "normal"
+    btn_question_add["state"] = "normal"
+    btn_question_delete["state"] = "normal"
+
+    pb['value'] = (100 / amount_question) * counter
+    value_label['text'] = update_progress_label()
+
+    file_loaded = True
+
+
+class TesterSave():
+    question_index = -1
+    counter = 0
+    otazky = []
+    amount_question = 0
+    pop_list_question = []
+    filename = ""
+    question = []
+    file_loaded = False
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                          sort_keys=True, indent=4)
+
+
+save = TesterSave()
+
+
+def save_tester():
+    global save
+
+    save.question_index = question_index
+    save.counter = counter
+    save.otazky = otazky
+    save.amount_question = amount_question
+    save.pop_list_question = pop_list_question
+    save.filename = filename
+    save.question = question
+    save.file_loaded = file_loaded
+
+    file = tk.filedialog.asksaveasfilename(parent=root, defaultextension=".json", initialfile="test_save.json",
+                                           title="Nove otazky")
+    with open(file, "w") as f:
+        json.dump(save.toJSON(), f)
+
 
 ###################################EXAM SETTING###########################################
 def set_question_amount(val):
@@ -554,8 +650,6 @@ orange_color_highlight = "#F7B36E"
 yellow_color_highlight = "#FFD966"
 default_grey_highlight = "#DADAD8"
 
-
-
 btn_clear = tk.Button(root, text="Clear", bg=orange_color, command=clear)
 btn_reset = tk.Button(root, text="Reset", bg=red_color, command=reset)
 
@@ -607,8 +701,6 @@ btn_random_question.bind("<Leave>", btn_random_question_hover_leave)
 btn_in_order_question.bind("<Enter>", btn_in_order_question_hover_enter)
 btn_in_order_question.bind("<Leave>", btn_in_order_question_hover_leave)
 
-
-
 btn_question_answer.bind("<Enter>", btn_question_answer_hover_enter)
 btn_question_answer.bind("<Leave>", btn_question_answer_hover_leave)
 
@@ -640,8 +732,9 @@ menubar = tk.Menu(root)
 filemenu = tk.Menu(menubar, tearoff=0)
 filemenu.add_command(label="New exam simulation", command=open_exam_settings)
 filemenu.add_command(label="Load .csv", command=load_questions)
+filemenu.add_command(label="Load saved tester", command=load_saved_tester)
 filemenu.add_separator()
-filemenu.add_command(label="Exit", command=root.quit)
+filemenu.add_command(label="Exit", command=on_closing)
 menubar.add_cascade(label="Menu", menu=filemenu)
 
 root.config(menu=menubar)
