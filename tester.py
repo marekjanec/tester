@@ -122,6 +122,8 @@ def question_answer():
         if pb['value'] < 100:
             pb['value'] = (100 / amount_question) * counter
             value_label['text'] = update_progress_label()
+            s.configure("red.Horizontal.TProgressbar",
+                        background=progress_bar_color_list[((100 // amount_question) * counter) % 100])
 
         if counter == amount_question and not exam:
             showinfo(message='Chill time!')
@@ -620,10 +622,11 @@ def open_exam_settings():
 
 
 ########################################PROGRESS BAR###################################################
+s = ttk.Style()
+s.theme_use('default')
 
-
-pb = ttk.Progressbar(root, orient='vertical', mode='determinate', length=425)
-value_label = ttk.Label(root, text=update_progress_label(), anchor="center")
+pb = ttk.Progressbar(root, style="red.Horizontal.TProgressbar", orient='vertical', mode='determinate', length=425)
+value_label = ttk.Label(root, background="#F0F0EF", text=update_progress_label(), anchor="center")
 
 pb.place(x=418, y=30)
 value_label.place(height=20, width=60, x=400, y=5)
@@ -658,6 +661,109 @@ strong_red_color_highlight = "#D90D58"
 orange_color_highlight = "#F7B36E"
 yellow_color_highlight = "#FFD966"
 default_grey_highlight = "#DADAD8"
+
+progress_bar_color_list = ["#ff0000",
+                           "#ff1b00",
+                           "#ff2a00",
+                           "#ff3500",
+                           "#ff3e00",
+                           "#ff4700",
+                           "#ff4f00",
+                           "#ff5600",
+                           "#ff5d00",
+                           "#ff6300",
+                           "#ff6a00",
+                           "#ff7000",
+                           "#ff7600",
+                           "#ff7c00",
+                           "#ff8200",
+                           "#ff8700",
+                           "#ff8d00",
+                           "#ff9200",
+                           "#ff9800",
+                           "#ff9d00",
+                           "#ffa200",
+                           "#ffa800",
+                           "#ffad00",
+                           "#ffb200",
+                           "#ffb700",
+                           "#ffbc00",
+                           "#ffc100",
+                           "#ffc600",
+                           "#ffcb00",
+                           "#ffd000",
+                           "#ffd500",
+                           "#fed900",
+                           "#fdde00",
+                           "#fce300",
+                           "#fae800",
+                           "#f9ec00",
+                           "#f7f100",
+                           "#f6f600",
+                           "#f4fa00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#f2ff00",
+                           "#efff00",
+                           "#ebff00",
+                           "#e8ff00",
+                           "#e5ff00",
+                           "#e1ff00",
+                           "#deff00",
+                           "#daff00",
+                           "#d6ff00",
+                           "#d3ff00",
+                           "#cfff00",
+                           "#cbff00",
+                           "#c7ff00",
+                           "#c4ff00",
+                           "#c0ff00",
+                           "#bcff00",
+                           "#b7ff00",
+                           "#b3ff00",
+                           "#afff00",
+                           "#abff00",
+                           "#a6ff00",
+                           "#a2ff00",
+                           "#9dff00",
+                           "#98ff00",
+                           "#93ff00",
+                           "#8eff00",
+                           "#89ff00",
+                           "#84ff00",
+                           "#7eff00",
+                           "#78ff00",
+                           "#72ff00",
+                           "#6bff00",
+                           "#65ff00",
+                           "#5dff00",
+                           "#55ff02",
+                           "#4cff08",
+                           "#41ff0e",
+                           "#35ff13",
+                           "#24ff17",
+                           "#00ff1b"
+                           ]
 
 btn_clear = tk.Button(root, text="Clear", bg=orange_color, command=clear)
 btn_reset = tk.Button(root, text="Reset", bg=red_color, command=reset)

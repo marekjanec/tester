@@ -13,10 +13,13 @@ Kedy sa projekt ukončí?,"1.dosiahnutie cieľov projektu alebo naopak nenaplnen
 2.vyčerpanie zdrojov (finančné alebo ľudské)
 3.neexistencia potreby projektu (napr. zmenou stratégie) - netreba ho už
 4.právne dôvôdy - legislatíva"
-"Čo znamená, že je projekt jedinečný?","napĺňa ciele prostredníctvom výstupov:
+"Čo znamená, že je projekt jedinečný?
+
+","napĺňa ciele prostredníctvom výstupov:
 1.unikátny produkt
 2.vylepšený produkt,služba, dokument
-3.kombinácia uvedených)"
+3.kombinácia uvedených
+"
 "Čo je dôvod vzniku projektu? Iniciovanie projektu?
 
 ","1.Požiadavky a potreby stackeholder-ov
@@ -24,10 +27,13 @@ Kedy sa projekt ukončí?,"1.dosiahnutie cieľov projektu alebo naopak nenaplnen
 3.Implementácia alebo zmena biznisovej alebo technickej stratégie
 4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb
 "
-Čo je dôvod vzniku prohektu? Iniciovanie projektu?,"1.Požiadavky a potreby stackeholder-ov
+"Čo je dôvod vzniku projektu? Iniciovanie projektu?
+
+","1.Požiadavky a potreby stackeholder-ov
 2.Regulačné, právne alebo sociálne požiadavky
 3.Implementácia alebo zmena biznisovej alebo technickej stratégie
-4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb"
+4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb
+"
 Vymenuj 5 príklady projketov:,"1.Zavedenie systému kvality
 2.Vývoj sofvéru
 3.Návrh nového automobilu
@@ -37,7 +43,12 @@ Vymenuj 5 príklady projketov:,"1.Zavedenie systému kvality
 7.Výskumná expedícia"
 Čo je to program?,"Program je konzistentná skupina súvisiacich projektov a aktivít, ktoré majú naplniť spoločný cieľ. Ich spoločná koordinácia má priniesť benefity, ktoré by NEmohli byť dosiahnuté individuálnym riadením bez vzájomnej koordinácie."
 Čo je cieľom programu?,Cieľom programu je vzájomný súlad a synergia.
-Čo nie je program?,Program nie je zložitý komplexný projekt.
+"Z čoho sa skladá trojimperatív?
+
+","1.čas
+2.rozsah
+3.zdroje
+"
 Čo je to portfólio?,"Portólio je tvorené skupinou programov alebo projektov, ktoré nemusia byť prepojené, ale sú zoskupené za účelom koordinácie riadenia, kontroly a optimalizácie."
 Na čo sa zameriava portfólio? ,Zameriava sa na posudzovanie projektov a programov z dôvodu prioritizácie pridelenia zdrojov.
 "Aké sú odlišnosti projektového riadenia softvéru od iných projektov?
@@ -48,13 +59,29 @@ Na čo sa zameriava portfólio? ,Zameriava sa na posudzovanie projektov a progra
 4.rapídny vývoj technológií
 5.flexibilný
 "
-Z čoho sa skladá portfólio?,Z projektov a programov
+"Vymenuj 5 zletýchpravidiel úspešného projektu:
+
+","1.vytvorenie komplexného a realistického plánu, ktorý je aktuálny
+2.získanie zhody ohľadom projektového výstupu
+3.požadovanie primeraných zdrojov
+4.vytvorenie najlepšieho možného tímu a staranie sa oň
+5.informovanie stakeholders
+6.prijatie zmeny a skúsiť nové veci
+7.projekt vedený manažérom a lídrom
+"
 Z čoho sa skladá program?,Z projektov
 Z Čoho sa skladá trojimperatív?,"1.čas
 2.rozsah
 3.zdroje"
 Vysvetli trojimperatív:,Je to závyslosť času. rozsahu a zdrojov.
-Daj príklad na zmenu v trojimperatíve:,Stakeholde to chce mať rychlejšie hotové tak treba zaplatiti ďalších ľudí alebo znížit rozsah.
+"Vymenujte fázy projektu(5)
+
+","1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
+2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
+3.VYKONÁVANIE – koordinácia ľudí a zdrojov, tak aby sa plán realizoval a naplnili saciele
+4.MONITORING A KONTROLA – sledovanie a kontrola pokroku a výkonnosti spolu spotrebnými zmenami
+5.ZATVORENIE – formálna akceptácia projektu (fázy) a jeho ukončenie
+"
 Prečo projekty zlyhávajú?,"1.nedostatok zdrojov
 2.nedostatok času
 3.nejasná špecifikácia
@@ -99,11 +126,11 @@ RIADENIE
 4.MONITORING A KONTROLA – sledovanie a kontrola pokroku a výkonnosti spolu spotrebnými zmenami
 5.ZATVORENIE – formálna akceptácia projektu (fázy) a jeho ukončenie
 "
-Vymenuj kroky v krízovom riadení projektu(5),"1.Zastavenie zhubného pôsobenia krízy
-2.identifikácia krízy
-3.Odstránenie príčin krízy a dopadov
-4.Navodenie bežného operatívneho riadenia projektu
-5.Zapracovanie opatrení na zamedzenie ďalších kríz"
+"Popíšte technické kompetencie projektového manažéra.
+
+","Sú to zručnosti efekfvneho uplatňovania vedomosti o projektovom riadení s cieľom dosiahnuť požadované výsledky pre projekt. 
+Môže medzi ne patriť správa a prispôsobenie nástrojov, spravovanie artefaktov (plán, riziká atď.)
+"
 Čo je najlepším riešením krízy?,"Najlepším riešením krízy je zabrániť, aby nenastala!"
 Čo má robiť manažer aby zvládol krízu?,"1. Ukľudniť seba a ostatných
 2. Zanalyzovať situáciu. Bleskovo!
@@ -178,11 +205,23 @@ Podľa ktorých kompetencii sa posudzujú projektoví manažéri?,"1. leadership
 Popíšte technické kompetencie projektového manažéra.,"Sú to zručnosti efekfvneho uplatňovania vedomosti o
 projektovom riadení s cieľom dosiahnuť požadované výsledky pre projekt. 
 Môže medzi ne patriť správa a prispôsobenie nástrojov, spravovanie artefaktov (plán, riziká atď.)"
-Popíšte strategické a biznisové kompetencie projektového manažéra.,"Schopnosť vidieť projekt z perspektívy organizácie a implementovať rozhodnutia.
-Môže medzi ne patriť znalosť financii a manažmentu, schopnosť komunikovať s ľuďmi, stackholdermi, znalosť domény atď."
+"Pre čo vytvára základ WBS - work breakdown structure? 
+
+
+
+","1.rozdelenie úloh
+2.plánovanie termínov
+3.plánovanie nákladov
+4.plánovanie ľudských zdrojov
+
+"
 Popíšte kritérium leadership pri hodnotení projektových manažérov.,"Je to schopnpsť viesť tím, motivovať ľudí, kominukovať s nimi, riešiť problémy a nevypičovať niekomu keď ma naserie.
 Môže medzi ne patriť komunikácie počas konfliktov, sústrediť sa na dôležité veci."
-Popíšte rozdiely medzi manažmentom a leadershipom.,"Manažment sa zameriava skôr na administratívne úkony a udržiavanie vecí, ktoré už fungujú, zatiaľ čo leadership sa zameriava skôr na inovácie a prinášanie nových myšlienok a komunikáciu."
+"Čo je to logický rámec a v akej fáze projektu sa vypracováva?
+
+","Vypracováva sa počas inicializácie projektu a je to logicky spracovaná a stručná tabuľka popisujúca súvislosti v projekte, podľa ktorej by mal každý vedieť, čo ideme robiť, prečo to ideme a ako to ideme robiť. 
+Slúži počas celého projektu.
+"
 "Kto je to garant výstupu?
 
 ","1.zodpovedá za dodržiavanie termínov a kvalitu výstupu
@@ -245,8 +284,14 @@ Vymenujte základné časti logického rámca (4 + 1).,"1. Logická postupnosť 
 Čo sú to objektívne overiteľné ukazovatele v logickom rámci?,"Prostriedky, ktoré musíme využiť na aktivity z postupnosti krokov a musia byť merateľné napr. čas, financie, atď.."
 Čo sú to zdroje overenia v logickom rámci?,"Hovoria o tom ako a kde môžme overiť naplnenie cieľov.
 Posledný riadok obsahuje časový harmonogram."
-Čo sú to predpoklady v logickom rámci?,"Externé faktory, ktoré sú potrebné na úspešnú realizáciu ale my ich nevieme ovplyvniť.
-Faktory, ktoré musia byť splnené už pred začatím sa píšu dole."
+"Uveďte tipy ako produktívne riešiť konflikt.
+","1. emocionálny odstup
+2. vecná diskusia
+3. počúvanie a snaha o dobrý úmysel
+4. nepopierať, že konflikt existuje
+5. navrhnutie spôsobu riešenia
+
+"
 "Čo obnáša ""out of scope"" v logickom rámci.","Explicitne povedané, čomu sa nebudeme venovať a čo nie je účelom projektu"
 Aký je postup tvorby logického rámca?,"1. stanovenie cieľa projektu (Aká potreba má byť naplnená?)
 2. stanovenie výstupov (Čo konkrétne máme vyprodukovať?)
@@ -268,14 +313,10 @@ Aké činnosti obnáša zahájenie projektu?,"1. Pridanie manažéra
 4. Analýza stackholderov
 5. Rozdelenie do fáz"
 Čo sú to kritéria úspechu?,"Metriky, podľa ktorých vieme povedať, že náš projekt je úspešný, napr. ""Do roka bude mať appka 1000 aktívnych používateľov""."
-"Aké sú chyby pri plánovaní?
+"Aké dva faktory sa zohľadňujú pri výbere opatrení na riešenie rizika?
 
-","1.neplánovanie(Shit you dont say)
-2.nedostatočne detailné plánovanie
-3.nevedieť kedy prestať plánovať - plánovanie by malo končiť na úrovni nutnej podrobnosti, nie na úrovni vyčerpania všetkých možností
-4.nezapojenie ľudí do plánovania
-5.nereflektovanie rizík a neistoty v plánovaní
-6.neaktualizovanie plánu
+","1.cena opatrenia (koľko ma to bude stáť)
+2.dopad (čo to reálne vyrieši)
 "
 Aký je rozdiel medzi tvrdým a mäkkým kritériom úspechov? Daj príklad,"Tvrdé kritérium je odmeraný fakt  = pripojených minimálne 1000 používateľov a odozva neklesne pod 0,5s
 
@@ -301,7 +342,10 @@ Podľa čoho sa posudzju stakeholderi?,"1.vply
 3.definuje harmonogram a výstupy
 4.popisuje riadenie projektu
 5.menuje projektového manažéra a realizačný tím projektu"
-Kto schvaľuje chartu projektu?,Riadiaci výbor.
+"Prečo je dôležité evidovať zamietnutie opatrenia pri kontrole?
+
+","Aby ma niekto potom nemohol zdrbať, že som ""nič nespravil"". Ja im to ukážem a poviem ""Aha, ja som to chcel riešiť ale tento tu mi povedal, že sa mám na to vykašlať.""
+"
 K čomu pomáha plánovanie projektu?,"1.zvýšenie porozumenia
 2.zníženie neistoy
 3.zlepšenie efektivity
@@ -309,9 +353,12 @@ K čomu pomáha plánovanie projektu?,"1.zvýšenie porozumenia
 Čo je plán projektu?,"definovanie, príprava a koordinácia všetkých súčas8 projektu
 
 najskôr sa dohodneme ČO, potom AKO a následne to spravíme"
-"Zjednodušuje plán projektu komunikáciu medzi skupinami zapojenými do projektu?
+"Uveďte dobré rady pri schvaľovaní zmien.
 
-","Ano
+","1. Aj keď zmenu zamietnem, mal by som zaznamenať prečo som to urobil
+2. Vždy by sme mali komunikovať s tými, čo zmenu budú implementovať
+3. Zmena by mala byť schválená príslušným orgánom
+4. Zmena by mala byť komunikovaná zákazníkom
 "
 "Pre čo vytvára základ WBS - work breakdown structure? 
 
@@ -427,11 +474,6 @@ I – informed"
 
 ","Vždy sa nájde dostatok činnosti na využitie celého času
 "
-"Vymenujte činnosti, ktoré spadajú pod plánovanie času.","1. Definovanie činnností
-2. Zoradenie činností
-3. Odhadovanie zdrojov
-4. Odhadovanie doby trvania činnosti
-5. Stanovenia časového plánu"
 Čo rieši definovanie činnosti?,"Definovanie činnosti rieši AKO to budeme robit, nie ČO budeme robiť."
 Čo je výstupom definovania činnosti?,"Zoznam činností, ktoré budú zahrnuté do časového plánu."
 "Aký je hlavný rozdiel v ""korporátnej"" a startupovej mentalite?
@@ -584,7 +626,10 @@ Pomenujte dobré odporúčanie pre kick-off meeting.,"1. Mal by byť prítomný 
 
 4. Nedôležité, nenaliehavé: Zabíjanie času - bežné zbytočné činnosti
 "
-Prečo je dôležitá dôsledná kontrola zdrojov a nákladov?,"Ak to budem robiť len preto aby to bolo, nebude to presné a nepomôže mi to."
+"Kde sa tvorí plán komunikácie?
+
+","Na kick-off meetingu
+"
 "Popíšte problémy, ktoré nastávajú pri kontrolách?","1. Príliš časté kontroly alebo žiadne alebo príliš malé kontroly
 2. Nehospodárnosť: stojí ma to viac ako je reálny prínos
 3. Subjektivita: Nehovoríme realitu ale to, čo chce nadriadený počuť"
