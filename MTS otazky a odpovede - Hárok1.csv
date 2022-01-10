@@ -5,7 +5,10 @@ otazka,odpoved
 3.prevádzka
 4.rutinná aktivita
 5.bežná práca"
-Prečo je projekt dočasné úsilie?,má jednoznačný začaitok a koniec
+"Prečo je projekt dočasné úsilie?
+
+","má jednoznačný začiatok a koniec
+"
 Kedy sa projekt ukončí?,"1.dosiahnutie cieľov projektu alebo naopak nenaplnenie cieľov
 2.vyčerpanie zdrojov (finančné alebo ľudské)
 3.neexistencia potreby projektu (napr. zmenou stratégie) - netreba ho už
@@ -14,13 +17,12 @@ Kedy sa projekt ukončí?,"1.dosiahnutie cieľov projektu alebo naopak nenaplnen
 1.unikátny produkt
 2.vylepšený produkt,služba, dokument
 3.kombinácia uvedených)"
-"Aké sú projektové kritériá?
+"Čo je dôvod vzniku projektu? Iniciovanie projektu?
 
-","1.jedinečneosť
-2.obmedzenosť(čas, peniaze, zdroje = trojimpertív)
-3.Potreba realizovania projektovým tímom
-4.Komplexnosť a zložitosť
-5.Vysoká miera rizika
+","1.Požiadavky a potreby stackeholder-ov
+2.Regulačné, právne alebo sociálne požiadavky
+3.Implementácia alebo zmena biznisovej alebo technickej stratégie
+4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb
 "
 Čo je dôvod vzniku prohektu? Iniciovanie projektu?,"1.Požiadavky a potreby stackeholder-ov
 2.Regulačné, právne alebo sociálne požiadavky
@@ -38,7 +40,14 @@ Vymenuj 5 príklady projketov:,"1.Zavedenie systému kvality
 Čo nie je program?,Program nie je zložitý komplexný projekt.
 Čo je to portfólio?,"Portólio je tvorené skupinou programov alebo projektov, ktoré nemusia byť prepojené, ale sú zoskupené za účelom koordinácie riadenia, kontroly a optimalizácie."
 Na čo sa zameriava portfólio? ,Zameriava sa na posudzovanie projektov a programov z dôvodu prioritizácie pridelenia zdrojov.
-Má portfólio začiatok a koniec?,Nemá stanovený začiatok ani koniec.
+"Aké sú odlišnosti projektového riadenia softvéru od iných projektov?
+
+","1.nehmotný 
+2.proces vývoja softvéru je relatívne nový a stále vo vývoji
+3.veľké softvérové projekty sú zvyčajne jednorazové
+4.rapídny vývoj technológií
+5.flexibilný
+"
 Z čoho sa skladá portfólio?,Z projektov a programov
 Z čoho sa skladá program?,Z projektov
 Z Čoho sa skladá trojimperatív?,"1.čas
@@ -68,12 +77,28 @@ Vymenuj 5 zletýchpravidiel úspešného projektu:,"1.vytvorenie komplexného a 
 3.absolútny nedostatok zdrojov
 4.úplný rozpad projektového tímu
 5.súbeh niekoľkých mimoriadnych udalostí"
-Načo je krízové riadenie?,Krízové riadenie rieši vzniknutú krízovú situáciu (ako zvládnuť situáciu a ako z nej vyviaznuť).
+"Vymenuj typi project managment office a v skratke opiš
+
+","PODPORA
+1.sprostredkovanie šablón, postupov, školení, prístupov a zdieľaní z iných projektov
+2.slúži ako úložisko projektov
+
+KONTROLA
+1.poskytujú podporu a vyžadujú a kontrolujú súlad používaných metodík, šablón, nástrojov
+
+RIADENIE
+1.priamo riadi projekty
+2.projektových manažérov prideľuje PMO a zodpovedá za ne
+"
 Čo je to krízový stav?,"Krízový stav na rozdiel od katastrofy (deštrukcia, zrútenie projektu, kedy ľudské reflektovanie je obmedzené len na sledovanie) dáva možnosť zvrátiť stav pozitívnym smerom a teda pokúsiť sa o aktívny zásah."
-Vymenuj a vysvetli štádia krízy:,"1.Symptómy krízy - Správy signalizujúce možný výskyt krízových situácií (neustále sklzy v termínoch, výpadky zdrojov,...).
-2.Akútne štádium krízy - Zistené skutočnosti, ktoré ohrozujú úspech projektu. Projektový tím ich nedokáže sám odstrániť.
-3.Chronické štádium krízy - V dôsledku pretrvávania príčin sa kríza prehlbuje a ohrozuje aj okolie.
-4.Riešenie krízy - Zastavenie krízy a dôsledkov pôsobenia krízy. Opatrenia k prechodu na bežné riadenie."
+"Vymenujte fázy manažnemtu projektu(5)
+
+","1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
+2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
+3.VYKONÁVANIE – koordinácia ľudí a zdrojov, tak aby sa plán realizoval a naplnili saciele
+4.MONITORING A KONTROLA – sledovanie a kontrola pokroku a výkonnosti spolu spotrebnými zmenami
+5.ZATVORENIE – formálna akceptácia projektu (fázy) a jeho ukončenie
+"
 Vymenuj kroky v krízovom riadení projektu(5),"1.Zastavenie zhubného pôsobenia krízy
 2.identifikácia krízy
 3.Odstránenie príčin krízy a dopadov
@@ -103,11 +128,9 @@ Aké sú odlišnosti propjektového riadenia softvéru od iných prjektov?,"1.ne
 "
 Z čoho pozostá životny cyklus softvérového projektu?,"Životný cyklus SW projektu je séria fáz, ktorými projekt prechádza od začiatku do konca."
 Čo je to fáza(eatapa) v životnom cykle projektu?,"je súbor logicky súvisiacich projektových akIvít, ktoré sú ukončené dokončením jedného alebo viacerých výstupov."
-"Ktorým z projektových štandardov by ste sa inšpirovali pri zostavení projektového tímu a výbere projektového manažéra? 
+"Čo rozoberá SMART cieľ?
 
-","1.PRINCE2 - metóda riadenia projektov
-2.Project Management Body of Knowledge - súbor najlepších praktík na riadenie projektov
-3.IPMA - súbor požadovaných spôsobilosti na riadenie projektov
+","Potreba porozumenia, čo má byť projektom realizované, na čo to má slúžiť a za akých podmienok by to malo byť realizovateľné.
 "
 Vymenuje procesy manažnemtu projektu(5),"1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
 2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
@@ -117,23 +140,24 @@ Vymenuje procesy manažnemtu projektu(5),"1.INICIALIZÁCIA – definovanie proje
 Ktorým z projektových štandardov by ste sa inšpirovali pri zostavení projektového tímu a výbere projektového manažéra? ,"1.PRINCE2 - metóda riadenia projektov
 2.Project Management Body of Knowledge - súbor najlepších praktík na riadenie projektov
 3.IPMA - súbor požadovaných spôsobilos; na riadenie projektov"
-Aké poznáme podnikové prostredia? aj s príkladmi,"Interné:
-1.organizácia, kultúra, riadenie
-2.geografické rozdelenie
-3.infraštruktúra a SW vybavenie
-4.schopnosti zamestnancov
+"Čo je plán projektu?
 
-Externé:
-1.trh
-2.legislafva
-3.finančné hľadisko"
-Uveď priklad vedomostnej základne:,"1.Wiki
-2.vykazovacie systémy
-3.kontrolingový systém
-4.reportovací systém"
-Vymenuj topológia v organizačnej štrukúre a vysvetli ich:,"1.Funkčná topoogia - podľa funkcie
-2.Projektová topológia - podľa porjektu
-3.Maticová topológia - podľa úrvne(toto eset overit alebo ak vies spravne oprav)"
+","definovanie, príprava a koordinácia všetkých súčastí projektu
+
+najskôr sa dohodneme ČO, potom AKO a následne to spravíme
+"
+"Čo je to logický rámec a v akej fáze projektu sa vypracováva?
+
+","Vypracováva sa počas inicializácie projektu a je to logicky spracovaná a stručná tabuľka popisujúca súvislosti v projekte, podľa ktorej by mal každý vedieť, čo ideme robiť, prečo to ideme a ako to ideme robiť. 
+Slúži počas celého projektu.
+"
+"Uveďte dôležité charakteristiky logického rámca.
+
+","1. nie je to tautológia
+2. neexistuje ideálny (je predmetom vyjednávania)
+3. mal by sa aktualizovať počas projektu ak sa niečo zmení
+4. poskytuje základ pre monitorovanie a hodnotenie
+"
 Čo je to projekt managment office(PMO)?,PMO štandardizuje postupy riadenia
 Vymenuj typi proejct managment office a v skratke opiš,"PODPORA
 1.sprostredkovanie šablón, postupov, školení, prístupov a zdieľaní z iných projektov
@@ -165,7 +189,13 @@ Popíšte rozdiely medzi manažmentom a leadershipom.,"Manažment sa zameriava s
 2.zadáva úlohy jednotlivým ľuďom
 3.informuje o problémoch
 "
-Komu sa zodpovedá projektový manažér?,Riadiacemu výboru.
+"Pre čo vytvára základ WBS - work breakdown structure? 
+
+","1.plánovanie termínov
+2.rozdelenie úloh
+3.plánovanie nákladov
+4.plánovanie ľudských zdrojov
+"
 "Čím sa zaoberá štúdia príležitosti?
 
 ","Je vhodná doba na realizáciu? Aké je vnútorné a vonkajšie prostredie organizácie?(či sa nám to ako firme oplatí robiť)
@@ -174,11 +204,17 @@ Definujte riadiaci výbor.,definuje strategické zadanie celého projektu a dohl
 Kto je to garant výstupu?,"Zodpovedá za dodržiavanie termínov a kvalitu výstupu
 zadáva úlohy jednotlivým ľuďom
 informuje o problémoch"
-Kto je to člen tímu?,"Každy, kto sa podieľa na projekte (aj tvorba harmonogramu atď.)
-Plní úlohy v stanovenom termíne"
+"Aké dokumenty sa chronologicky vytvárajú pri vytváraní štruktúry projektu?
+
+","1. Logický rámec
+2. WBS - work breakdown structure
+3. sieťová analýza: sieťový graf zoradených činností
+"
 Kto je to administrátor?,Poskytuje administratívnu podporu a pomáha projektovému manažérovi.
-Kto je to SME (Subject Metter Expert)?,"Expert na obsah projektu a štandardy, ktoré majú byť v projekte použité
-Môže byť aj vo funkcii poradcu alebo dohľadu."
+"Zjednodušuje plán projektu komunikáciu medzi skupinami zapojenými do projektu?
+
+","Ano
+"
 Na čo slúži predprojektová príprava?,Posúdiť príležitosť a preskúmať realizovateľnosť projektu.
 Aké analýzy sa vykonávajú v predprojektovej príprave?,"1. Analýza príležitosti.
 2. Analýza uskutočniteľnosti.
@@ -232,19 +268,26 @@ Aké činnosti obnáša zahájenie projektu?,"1. Pridanie manažéra
 4. Analýza stackholderov
 5. Rozdelenie do fáz"
 Čo sú to kritéria úspechu?,"Metriky, podľa ktorých vieme povedať, že náš projekt je úspešný, napr. ""Do roka bude mať appka 1000 aktívnych používateľov""."
-Uveďte základné vlastnosti kritérii úspechu.,"1. Sú merateľné jednoznačné a odkomunikované
-2. Často sú akceptačnými kritériami
-3. Nie je to to isté ako rizikové faktory
-4. Menia sa počas projektu"
+"Aké sú chyby pri plánovaní?
+
+","1.neplánovanie(Shit you dont say)
+2.nedostatočne detailné plánovanie
+3.nevedieť kedy prestať plánovať - plánovanie by malo končiť na úrovni nutnej podrobnosti, nie na úrovni vyčerpania všetkých možností
+4.nezapojenie ľudí do plánovania
+5.nereflektovanie rizík a neistoty v plánovaní
+6.neaktualizovanie plánu
+"
 Aký je rozdiel medzi tvrdým a mäkkým kritériom úspechov? Daj príklad,"Tvrdé kritérium je odmeraný fakt  = pripojených minimálne 1000 používateľov a odozva neklesne pod 0,5s
 
 Mäkké kritérium je subjektívne založené = zamestnanci vnímajú zmenu pozitívne"
 Kto sú to stackolderi (zainteresované osoby)?,"subjekty (ľudia, organizácie,projekty), ktorých realizácia projektu ovplyvňuje.
 
 Každý kto je pre úspech projektu dôležitý, by mal byť identifikovaný ako stakeholder."
-Aké činnosti obnáša riadenie stackholderov?,"1.identifikácia stakeholderov a ich očakávaní
-2.analíza stakeholderov
-3.stratégia pre stakeholderov"
+"Čo je to kritická cesta a ako sa využíva pri vytváraní časového plánu(CPM – critical path method)?
+
+","Je to najdlhšia cesta z počiatku sieťového grafu po koniec.
+Využíva sa na určenie doby trvania celého projektu. 
+"
 Čo je výsledkom identifikácie stackholderov?,Zoznam stackholderov
 Aké typy stackholderov poznáme (4) a ako s nimi pracovať.,"1. Tvorcovia - Vysoký vplyv, nízky záujem (udržiavam spokojnosť)
 2. Dav - Nízky vplyv, nízky záujem (sledujem)
@@ -297,7 +340,14 @@ podporné procesy plánovania:
 Sú plány vytvorené v ostatných oblastiach projektu súčasťou celkového plánu projektu?,"No ne ty kokot(sarkazmus)
 
 (Ano, sú)"
-zjednodušuje  plán projektu komunikáciu medzi skupinami zapojenými do projektu?,Ano
+"Uveďte aspoň dva príklady na čo sa zabúda pri odhadovaní.
+
+","1.analýza - komunikácia so zákazníkmi a subdodávateľmi, stretnutia so zákazníkmi, interné review analýzy
+2.dizajn - menenie rozhraní pre tretie strany (parametre a kritéria)
+3.implementacie - debugovanie
+4.testovanie - nastavenie prostredí (Selenium, SoapUI), podpora akceptačného testovania
+5.Projektový manažment - činnosti súvisiace s vedením tímu (rozdelovanie práce, tvorba plánov a aktualizácia, interné stretnutia), aktivity súvisiace s podporou zákazníka
+"
 "Uveďte aspoň 3 príklady prístopov pri tvorbe WBS - work breakdown structure?
 
 ","1. top-down: rozklad na menšie ""podčasti"" - od najnižšej úrovne po najvyššiu
@@ -306,10 +356,24 @@ zjednodušuje  plán projektu komunikáciu medzi skupinami zapojenými do projek
 4. podľa štandardov: dopredu predpísaná štruktúra
 5. postup podľa analógie: podľa podobného projektu
 "
-Čo je rozsah produktu (product scope)?,"vlastnosti a funkcie charakterizujúce produkt, službu alebo výsledok"
-Čo je rozsah projektu (project scope)?,"1.akákoľvek práca, ktorá je potrebná na vytvorenie výstupov (produktu) požadovaných v rámci projektu
-2.definuje hranice projektu
-3.čo má byť v rámci projektu vyprodukované (produkty, služby, dokumenty a ďalšie výsledky)"
+"Uveďte tipy ako produktívne riešiť konflikt.
+
+","1. emocionálny odstup
+2. vecná diskusia
+3. počúvanie a snaha o dobrý úmysel
+4. nepopierať, že konflikt existuje
+5. navrhnutie spôsobu riešenia
+"
+"Pomenujte dobré odporúčanie pre kick-off meeting.
+
+","1. Mal by byť prítomný každý člen tímu, zákazníci aj partneri
+2. Každý by mal vidieť zmysel projektu, prečo to robíme.
+3. Sám musím veriť, že to dáme
+4. Mal by sa zoznámiť tím a naplánovať komunikáciu
+5. Je dôležité stretnúť sa s protistranou a vykomunikovať si očakávania
+6. Ideálne je mať predtým interný meeting aby sa niekto neopýtal na Matúša
+7. Prezentujem tam plán, ktorý nemusí byť úplne hotový
+"
 Čo by malo obsahovať definovanie rozsahu?,"1. Akceptačné kritéria
 2. Dodávky – všetky produkty, výsledky alebo služby, ktoré sú potrebné na realizáciu projektu
 3. Čo nebude realizované (uvádza sa, čo sa domnieva, že sa bude realizovať)
@@ -335,11 +399,15 @@ Aké dokumenty sa chronologicky vytvárajú pri vytváraní štruktúry projektu
 2. WBS - wok breakdown structure
 3. sieťová analýza: sieťový graf zoradených činností"
 Do akej miery by mala byť urobená dekompozícia pri WBS - work breakdown structure?,"Objekty by mali byť oddlené a samostatne uskutočniteľné. Napr. pri bicykli to môže byť ""koleso"". Rozbíjať to na menšie nema zmysel, lebo jednému ""pásu"" vieme povedať aby skladal koleso"
-Uveďte aspoň 3 príklady prístopov pri tvorbe WBS - work breakdown structure?,"1. top-down: rozklad na menšie ""podčasti"" - od najnižšej úrovne po najvyššiu
-2. bottom-up: zoskupenie vecí dokopy, ktoré spadaju do jednej kategórie
-3. myšlienková mapa: výsledkom je diagram zoskupujúci myšlienky, ktoré nemusia dávať úplne zmysel
-4. podľa štandardov: dopredu predpísaná štruktúra
-5. postup podľa analógia: podľa podobného projektu"
+"Čo má vplyv na odhady? Uveďte 2 príklady.
+
+","1.velkosť projektu
+2.ľudia
+3.typ projektu
+4.technológie
+5.opakovanie
+6.doména
+"
 Uveďte aspoň 3 príklady odporúčania pri písaní WBS.,"1. Každá jednotka by mala byť len raz
 2. Obsah určitej položky v štruktúre rozpisu tvorí súhrn jej podriadených položiek
 3. Za jednu položku zodpovedná jeden človek
@@ -355,13 +423,9 @@ R – responsible
 A – accountable
 C – consulted
 I – informed"
-"Uveďte aspoň dve otázky, ktoré sa pýtame pri odhadovaní zdrojov.
+"O čom hovorí Parkinsonov zákon?
 
-","1. Aká je náročnosť realizovania činnosti?
-2. Existuje v rozsahu projektu niečo výnimočné, čo bude mať vplyv na zdroje?
-3. Pracovala firma niekedy na podobných aktivitách? Ktorí zamestnanci to robili?
-4. Sú vo firme k dispozícií všetci zamestnanci, zariadenia a pod, ktorí sú schopní zabezpečiť splnenie úloh?
-5. Má zmysel zadať časť práce externej firme? Čo znamená outsourcing z pohľadu financií? Kedy budú k dispozícií?
+","Vždy sa nájde dostatok činnosti na využitie celého času
 "
 "Vymenujte činnosti, ktoré spadajú pod plánovanie času.","1. Definovanie činnností
 2. Zoradenie činností
@@ -370,7 +434,12 @@ I – informed"
 5. Stanovenia časového plánu"
 Čo rieši definovanie činnosti?,"Definovanie činnosti rieši AKO to budeme robit, nie ČO budeme robiť."
 Čo je výstupom definovania činnosti?,"Zoznam činností, ktoré budú zahrnuté do časového plánu."
-Čo definuje zoradenie činnosti a čo je jeho výsledkom?,"Definuje logické väzby medzi činnosťami a výsledkom je sieťový graf, ktorý znazorňuje aký je vzťah medzi činnosťami. (Také kocečky, ktoré sa dajú presúvať)"
+"Aký je hlavný rozdiel v ""korporátnej"" a startupovej mentalite?
+
+","Korporátna: ""Stačí mi jedno nie a skončil som"". = Ak ma raz niekto pošle do prdele nikam sa ďalej nepohnem
+
+Startup: ""Stačí mi 1 áno a idem ďalej"" = Stačí ak presvedčím 1 investora a môžem pokračovat
+"
 "O čom hovorí Parkinsonov zákon?
 
 ","Vždy sa nájde dostatok činnosti na využitie celého času
@@ -414,7 +483,16 @@ Uveďte aspoň dva príklady na čo sa zabúda pri odhadovaní.,"1.analýza - ko
 "O čom hovorí ""Kužel presnosti"" (je to graf) o odhadoch?","Čím viac postupujeme vo fázach prjektu, tým sú odhady presnejšie resp. tým je rozdiel medzi odhadom a realitou menší."
 O čom hovorí Parkinsonov zákon?,"Vždy sa nájde dostatok činnosti na využitie celého
 času"
-O čom hovorí Goldralov zákon?,Nikto nezačne pracovať skôr ako je to nevyhnutné
+"Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.
+
+","1. dostupnosť človeka
+2. náklady
+3. hĺbku skúseností v danej oblasti
+4. schopnosť použiť svoje znalosti
+5. znalosť prostredia zákazníka a domény
+6. schopnosť spolupracovať
+7. medzinárodné faktory
+"
 Ako ovplyvňuje projekt nadhodnotenie a podhodnotenie odhadu?,"Nadhodnotenie
 1.Parkinsonov zákon – vždy sa nájde dostatok činností na využitie celého času
 2.Goldralov zákon – nikto nezačne pracovať skôr ako je to nevyhnutné
