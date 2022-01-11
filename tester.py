@@ -122,8 +122,6 @@ def question_answer():
         if pb['value'] < 100:
             pb['value'] = (100 / amount_question) * counter
             value_label['text'] = update_progress_label()
-            s.configure("red.Horizontal.TProgressbar",
-                        background=progress_bar_color_list[((100 // amount_question) * counter) % 100])
 
         if counter == amount_question and not exam:
             showinfo(message='Chill time!')
@@ -619,6 +617,8 @@ def open_exam_settings():
     es_label_questions.place(height=20, width=300, x=0, y=0)
 
     scala.place(height=40, width=290, x=5, y=40)
+
+
 ######################################################################################################
 green_color = "#B6D7A8"
 red_color = "#EA9999"
@@ -647,12 +647,14 @@ progress_bar_color_list = ["#ff0000", "#ff1b00", "#ff2a00", "#ff3500", "#ff3e00"
                            "#abff00", "#a6ff00", "#a2ff00", "#9dff00", "#98ff00", "#93ff00", "#8eff00", "#89ff00",
                            "#84ff00", "#7eff00", "#78ff00", "#72ff00", "#6bff00", "#65ff00", "#5dff00", "#55ff02",
                            "#4cff08", "#41ff0e", "#35ff13", "#24ff17", "#00ff1b"]
+
 ########################################PROGRESS BAR###################################################
-s = ttk.Style()
+"""s = ttk.Style()
 s.theme_use('default')
 s.configure("red.Horizontal.TProgressbar", background=progress_bar_color_list[0])
 
-pb = ttk.Progressbar(root, style="red.Horizontal.TProgressbar", orient='vertical', mode='determinate', length=425)
+pb = ttk.Progressbar(root, style="red.Horizontal.TProgressbar", orient='vertical', mode='determinate', length=425)"""
+pb = ttk.Progressbar(root, orient='vertical', mode='determinate', length=425)
 value_label = ttk.Label(root, background="#F0F0EF", text=update_progress_label(), anchor="center")
 
 pb.place(x=418, y=30)
@@ -674,7 +676,6 @@ txt_field_question.place(height=200, width=390, x=5, y=30)
 txt_field_answer.place(height=200, width=390, x=5, y=260)
 
 #########################################BUTTONS#################################################
-
 
 
 btn_clear = tk.Button(root, text="Clear", bg=orange_color, command=clear)
