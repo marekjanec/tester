@@ -1,39 +1,28 @@
-otazka,odpoved
+otazka,odpovede
 Čo je to projekt?,Projekt je dočasné úsilie s cieľom vytvoriť unikátny produkt alebo službu.
 Čo nie je projekt?,"1.opakovaná činnosť
 2.štandardné pracovné postupy
 3.prevádzka
 4.rutinná aktivita
 5.bežná práca"
-"Prečo je projekt dočasné úsilie?
-
-","má jednoznačný začiatok a koniec
-"
+Prečo je projekt dočasné úsilie?,má jednoznačný začaitok a koniec
 Kedy sa projekt ukončí?,"1.dosiahnutie cieľov projektu alebo naopak nenaplnenie cieľov
 2.vyčerpanie zdrojov (finančné alebo ľudské)
 3.neexistencia potreby projektu (napr. zmenou stratégie) - netreba ho už
 4.právne dôvôdy - legislatíva"
-"Čo znamená, že je projekt jedinečný?
-
-","napĺňa ciele prostredníctvom výstupov:
+"Čo znamená, že je projekt jedinečný?","napĺňa ciele prostredníctvom výstupov:
 1.unikátny produkt
 2.vylepšený produkt,služba, dokument
-3.kombinácia uvedených
-"
-"Čo je dôvod vzniku projektu? Iniciovanie projektu?
-
-","1.Požiadavky a potreby stackeholder-ov
+3.kombinácia uvedených"
+Aké sú projektové kritériá?,"1.jedinečneosť
+2.obmedzenosť(čas, peniaze, zdroje)
+3.potreba realizovania projektovým tímom
+4.komplexnosť a zložitosť
+5.vysoká miera rizika"
+Čo je dôvod vzniku projektu? Iniciovanie projektu?,"1.Požiadavky a potreby stackeholder-ov
 2.Regulačné, právne alebo sociálne požiadavky
 3.Implementácia alebo zmena biznisovej alebo technickej stratégie
-4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb
-"
-"Čo je dôvod vzniku projektu? Iniciovanie projektu?
-
-","1.Požiadavky a potreby stackeholder-ov
-2.Regulačné, právne alebo sociálne požiadavky
-3.Implementácia alebo zmena biznisovej alebo technickej stratégie
-4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb
-"
+4.Vytvorenie, zlepšenie alebo oprava produktov, procesov alebo služieb"
 Vymenuj 5 príklady projketov:,"1.Zavedenie systému kvality
 2.Vývoj sofvéru
 3.Návrh nového automobilu
@@ -43,45 +32,17 @@ Vymenuj 5 príklady projketov:,"1.Zavedenie systému kvality
 7.Výskumná expedícia"
 Čo je to program?,"Program je konzistentná skupina súvisiacich projektov a aktivít, ktoré majú naplniť spoločný cieľ. Ich spoločná koordinácia má priniesť benefity, ktoré by NEmohli byť dosiahnuté individuálnym riadením bez vzájomnej koordinácie."
 Čo je cieľom programu?,Cieľom programu je vzájomný súlad a synergia.
-"Z čoho sa skladá trojimperatív?
-
-","1.čas
-2.rozsah
-3.zdroje
-"
+Čo nie je program?,Program nie je zložitý komplexný projekt.
 Čo je to portfólio?,"Portólio je tvorené skupinou programov alebo projektov, ktoré nemusia byť prepojené, ale sú zoskupené za účelom koordinácie riadenia, kontroly a optimalizácie."
 Na čo sa zameriava portfólio? ,Zameriava sa na posudzovanie projektov a programov z dôvodu prioritizácie pridelenia zdrojov.
-"Aké sú odlišnosti projektového riadenia softvéru od iných projektov?
-
-","1.nehmotný 
-2.proces vývoja softvéru je relatívne nový a stále vo vývoji
-3.veľké softvérové projekty sú zvyčajne jednorazové
-4.rapídny vývoj technológií
-5.flexibilný
-"
-"Vymenuj 5 zletýchpravidiel úspešného projektu:
-
-","1.vytvorenie komplexného a realistického plánu, ktorý je aktuálny
-2.získanie zhody ohľadom projektového výstupu
-3.požadovanie primeraných zdrojov
-4.vytvorenie najlepšieho možného tímu a staranie sa oň
-5.informovanie stakeholders
-6.prijatie zmeny a skúsiť nové veci
-7.projekt vedený manažérom a lídrom
-"
+Má portfólio začiatok a koniec?,Nemá stanovený začiatok ani koniec.
+Z čoho sa skladá portfólio?,Z projektov a programov
 Z čoho sa skladá program?,Z projektov
-Z Čoho sa skladá trojimperatív?,"1.čas
+Z čoho sa skladá trojimperatív?,"1.čas
 2.rozsah
 3.zdroje"
-Vysvetli trojimperatív:,Je to závyslosť času. rozsahu a zdrojov.
-"Vymenujte fázy projektu(5)
-
-","1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
-2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
-3.VYKONÁVANIE – koordinácia ľudí a zdrojov, tak aby sa plán realizoval a naplnili saciele
-4.MONITORING A KONTROLA – sledovanie a kontrola pokroku a výkonnosti spolu spotrebnými zmenami
-5.ZATVORENIE – formálna akceptácia projektu (fázy) a jeho ukončenie
-"
+Vysvetli trojimperatív:,"Je to závyslosť času, rozsahu a zdrojov."
+Daj príklad na zmenu v trojimperatíve:,Stakeholde to chce mať rychlejšie hotové tak treba zaplatiti ďalších ľudí alebo znížit rozsah.
 Prečo projekty zlyhávajú?,"1.nedostatok zdrojov
 2.nedostatok času
 3.nejasná špecifikácia
@@ -89,7 +50,7 @@ Prečo projekty zlyhávajú?,"1.nedostatok zdrojov
 5.nezhoda medzi stakeholdrami
 6.zlý plán
 7.nedostatočný manažment projektu"
-Vymenuj 5 zletýchpravidiel úspešného projektu:,"1.vytvorenie komplexného a realis>ckého plánu, ktorý je aktuálny
+Vymenuj 5 zletých pravidiel úspešného projektu:,"1.vytvorenie komplexného a realistického plánu, ktorý je aktuálny
 2.získanie zhody ohľadom projektového výstupu
 3.požadovanie primeraných zdrojov
 4.vytvorenie najlepšieho možného tímu a staranie sa oň
@@ -104,33 +65,17 @@ Vymenuj 5 zletýchpravidiel úspešného projektu:,"1.vytvorenie komplexného a 
 3.absolútny nedostatok zdrojov
 4.úplný rozpad projektového tímu
 5.súbeh niekoľkých mimoriadnych udalostí"
-"Vymenuj typi project managment office a v skratke opiš
-
-","PODPORA
-1.sprostredkovanie šablón, postupov, školení, prístupov a zdieľaní z iných projektov
-2.slúži ako úložisko projektov
-
-KONTROLA
-1.poskytujú podporu a vyžadujú a kontrolujú súlad používaných metodík, šablón, nástrojov
-
-RIADENIE
-1.priamo riadi projekty
-2.projektových manažérov prideľuje PMO a zodpovedá za ne
-"
+Načo je krízové riadenie?,Krízové riadenie rieši vzniknutú krízovú situáciu (ako zvládnuť situáciu a ako z nej vyviaznuť).
 Čo je to krízový stav?,"Krízový stav na rozdiel od katastrofy (deštrukcia, zrútenie projektu, kedy ľudské reflektovanie je obmedzené len na sledovanie) dáva možnosť zvrátiť stav pozitívnym smerom a teda pokúsiť sa o aktívny zásah."
-"Vymenujte fázy manažnemtu projektu(5)
-
-","1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
-2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
-3.VYKONÁVANIE – koordinácia ľudí a zdrojov, tak aby sa plán realizoval a naplnili saciele
-4.MONITORING A KONTROLA – sledovanie a kontrola pokroku a výkonnosti spolu spotrebnými zmenami
-5.ZATVORENIE – formálna akceptácia projektu (fázy) a jeho ukončenie
-"
-"Popíšte technické kompetencie projektového manažéra.
-
-","Sú to zručnosti efekfvneho uplatňovania vedomosti o projektovom riadení s cieľom dosiahnuť požadované výsledky pre projekt. 
-Môže medzi ne patriť správa a prispôsobenie nástrojov, spravovanie artefaktov (plán, riziká atď.)
-"
+Vymenuj a vysvetli štádia krízy:,"1.Symptómy krízy - Správy signalizujúce možný výskyt krízových situácií (neustále sklzy v termínoch, výpadky zdrojov,...).
+2.Akútne štádium krízy - Zistené skutočnosti, ktoré ohrozujú úspech projektu. Projektový tím ich nedokáže sám odstrániť.
+3.Chronické štádium krízy - V dôsledku pretrvávania príčin sa kríza prehlbuje a ohrozuje aj okolie.
+4.Riešenie krízy - Zastavenie krízy a dôsledkov pôsobenia krízy. Opatrenia k prechodu na bežné riadenie."
+Vymenuj kroky v krízovom riadení projektu(5),"1.zastavenie zhubného pôsobenia krízy
+2.identifikácia krízy
+3.odstránenie príčin krízy a dopadov
+4.navodenie bežného operatívneho riadenia projektu
+5.zapracovanie opatrení na zamedzenie ďalších kríz"
 Čo je najlepším riešením krízy?,"Najlepším riešením krízy je zabrániť, aby nenastala!"
 Čo má robiť manažer aby zvládol krízu?,"1. Ukľudniť seba a ostatných
 2. Zanalyzovať situáciu. Bleskovo!
@@ -147,18 +92,14 @@ Aké sú odlišnosti propjektového riadenia softvéru od iných prjektov?,"1.ne
 3.veľké softvérové projekty sú zvyčajne jednorazové
 4.rapídny vývoj technológií
 5.flexibilný"
-"Aké sú úlohy manažmentu softvérového projektu?
-
-","1.dodanie načas
+Aké sú úlohy manažmentu softvérového projektu?,"1.dodanie načas
 2.dodanie v rámci rozpočtu
-3.uspokojenie požiadaviek klienta
-"
+3.uspokojenie požiadaviek klienta"
 Z čoho pozostá životny cyklus softvérového projektu?,"Životný cyklus SW projektu je séria fáz, ktorými projekt prechádza od začiatku do konca."
-Čo je to fáza(eatapa) v životnom cykle projektu?,"je súbor logicky súvisiacich projektových akIvít, ktoré sú ukončené dokončením jedného alebo viacerých výstupov."
-"Čo rozoberá SMART cieľ?
-
-","Potreba porozumenia, čo má byť projektom realizované, na čo to má slúžiť a za akých podmienok by to malo byť realizovateľné.
-"
+Čo je to fáza(eatapa) v životnom cykle projektu?,"je súbor logicky súvisiacich projektových aktivít, ktoré sú ukončené dokončením jedného alebo viacerých výstupov."
+Čo je to miľník v životnom cykle projektu?,"- Oddeľuje jednotlivé fázy.
+- Predstavujú zásadné termíny alebo dokončené práce, ktoré sú nutné k dosiahnuIu cieľa projektu. 
+- Je to udalosť, ktorá nemá žiadnu dobu trvania a k jej dosiahnutiu je potrebné vykonať viacero aktivít."
 Vymenuje procesy manažnemtu projektu(5),"1.INICIALIZÁCIA – definovanie projektu (fázy) s cieľom získať oprávnenie na začatie
 2.PLÁNOVANIE – stanovenie rozsahu projektu, jeho cieľov a definovanie postupučinností potrebných na dosiahnutie cieľov
 3.VYKONÁVANIE – koordinácia ľudí a zdrojov, tak aby sa plán realizoval a naplnili saciele
@@ -167,36 +108,35 @@ Vymenuje procesy manažnemtu projektu(5),"1.INICIALIZÁCIA – definovanie proje
 Ktorým z projektových štandardov by ste sa inšpirovali pri zostavení projektového tímu a výbere projektového manažéra? ,"1.PRINCE2 - metóda riadenia projektov
 2.Project Management Body of Knowledge - súbor najlepších praktík na riadenie projektov
 3.IPMA - súbor požadovaných spôsobilos; na riadenie projektov"
-"Čo je plán projektu?
+Aké poznáme podnikové prostredia? Aj s príkladmi.,"Interné:
+1.organizácia, kultúra, riadenie
+2.geografické rozdelenie
+3.infraštruktúra a SW vybavenie
+4.schopnosti zamestnancov
 
-","definovanie, príprava a koordinácia všetkých súčastí projektu
-
-najskôr sa dohodneme ČO, potom AKO a následne to spravíme
-"
-"Čo je to logický rámec a v akej fáze projektu sa vypracováva?
-
-","Vypracováva sa počas inicializácie projektu a je to logicky spracovaná a stručná tabuľka popisujúca súvislosti v projekte, podľa ktorej by mal každý vedieť, čo ideme robiť, prečo to ideme a ako to ideme robiť. 
-Slúži počas celého projektu.
-"
-"Uveďte dôležité charakteristiky logického rámca.
-
-","1. nie je to tautológia
-2. neexistuje ideálny (je predmetom vyjednávania)
-3. mal by sa aktualizovať počas projektu ak sa niečo zmení
-4. poskytuje základ pre monitorovanie a hodnotenie
-"
-Čo je to projekt managment office(PMO)?,PMO štandardizuje postupy riadenia
-Vymenuj typi proejct managment office a v skratke opiš,"PODPORA
+Externé:
+1.trh
+2.legislafva
+3.finančné hľadisko"
+Uveď priklad vedomostnej základne.,"1.Wiki
+2.vykazovacie systémy
+3.kontrolingový systém
+4.reportovací systém"
+Vymenuj topológia v organizačnej štrukúre a vysvetli ich:,"1.Funkčná topologia - podľa funkcie
+2.Projektová topológia - podľa projektu
+3.Maticová topológia - podľa úrvne(toto eset overit alebo ak vies spravne oprav)"
+Čo je to projekt managment office(PMO)? Respektíve čo robi PMO?,PMO štandardizuje postupy riadenia
+Vymenuj typy project managment office a v skratke ich opiš.,"PODPORA
 1.sprostredkovanie šablón, postupov, školení, prístupov a zdieľaní z iných projektov
 2.slúži ako úložisko projektov
 
 KONTROLA
-1:poskytujú podporu a vyžadujú a kontrolujú súlad používaných metodík, šablón, nástrojov
+1.poskytujú podporu a vyžadujú a kontrolujú súlad používaných metodík, šablón, nástrojov
 
 RIADENIE
 1.priamo riadi projekty
 2.projektových manažérov prideľuje PMO a zodpovedá za ne"
-Ako môžu iné projekty zasahovať do chodu projektu?,"1. požiadavka na rovnaké zdroje
+Ako môžu iné projekty zasahovať do chodu projektu?(3),"1. požiadavka na rovnaké zdroje
 2. financovanie
 3. zosúladenie projektových cieľov a cieľov organizácie"
 Podľa ktorých kompetencii sa posudzujú projektoví manažéri?,"1. leadership
@@ -204,56 +144,39 @@ Podľa ktorých kompetencii sa posudzujú projektoví manažéri?,"1. leadership
 3. biznisové a strategické kompetencie"
 Popíšte technické kompetencie projektového manažéra.,"Sú to zručnosti efekfvneho uplatňovania vedomosti o
 projektovom riadení s cieľom dosiahnuť požadované výsledky pre projekt. 
+
 Môže medzi ne patriť správa a prispôsobenie nástrojov, spravovanie artefaktov (plán, riziká atď.)"
-"Pre čo vytvára základ WBS - work breakdown structure? 
+Popíšte strategické a biznisové kompetencie projektového manažéra.,"Schopnosť vidieť projekt z perspektívy organizácie a implementovať rozhodnutia.
 
-
-
-","1.rozdelenie úloh
-2.plánovanie termínov
-3.plánovanie nákladov
-4.plánovanie ľudských zdrojov
-
-"
+Môže medzi ne patriť znalosť financii a manažmentu, schopnosť komunikovať s ľuďmi, stackholdermi, znalosť domény atď."
 Popíšte kritérium leadership pri hodnotení projektových manažérov.,"Je to schopnpsť viesť tím, motivovať ľudí, kominukovať s nimi, riešiť problémy a nevypičovať niekomu keď ma naserie.
+
 Môže medzi ne patriť komunikácie počas konfliktov, sústrediť sa na dôležité veci."
-"Čo je to logický rámec a v akej fáze projektu sa vypracováva?
+Popíšte rozdiely medzi manažmentom a leadershipom.,"Manažment sa zameriava skôr na administratívne úkony a udržiavanie vecí, ktoré už fungujú, zatiaľ čo leadership sa zameriava skôr na inovácie a prinášanie nových myšlienok a komunikáciu."
+Uveďte vlastnosti a schopnosti dobrého manažéra.,"1. Poznať dôvody a motiváciu.
+2. Poznať čo zadávateľ od projektu očakáva.
+3. Dôvera vo vlastným tím
+4. Tímový hráč
+5. Držím emócie pod kontrolou"
+Komu sa zodpovedá projektový manažér?,Riadiacemu výboru.
+Z akých rolí sa skladá projektový tím?,"1. Riadiaci výbor
+2. Projektový manažér
+3. Garant výstupu
+4. Člen tímu
+5. Subject Metter Expert (SME)
+6. Administrátor"
+Definujte riadiaci výbor. Respektíve čo robí riadiaci výbor?,definuje strategické zadanie celého projektu a dohliada na jeho naplnenie
+"Kto je to garant výstupu? Respektíve čo je jeho úloha, čo robí?","1. zodpovedá za dodržiavanie termínov 
+2. zodpovedá za kvalitu výstupu
+3. zadáva úlohy jednotlivým ľuďom
+4. informuje o problémoch"
+Kto je to člen tímu?,"Každy, kto sa podieľa na projekte (aj tvorba harmonogramu atď.)
 
-","Vypracováva sa počas inicializácie projektu a je to logicky spracovaná a stručná tabuľka popisujúca súvislosti v projekte, podľa ktorej by mal každý vedieť, čo ideme robiť, prečo to ideme a ako to ideme robiť. 
-Slúži počas celého projektu.
-"
-"Kto je to garant výstupu?
+Plní úlohy v stanovenom termíne"
+Kto je to administrátor? Čo robí?,Poskytuje administratívnu podporu a pomáha projektovému manažérovi.
+Kto je to SME (Subject Metter Expert)?,"Expert na obsah projektu a štandardy, ktoré majú byť v projekte použité
 
-","1.zodpovedá za dodržiavanie termínov a kvalitu výstupu
-2.zadáva úlohy jednotlivým ľuďom
-3.informuje o problémoch
-"
-"Pre čo vytvára základ WBS - work breakdown structure? 
-
-","1.plánovanie termínov
-2.rozdelenie úloh
-3.plánovanie nákladov
-4.plánovanie ľudských zdrojov
-"
-"Čím sa zaoberá štúdia príležitosti?
-
-","Je vhodná doba na realizáciu? Aké je vnútorné a vonkajšie prostredie organizácie?(či sa nám to ako firme oplatí robiť)
-"
-Definujte riadiaci výbor.,definuje strategické zadanie celého projektu a dohliada na jeho naplnenie
-Kto je to garant výstupu?,"Zodpovedá za dodržiavanie termínov a kvalitu výstupu
-zadáva úlohy jednotlivým ľuďom
-informuje o problémoch"
-"Aké dokumenty sa chronologicky vytvárajú pri vytváraní štruktúry projektu?
-
-","1. Logický rámec
-2. WBS - work breakdown structure
-3. sieťová analýza: sieťový graf zoradených činností
-"
-Kto je to administrátor?,Poskytuje administratívnu podporu a pomáha projektovému manažérovi.
-"Zjednodušuje plán projektu komunikáciu medzi skupinami zapojenými do projektu?
-
-","Ano
-"
+Môže byť aj vo funkcii poradcu alebo dohľadu."
 Na čo slúži predprojektová príprava?,Posúdiť príležitosť a preskúmať realizovateľnosť projektu.
 Aké analýzy sa vykonávajú v predprojektovej príprave?,"1. Analýza príležitosti.
 2. Analýza uskutočniteľnosti.
@@ -261,21 +184,16 @@ Aké analýzy sa vykonávajú v predprojektovej príprave?,"1. Analýza prílež
 4. Logický rámec
 5. Ekonomické analýzy
 6. Predprojektové úvahy"
-"Vymenujte základné časti logického rámca (4 + 1).
-
-","1. Logická postupnosť krokov
-2. Objektívne overiteľné ukazovatele
-3. Zdroje overenia
-4. Predpoklady - čo musí byť splnené(na pr. externé faktory) aby to malo dobrý výsledok
-5. Out of scope
-"
+Čím sa zaoberá štúdia príležitosti?,Je vhodná doba na realizáciu? Aké je vnútorné a vonkajšie prostredie organizácie?
 Čím sa zaoberá štúdia uskutočniteľnosti?,"Posudzuje, či vieme uskutočniť daný projekt - rozoberá približný rozsah, začiatok a koniec projektu, náklady."
-Čo rozoberá SMART cieľ?,"Potreba porozumenia, čo má byť projektom realizované, na čo to má slúžiť a
-za akých podmienok by to malo byť realizovateľné."
+Čo rozoberá SMART cieľ?,"Potreba porozumenia, čo má byť projektom realizované, na čo to má slúžiť a za akých podmienok by to malo byť realizovateľné."
 Uveďte jeden príklad ekonomických analýz.,"Doba návratnosti = za aký čas sa mi vrátia všetky peniaze, ktoré som do toho investovala"
-Čo je to logický rámec a v akej fáze projektu sa vypracováva?,"Vypracováva sa počas inicializácie projektu a je to logicky spracovaná a stručná tabuľka popisujúca súvislosti v projekte, podľa ktorej by mal kaźdý vedieť, čo ideme robiť, prečo to ideme a ako to ideme robiť. 
+Čo je to logický rámec a v akej fáze projektu sa vypracováva?,"Vypracováva sa počas inicializácie projektu.
+
+Je to logicky spracovaná a stručná tabuľka popisujúca súvislosti v projekte, podľa ktorej by mal kaźdý vedieť, čo ideme robiť, prečo to ideme a ako to ideme robiť. 
+
 Slúži počas celého projektu."
-Vymenujte základné časti logického rámca (4 + 1).,"1. Logická postupnosť krokov
+Vymenujte základné časti logického rámca(4+1).,"1. Logická postupnosť krokov
 2. Objektívne overiteľné ukazovatele
 3. Zdroje overenia
 4. Predpoklady
@@ -283,17 +201,13 @@ Vymenujte základné časti logického rámca (4 + 1).,"1. Logická postupnosť 
 Čo je to logická postupnosť krokov v logickom rámci?,"Je to základná stratégia ako budeme postupovať, ako za sebou budeme vykonávať aké aktivity aby sme dosiahli cieľ "
 Čo sú to objektívne overiteľné ukazovatele v logickom rámci?,"Prostriedky, ktoré musíme využiť na aktivity z postupnosti krokov a musia byť merateľné napr. čas, financie, atď.."
 Čo sú to zdroje overenia v logickom rámci?,"Hovoria o tom ako a kde môžme overiť naplnenie cieľov.
-Posledný riadok obsahuje časový harmonogram."
-"Uveďte tipy ako produktívne riešiť konflikt.
-","1. emocionálny odstup
-2. vecná diskusia
-3. počúvanie a snaha o dobrý úmysel
-4. nepopierať, že konflikt existuje
-5. navrhnutie spôsobu riešenia
 
-"
+Posledný riadok obsahuje časový harmonogram."
+Čo sú to predpoklady v logickom rámci?,"Externé faktory, ktoré sú potrebné na úspešnú realizáciu ale my ich nevieme ovplyvniť.
+
+Faktory, ktoré musia byť splnené už pred začatím sa píšu dole."
 "Čo obnáša ""out of scope"" v logickom rámci.","Explicitne povedané, čomu sa nebudeme venovať a čo nie je účelom projektu"
-Aký je postup tvorby logického rámca?,"1. stanovenie cieľa projektu (Aká potreba má byť naplnená?)
+Aký je postup tvorby logického rámca?(9),"1. stanovenie cieľa projektu (Aká potreba má byť naplnená?)
 2. stanovenie výstupov (Čo konkrétne máme vyprodukovať?)
 3. stanovenie kľúčových činností pre dosiahnutie výstupov (Čo musíme urobiť aby sme dostali výstup?)
 4. stanovenie účelu/ zámeru (Čo mám projektom vyriešiť?)
@@ -302,160 +216,121 @@ Aký je postup tvorby logického rámca?,"1. stanovenie cieľa projektu (Aká po
 7. stanovenie nákladov - financii a časový rámec (Koľko ma to bude stáť a ako dlho mi to bude trvať?)
 8. stanovenie objektívnych ukazovateľov (Ako zmerať, že sme niečo dosiahli?)
 9. prehodnotenie projektu s inými podobnými projektami"
-Uveďte dôležité charakteristiky logického rámca.,"1. nie je to tautológia
+Uveďte dôležité charakteristiky logického rámca.(4),"1. nie je to tautológia
 2. neexistuje ideálny (je predmetom vyjednávania)
 3. mal by sa aktualizovať poćas projektu ak sa niečo zmení
 4. poskytuje základ pre monitorovanie a hodnotenie"
-Definujte zahájenie projektu.,Zahŕňa aktivity súvsiace s definovaním nového projektu. Výsledkom je získanie povolenia na štart nového projektu alebo fázy.
-Aké činnosti obnáša zahájenie projektu?,"1. Pridanie manažéra
+"Definujte zahájenie projektu, čo je jeho výsledkom?","Zahŕňa aktivity súvsiace s definovaním nového projektu. 
+
+Výsledkom je získanie povolenia na štart nového projektu alebo fázy."
+Aké činnosti obnáša zahájenie projektu?(5),"1. Pridanie manažéra
 2. Pochopenie cieľu zámeru, rozsahu a požiadaviek
 3. Určenie kritérii úspechu
 4. Analýza stackholderov
 5. Rozdelenie do fáz"
 Čo sú to kritéria úspechu?,"Metriky, podľa ktorých vieme povedať, že náš projekt je úspešný, napr. ""Do roka bude mať appka 1000 aktívnych používateľov""."
-"Aké dva faktory sa zohľadňujú pri výbere opatrení na riešenie rizika?
-
-","1.cena opatrenia (koľko ma to bude stáť)
-2.dopad (čo to reálne vyrieši)
-"
+Uveďte základné vlastnosti kritérii úspechu.(4),"1. Sú merateľné jednoznačné a odkomunikované
+2. Často sú akceptačnými kritériami
+3. Nie je to to isté ako rizikové faktory
+4. Menia sa počas projektu"
 Aký je rozdiel medzi tvrdým a mäkkým kritériom úspechov? Daj príklad,"Tvrdé kritérium je odmeraný fakt  = pripojených minimálne 1000 používateľov a odozva neklesne pod 0,5s
 
 Mäkké kritérium je subjektívne založené = zamestnanci vnímajú zmenu pozitívne"
 Kto sú to stackolderi (zainteresované osoby)?,"subjekty (ľudia, organizácie,projekty), ktorých realizácia projektu ovplyvňuje.
 
 Každý kto je pre úspech projektu dôležitý, by mal byť identifikovaný ako stakeholder."
-"Čo je to kritická cesta a ako sa využíva pri vytváraní časového plánu(CPM – critical path method)?
-
-","Je to najdlhšia cesta z počiatku sieťového grafu po koniec.
-Využíva sa na určenie doby trvania celého projektu. 
-"
+Aké činnosti obnáša riadenie stackholderov?(3),"1.identifikácia stakeholderov a ich očakávaní
+2.analíza stakeholderov
+3.stratégia pre stakeholderov"
 Čo je výsledkom identifikácie stackholderov?,Zoznam stackholderov
 Aké typy stackholderov poznáme (4) a ako s nimi pracovať.,"1. Tvorcovia - Vysoký vplyv, nízky záujem (udržiavam spokojnosť)
 2. Dav - Nízky vplyv, nízky záujem (sledujem)
 3. Kľúčový hráči - Vysoký vplyv, vysoký záujem (aktívna spolupráca)
 4. Dôležité osoby - Nízky vplyv, vysoký záujem (udržiavam ich informovaných)"
-Podľa čoho sa posudzju stakeholderi?,"1.vply
-2.záujem"
-Čo je to charta projektu?,Je výsledkom inicializácie a je to zakladacia listina projektu.
-Čo obsahuje charta projektu?,"1.formálne popisuje existenciu projektu,
-2.definuje smerovanie projektu k naplneniu jeho cieľa
-3.definuje harmonogram a výstupy
-4.popisuje riadenie projektu
-5.menuje projektového manažéra a realizačný tím projektu"
-"Prečo je dôležité evidovať zamietnutie opatrenia pri kontrole?
-
-","Aby ma niekto potom nemohol zdrbať, že som ""nič nespravil"". Ja im to ukážem a poviem ""Aha, ja som to chcel riešiť ale tento tu mi povedal, že sa mám na to vykašlať.""
-"
-K čomu pomáha plánovanie projektu?,"1.zvýšenie porozumenia
-2.zníženie neistoy
-3.zlepšenie efektivity
-4.podporovanie kontroly riadenia"
-Čo je plán projektu?,"definovanie, príprava a koordinácia všetkých súčas8 projektu
+Podľa čoho sa posudzju stakeholderi?(2),"1. vply
+2. záujem"
+Čoho je výsledkom charta projektu a čo to je?,Je výsledkom inicializácie a je to zakladacia listina projektu.
+Čo obsahuje charta projektu?(5),"1. formálne popisuje existenciu projektu,
+2. definuje smerovanie projektu k naplneniu jeho cieľa
+3. definuje harmonogram a výstupy
+4. popisuje riadenie projektu
+5. menuje projektového manažéra a realizačný tím projektu"
+Kto schvaľuje chartu projektu?,Riadiaci výbor.
+K čomu pomáha plánovanie projektu?(4),"1. zvýšenie porozumenia
+2. zníženie neistoy
+3. zlepšenie efektivity
+4. podporovanie kontroly riadenia"
+Čo je plán projektu?,"definovanie, príprava a koordinácia všetkých súčastí projektu
 
 najskôr sa dohodneme ČO, potom AKO a následne to spravíme"
-"Uveďte dobré rady pri schvaľovaní zmien.
+Čo je plán riadenia projektu?,"dokument (sada dokumentov) pokrývajúci projekt vo všetkých relevantných otázkach riadenia projektu.
 
-","1. Aj keď zmenu zamietnem, mal by som zaznamenať prečo som to urobil
-2. Vždy by sme mali komunikovať s tými, čo zmenu budú implementovať
-3. Zmena by mala byť schválená príslušným orgánom
-4. Zmena by mala byť komunikovaná zákazníkom
-"
-"Pre čo vytvára základ WBS - work breakdown structure? 
-
-","1.rozdelenie úloh
-2.plánovanie termínov
-3.plánovanie nákladov
-4.plánovanie ľudských zdrojov.
-"
+definuje základ všetkých projektových prác a spôsob ich vykonávania."
+Plánovanie projektu obsahuje plánovanie čoho? Vymenujte 5(8),"1.integrácie – ako to bude celé koordinované a ako to bude fungovať spolu
+2.rozsahu projektu – ako bude definovaný a spracovaný vecný rozsah projektu
+3.času v projekte – ako bude definovaný a spracovaný harmonogram
+4.nákladov a financovania projektu – ako bude definovaný a spracovaný rozpočet projektu
+5.kvality – ako bude definovaná, sledovaná a riadená kvalita
+6.ľudí – ako bude prebiehať riadenie ľudských zdrojov na projekte
+7.komunikácie – ktoré informácie a akou formou ako často a komu budú komunikované
+8.rizík – ako budú riadené riziká"
 V čom sa odlišujú plány rôznych projektov? Na čom závysia tieto odlišnosti?,"najmä v miere podrobnosti plánovacieho procesu, ktorá je priamo úmerná druhu, rozsahu, komplexnosti a neurčitosti daného projektu."
-Aké sú chyby pri plánovaní?,"1.neplánovanie(Shit you dont say)
-2.nedostatočne detailné plánovanie
-3.nevedieť kedy prestať plánovať - plánovanie by malo končiť na úrovni nutnej podrobnos8, nie na úrovni vyčerpania všetkých možností
-4.nezapojenie ľudí do plánovania
-5.nereflektovanie rizík a neistoty v plánovaní
-6.neaktualizovanie plánu"
-Aké sú základné procesy plánovania a podporné procesy plánovania?,"základné procesy plánovania(trojimperatív):
-1.rozsah
-2.čas
-3.náklady
+Aké sú chyby pri plánovaní?(6),"1. neplánovanie(Shit you dont say)
+2. nedostatočne detailné plánovanie
+3. nevedieť kedy prestať plánovať - plánovanie by malo končiť na úrovni nutnej podrobnosti, nie na úrovni vyčerpania všetkých možností
+4. nezapojenie ľudí do plánovania
+5. nereflektovanie rizík a neistoty v plánovaní
+6. neaktualizovanie plánu"
+Aké sú základné procesy plánovania(3) a podporné procesy plánovania(4)?,"základné procesy plánovania(trojimperatív):
+1. rozsah
+2. čas
+3. náklady
 
 podporné procesy plánovania:
-1.riziká
-2.komunikácia
-3.kvalita
-4.ľudské zdroje"
+1. riziká
+2. komunikácia
+3. kvalita
+4. ľudské zdroje"
 Sú plány vytvorené v ostatných oblastiach projektu súčasťou celkového plánu projektu?,"No ne ty kokot(sarkazmus)
 
 (Ano, sú)"
-"Uveďte aspoň dva príklady na čo sa zabúda pri odhadovaní.
-
-","1.analýza - komunikácia so zákazníkmi a subdodávateľmi, stretnutia so zákazníkmi, interné review analýzy
-2.dizajn - menenie rozhraní pre tretie strany (parametre a kritéria)
-3.implementacie - debugovanie
-4.testovanie - nastavenie prostredí (Selenium, SoapUI), podpora akceptačného testovania
-5.Projektový manažment - činnosti súvisiace s vedením tímu (rozdelovanie práce, tvorba plánov a aktualizácia, interné stretnutia), aktivity súvisiace s podporou zákazníka
-"
-"Uveďte aspoň 3 príklady prístopov pri tvorbe WBS - work breakdown structure?
-
-","1. top-down: rozklad na menšie ""podčasti"" - od najnižšej úrovne po najvyššiu
-2. bottom-up: zoskupenie vecí dokopy, ktoré spadaju do jednej kategórie
-3. myšlienková mapa: výsledkom je diagram zoskupujúci myšlienky, ktoré nemusia dávať úplne zmysel
-4. podľa štandardov: dopredu predpísaná štruktúra
-5. postup podľa analógie: podľa podobného projektu
-"
-"Uveďte tipy ako produktívne riešiť konflikt.
-
-","1. emocionálny odstup
-2. vecná diskusia
-3. počúvanie a snaha o dobrý úmysel
-4. nepopierať, že konflikt existuje
-5. navrhnutie spôsobu riešenia
-"
-"Pomenujte dobré odporúčanie pre kick-off meeting.
-
-","1. Mal by byť prítomný každý člen tímu, zákazníci aj partneri
-2. Každý by mal vidieť zmysel projektu, prečo to robíme.
-3. Sám musím veriť, že to dáme
-4. Mal by sa zoznámiť tím a naplánovať komunikáciu
-5. Je dôležité stretnúť sa s protistranou a vykomunikovať si očakávania
-6. Ideálne je mať predtým interný meeting aby sa niekto neopýtal na Matúša
-7. Prezentujem tam plán, ktorý nemusí byť úplne hotový
-"
-Čo by malo obsahovať definovanie rozsahu?,"1. Akceptačné kritéria
+Zjednodušuje  plán projektu komunikáciu medzi skupinami zapojenými do projektu?,Ano
+"Vymenuj časti v pláne riadenia projektu, ktoré nie sú variabilné na základe typu projetku. Čiže sú vo všetkých projektoch.(4)","1. základný prehľad
+2. organizovanie projektu
+3. popis realizovaných prác
+4. časový harmonogram a rozpočet"
+Čo je rozsah produktu (product scope)?,"vlastnosti a funkcie charakterizujúce produkt, službu alebo výsledok"
+Čo je rozsah projektu (project scope)?(3),"1. akákoľvek práca, ktorá je potrebná na vytvorenie výstupov (produktu) požadovaných v rámci projektu
+2. definuje hranice projektu
+3. čo má byť v rámci projektu vyprodukované (produkty, služby, dokumenty a ďalšie výsledky)"
+Čo by malo obsahovať definovanie rozsahu?(5),"1. Akceptačné kritéria
 2. Dodávky – všetky produkty, výsledky alebo služby, ktoré sú potrebné na realizáciu projektu
 3. Čo nebude realizované (uvádza sa, čo sa domnieva, že sa bude realizovať)
 4. Obmedzenia
 5. Predpoklady"
 Čo je to WBS?,"Work breakdown structure - dekompozícia projektu, hierarchická štruktúra vecí, ktorá máme dodať
 Prehľadne ukazuje aktivity"
-"Aké dokumenty sa chronologicky vytvárajú pri vytváraní štruktúry projektu?
-
-","1. Logický rámec
-2. WBS - work breakdown structure
-3. sieťová analýza: sieťový graf zoradených činností
-"
-Pre čo vytvára základ WBS - work breakdown structure? ,"1.plánovanie termínov
-2.rozdelenie úloh
-3.plánovanie nákladov
-4.plánovanie ľudských zdrojov."
-Ako môžme členiť WBS - work breakdown structure?,"1. podľa výstupov (kategória = produkt na ktorom robíme)
+Čo definuje a nedefinuje WBS - work breakdown structure?,"WBS definuje ČO bude dodané (výsledok úsilia), nie činnosti ako a kedy to bude spravené."
+Pre čo vytvára základ WBS - work breakdown structure?(4),"1. plánovanie termínov
+2. rozdelenie úloh
+3. plánovanie nákladov
+4. plánovanie ľudských zdrojov."
+Ako môžme členiť WBS - work breakdown structure?(4),"1. podľa výstupov (kategória = produkt na ktorom robíme)
 2. podľa životného cyklu (kategória = analýza, návrh, implementácia, ..)
 3. podľa miesta výkonu práce (kategória = miesto)
 4. podľa kombinovaného prístupu"
 Aké dokumenty sa chronologicky vytvárajú pri vytváraní štruktúry projektu?,"1. Logický rámec
 2. WBS - wok breakdown structure
 3. sieťová analýza: sieťový graf zoradených činností"
-Do akej miery by mala byť urobená dekompozícia pri WBS - work breakdown structure?,"Objekty by mali byť oddlené a samostatne uskutočniteľné. Napr. pri bicykli to môže byť ""koleso"". Rozbíjať to na menšie nema zmysel, lebo jednému ""pásu"" vieme povedať aby skladal koleso"
-"Čo má vplyv na odhady? Uveďte 2 príklady.
+Do akej miery by mala byť urobená dekompozícia pri WBS - work breakdown structure?,"Objekty by mali byť oddlené a samostatne uskutočniteľné. 
 
-","1.velkosť projektu
-2.ľudia
-3.typ projektu
-4.technológie
-5.opakovanie
-6.doména
-"
-Uveďte aspoň 3 príklady odporúčania pri písaní WBS.,"1. Každá jednotka by mala byť len raz
+Napr. pri bicykli to môže byť ""koleso"". Rozbíjať to na menšie nema zmysel, lebo jednému ""pásu"" vieme povedať aby skladal koleso"
+Uveďte aspoň 3 príklady prístopov pri tvorbe WBS - work breakdown structure?(5),"1. top-down: rozklad na menšie ""podčasti"" - od najnižšej úrovne po najvyššiu
+2. bottom-up: zoskupenie vecí dokopy, ktoré spadaju do jednej kategórie
+3. myšlienková mapa: výsledkom je diagram zoskupujúci myšlienky, ktoré nemusia dávať úplne zmysel
+4. podľa štandardov: dopredu predpísaná štruktúra
+5. postup podľa analógia: podľa podobného projektu"
+Uveďte aspoň 3 príklady odporúčaní pri písaní WBS.(7),"1. Každá jednotka by mala byť len raz
 2. Obsah určitej položky v štruktúre rozpisu tvorí súhrn jej podriadených položiek
 3. Za jednu položku zodpovedná jeden človek
 4. Štruktúra má byť v súlade so skutočnou realizáciou
@@ -463,152 +338,146 @@ Uveďte aspoň 3 príklady odporúčania pri písaní WBS.,"1. Každá jednotka 
 6. Štruktúra musí byť flexibilná a musia sa v nej odraziť prípadné zmeny
 7.Najnižšiu úroveň je možné vhodne odhadnúť (čas, náklady)"
 Čo je to OBS?,"Organizational Breakdown Structure, popisuje čo má ktorý človek robiť na projekte."
-Čo vychádza z OBS?,Matica zodpovednosti
+Čo vychádza z OBS - Organizational Breakdown Structure?,Matica zodpovednosti
 Čo je to RACI matica? ,"Matica zodpovednosti
 
 R – responsible
 A – accountable
 C – consulted
 I – informed"
-"O čom hovorí Parkinsonov zákon?
+Čo popisuje RACI matica?,"Vyjadruje úroveň spoluúčasti, aktivity, úlohy a rozhodnutia
 
-","Vždy sa nájde dostatok činnosti na využitie celého času
-"
-Čo rieši definovanie činnosti?,"Definovanie činnosti rieši AKO to budeme robit, nie ČO budeme robiť."
+R – responsible
+A – accountable
+C – consulted
+I – informed"
+"Vymenujte činnosti, ktoré spadajú pod plánovanie času.(5)","1. Definovanie činnností
+2. Zoradenie činností
+3. Odhadovanie zdrojov
+4. Odhadovanie doby trvania činnosti
+5. Stanovenia časového plánu"
+Čo rieši definovanie činnosti? Čo definuje pri činnostiach?,"Definovanie činnosti rieši AKO to budeme robit, nie ČO budeme robiť."
 Čo je výstupom definovania činnosti?,"Zoznam činností, ktoré budú zahrnuté do časového plánu."
-"Aký je hlavný rozdiel v ""korporátnej"" a startupovej mentalite?
+Čo definuje/vytvára zoradenie činnosti a čo je jeho výsledkom?,"Definuje logické väzby medzi činnosťami 
 
-","Korporátna: ""Stačí mi jedno nie a skončil som"". = Ak ma raz niekto pošle do prdele nikam sa ďalej nepohnem
-
-Startup: ""Stačí mi 1 áno a idem ďalej"" = Stačí ak presvedčím 1 investora a môžem pokračovat
-"
-"O čom hovorí Parkinsonov zákon?
-
-","Vždy sa nájde dostatok činnosti na využitie celého času
-"
-Aké druhy sieťových grafov(2) môžu byť použité pri zoradení činností? Definujte základné vlastnosti.,"1. Uzlovo definovaný : Činnosti sú body, prechody sú prázdne šípky
-2. Hranovo definovaný : Body sú prázdne a hrany predstavujú činnosti"
+Výsledkom je sieťový graf, ktorý znazorňuje aký je vzťah medzi činnosťami. (Také kocečky, ktoré sa dajú presúvať)"
+Aké typy väzieb v rámci zoradenia činnosti poznáme?(4),"1. Koniec - začiatok : ďalšia činnosť môže začať až keď iná skončí
+2. Koniec - koniec : dve činnosti končia naraz
+3. Začiatok - začiatok : dve činnosti začínajú naraz
+4. Začiatok - koniec : asi že keď začne dáka činnosť iná musí skončiť"
+Aké druhy sieťových grafov(2) môžu byť použité pri zoradení činností? Definujte základné vlastnosti.,"1. Uzlovo definovaný - činnosti sú body, prechody sú prázdne šípky
+2. Hranovo definovaný - body sú prázdne a hrany predstavujú činnosti"
 Aké typy zdrojov (3) odhadujeme pri odhadovaní zdorjov?,"1. Ľudia - tester, programátor, analytik, ...
 2. Zariadenia - server, licencia, ..
 3. Materiál - papier, toner, .."
-"Ako ovplyvňuje projekt nadhodnotenie a podhodnotenie odhadu?
-
-","Nadhodnotenie
-1.Parkinsonov zákon – vždy sa nájde dostatok činností na využitie celého času
-2.Goldralov zákon – nikto nezačne pracovať skôr ako je to nevyhnutné
-
-Podhodnotenie
-1.vytvára pocit naliehavosti
-2.zmenšuje šance na včasné dodanie projektu
-3.deštruktívna dynamika v oneskorenom projekte ju ešte viac zhorší
-4.prudko rastú náklady
-"
+"Uveďte aspoň dve otázky, ktoré sa pýtame pri odhadovaní zdorjov.(5)","1. Aká je náročnosť realizovania činnosti?
+2. Existuje v rozsahu projektu niečo výnimočné, čo bude mať vplyv na zdroje?
+3. Pracovala firma niekedy na podobných aktivitách? Ktorí zamestnanci to robili?
+4. Sú vo firme k dispozícií všetci zamestnanci, zariadenia a pod, ktorí sú schopní zabezpečiť splnenie úloh?
+5. Má zmysel zadať časť práce externej firme? Čo znamená outsourcing z pohľadu financií? Kedy budú k dispozícií?"
 "Popíšte dva spôsoby, ktorými môžme odhadovať zdroje.","1. Viem koľko mám dispozícii zdrojov (napr. ľudí) a odhadujem koľko mi to bude trvať
 2. Mám striktný termín dodania a odhadujem koľko zdrojov (napr. ľudí) budem potrebovať aby som to stihol."
 Aké typy odhadov (3) môžme použiť pri odhadovaní času trvania?,"1. Expertný odhad - odborník na vývoj nie je odborník na odhad, čím viac odborníkov a skúsenstí tým lepšie ale stále je to riskatné
 2. Analogické odhadovanie - odhad na základe iného podobného projektu
 3. Parametrické odhadovanie - odhad pomocou historických dát a daných parametrov"
-Čo má vplyv na odhady? Uveďte 2 príklady.,"1. velkosť projektu
-2.ľudia
-3.typ projektu
-4.technológie
-5.opakovanie
+Čo má vplyv na odhady? Uveďte 2 príklady.(6),"1. velkosť projektu
+2. ľudia
+3. typ projektu
+4. technológie
+5. opakovanie
 6. doména"
-Uveďte aspoň jeden dôvod prečo bývajú odhady príliš optimistické?,"1. ľudia majú tendenciu byť optimisti
+Uveďte aspoň jeden dôvod prečo bývajú odhady príliš optimistické?(3),"1. ľudia majú tendenciu byť optimisti
 2. ľudia očakávajú, že projekt sa bude vyvíjať priaznivo
 3. skúsenosti berieme do úvahy len čiastočne"
-Uveďte aspoň dva príklady na čo sa zabúda pri odhadovaní.,"1.analýza - komunikácia so zákazníkmi a subdodávateľmi, stretnutia so zákazníkmi, interné review analýzy
-2.dizajn - menenie rozhraní pre treGe strany (parametre a kritéria)
-3.implementacie - debugovanie
-4.testovanie - nastavenie prostredí (Selenium, SoapUI), podpora akceptačného testovania
-5.Projektový manažment - činnosG súvisiace s vedením tímu (rozdelovanie práce, tvorba plánov a aktualizácia, interné stretnutia), akGvity súvisiace s podporou zákazníka"
+Uveďte aspoň dva príklady na čo sa zabúda pri odhadovaní.(5),"1. analýza - komunikácia so zákazníkmi a subdodávateľmi, stretnutia so zákazníkmi, interné review analýzy
+2. dizajn - menenie rozhraní pre tretie strany (parametre a kritéria)
+3. implementacie - debugovanie
+4. testovanie - nastavenie prostredí (Selenium, SoapUI), podpora akceptačného testovania
+5. projektový manažment - činnosti súvisiace s vedením tímu (rozdelovanie práce, tvorba plánov a aktualizácia, interné stretnutia), aktivity súvisiace s podporou zákazníka"
 "O čom hovorí ""Kužel presnosti"" (je to graf) o odhadoch?","Čím viac postupujeme vo fázach prjektu, tým sú odhady presnejšie resp. tým je rozdiel medzi odhadom a realitou menší."
-O čom hovorí Parkinsonov zákon?,"Vždy sa nájde dostatok činnosti na využitie celého
-času"
-"Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.
-
-","1. dostupnosť človeka
-2. náklady
-3. hĺbku skúseností v danej oblasti
-4. schopnosť použiť svoje znalosti
-5. znalosť prostredia zákazníka a domény
-6. schopnosť spolupracovať
-7. medzinárodné faktory
-"
-Ako ovplyvňuje projekt nadhodnotenie a podhodnotenie odhadu?,"Nadhodnotenie
-1.Parkinsonov zákon – vždy sa nájde dostatok činností na využitie celého času
-2.Goldralov zákon – nikto nezačne pracovať skôr ako je to nevyhnutné
+O čom hovorí Parkinsonov zákon?,Vždy sa nájde dostatok činnosti na využitie celého času
+O čom hovorí Goldralov zákon?,Nikto nezačne pracovať skôr ako je to nevyhnutné
+Ako ovplyvňuje projekt nadhodnotenie(2) a podhodnotenie(4) odhadu?,"Nadhodnotenie
+1. Parkinsonov zákon – vždy sa nájde dostatok činností na využitie celého času
+2. Goldralov zákon – nikto nezačne pracovať skôr ako je to nevyhnutné
 
 Podhodnotenie
-1.vytvára pocit naliehavosti
-2.zmenšuje šance na včasné dodanie projektu
-3.deštrukBvna dynamika v oneskorenom projekte ju ešte viac zhorší
-4.prudko rastú náklady"
-Vymenujte techniky na vytváranie časového plánu.,"1. Ganttov diagram
+1. vytvára pocit naliehavosti
+2. zmenšuje šance na včasné dodanie projektu
+3. deštruktívna dynamika v oneskorenom projekte ju ešte viac zhorší
+4. prudko rastú náklady"
+Vymenujte techniky na vytváranie časového plánu.(3),"1. Ganttov diagram
 2. Analýza kritickej cesty
-3. Metóda PERT"
+3. Metóda PERT - program evaluation and review technique"
 O čom hovorí Ganttov diagram?,"Znázorňuje všetky činnosti v projekte s dátumom zahájenia a ukončenia. 
 
 jedna činnosť = jeden riadok"
 Čo je to kritická cesta a ako sa využíva pri vytváraní časového plánu(CPM – critical path method)?,"Je to najdlhšia cesta z počitku sieťového grafu po koniec.
+
 Využíva sa na určenie doby trvania celého projektu. "
 Ako môžme optimalizovať trvanie projektu pomocou analýzy kritickej cesty (CPM - critical path method)?,"Snažíme sa aby bola kritická cesta, čo najkratšia, činnosti, ktoré môžu začínať spolu a nezávisia od seba sa snažíme zoradiť tak aby začínali spolu."
-"Popíšte v skratke metódu PERTH(program evaluation and review technique), kedy sa pouźíva a na čo?","Používa sa vtedy, keď máme v projekte vysokú mieru neistoty a pracuje s pravdepodobnosťami."
-V akej jednotke sa počíta pracnosť projektu?,Človekodni
-"Uveďte aspoň 3 príklady, čo sa ráta pri plánovaní nákladov.","Hardware, personálne náklady(náklady na ľudí), WS licencie, služby, ..."
-Čo by malo byť vstupom pri odhade nákladov?,"zakladacia listina projektu (očakávaný finančný rámec), definovaný rozsah
-projektu, časový plán projektu, požiadavky na zdroje."
-Aké druhy nákladov poznáme?,"1. priame náklady: vieme ich jednoznačne vyčísliť
-2. nepriame náklady: nie je možné ich jednoznačne prideliť jednému projektu
-3. režijné náklady: náklady na réžiu"
-Definujte riziko.,"Je to udalosť, ktorá ohrozuje alebo má dopad na úspešné dodanie projektu. Riziko nemusí byř vždy negatívne."
-"Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.
+"Popíšte v skratke metódu PERTH(program evaluation and review technique), kedy sa používa a na čo?","Používa sa vtedy, keď máme v projekte vysokú mieru neistoty a pracuje s pravdepodobnosťami."
+V akej jednotke sa počíta pracnosť projektu?,Človekodni(mačkopsi :D)
+"Uveďte aspoň 3 príklady, čo sa ráta pri plánovaní nákladov.(4)","1. hardware
+2. personálne náklady(náklady na ľudí)
+3. WS licencie
+4. služby
+5. ..."
+Čo by malo byť vstupom pri odhade nákladov?(5),"1. zakladacia listina projektu (očakávaný finančný rámec)
+2. definovaný rozsah
+3. projektu
+4. časový plán projektu
+5. požiadavky na zdroje."
+Aké druhy nákladov poznáme?(3),"1. priame náklady - vieme ich jednoznačne vyčísliť
+2. nepriame náklady - nie je možné ich jednoznačne prideliť jednému projektu
+3. režijné náklady - náklady na réžiu"
+Definujte riziko. Čo je to?,"Je to udalosť, ktorá ohrozuje alebo má dopad na úspešné dodanie projektu. Riziko nemusí byť vždy negatívne."
+Popíšte rozdiel medzi rizikom a problémom.,"Problém = niečo, čo sa už stalo a treba to akútne riešiť
 
-","1.dostupnosť človeka
-2.náklady
-3.hĺbku skúseností v danej oblasti
-4.schopnosť použiť svoje znalosti
-5.znalosť prostredia, zákazníka a domény
-6.schopnosť spolupracovať
-7.medzinárodné faktory
-"
-Čo je výsledkom riadenia rizík.,"Riziko sa stáva zvládnuteľným. Neznamená to, že riziko zmizne alebo, že ho máme úplne pod kontorolou."
+Riziko = ešte sa to nestalo ale vieme, že ak sa to stane, bude to treba riešiť
+
+Problém je riziko, ktoré sa naplnilo"
+Čo je výsledkom riadenia rizík? Čo sa s ním dosiahne?,"Riziko sa stáva zvládnuteľným. 
+
+Neznamená to, že riziko zmizne alebo, že ho máme úplne pod kontorolou."
 Aký je rozdiel medzi riadením rizík a analýzou rizík?,"Riadenie rizík = Monitorovanie a vykazovanie, sledujeme ako sa vyvíja situácia, plánujeme koľko zdrojov môžme vyčleniť, rieši situáciu ak už riziko nastalo
+
 Analýza rizík = Snažíme sa identifikovať aké rôzne riziká môžu nastať, aký budú mať dopad a aké opatrenia by sme mali použiť ak nastanú"
 Na aké riziká by sme sa mali sústrediť?,"80% rizík má tak malú pravdepodobosť alebo dopad, že sa nikdy nestanú. Mali by sme sa sústrediť na 20% tých ""fatálnych"""
-Čo by sme mali mať uvedené pre každé riziko pri správnom manažmente rizík? ,"1. Akú kategóriu v rámci projektu nám ovplyvní
+Čo by sme mali mať uvedené pre každé riziko pri správnom manažmente rizík? (2),"1. Akú kategóriu v rámci projektu nám ovplyvní
 2. Kto za neho preberie zodpovednosť (nemyslí sa, kto bude za neho vinný ale kto to bude riešiť)"
-Pomocou čoho sa ohocnocujú riziká? Popíšte postup.,"Pomocou grafu (matice), ktorá má na y osi pravdepodobnosť nastatia a na x osi dopad. 
-Určím si hranicu tolerancie = čiara, ktorá oddeľuje pravý horný roh, len to čo je nad hranicou tolerancie sú riziká, ktorými sa budem zaoberať a denne ich monitorovať, zvyšok má buď veľmi malú pravdepodobnosť (nikdy sa nestane) alebo veľmi malý dopad (nezaváži mi to moc na projekte)"
-Akými spôsobmi môžem riešiť riziká?,"1. predchádzanie : zabránim vzniku problému
-2. odmedzenie : zmenším pravdepodobnosť, že situácia nastane
-3. prenesenie : napr. v zmluve prenesiem časť zodpovednosti na dodávateľov
-4. rezervný plán : ak sa riziko naplní, pôjdem podľa záložného plánu
-5. akceptovanie : zmierim sa s tým, že to neviem ovplyvniť alebo si poviem, že je tak malá pravdepodobnosť, źe to nastane, že to nebudem riešiť"
-Aké dva faktory sa zohľadňujú pri výbere opatrení na riešenie rizika?,Cena opatrenia (koľko ma to bude stáť) a dopad (čo to reálne vyrieši)
+Pomocou čoho sa ohocnocujú riziká? Popíšte postup.,"1. Pomocou grafu (matice), ktorá má na y osi pravdepodobnosť nastatia a na x osi dopad. 
+
+2. Určím si hranicu tolerancie = čiara, ktorá oddeľuje pravý horný roh, len to čo je nad hranicou tolerancie sú riziká, ktorými sa budem zaoberať a denne ich monitorovať, zvyšok má buď veľmi malú pravdepodobnosť (nikdy sa nestane) alebo veľmi malý dopad (nezaváži mi to moc na projekte)"
+Akými spôsobmi môžem riešiť riziká?(5),"1. predchádzanie - zabránim vzniku problému
+2. odmedzenie - zmenším pravdepodobnosť, že situácia nastane
+3. prenesenie - napr. v zmluve prenesiem časť zodpovednosti na dodávateľov
+4. rezervný plán - ak sa riziko naplní, pôjdem podľa záložného plánu
+5. akceptovanie - zmierim sa s tým, že to neviem ovplyvniť alebo si poviem, že je tak malá pravdepodobnosť, že to nastane, že to nebudem riešiť"
+Aké dva faktory sa zohľadňujú pri výbere opatrení na riešenie rizika?,"1. cena opatrenia (koľko ma to bude stáť) 
+2. dopad (čo to reálne vyrieši)"
 Aké činnosti sa vykonávajú pri výbere opatrení aby sa predišlo hádzaniu viny na projektového manažéra? ,"1. Dávam svoje kroky zvažovať kadekomu aby som sa vedel odvolať, že ""aha on mi to schválil""
 2. Svoje kroky v čase evidujem v registri rizík"
 Definujte startup,"Podnikanie, ktoré má potenciál mať veľmi vysokú hodnotu za veľmi krátky čas."
 Čo môže byť výsledkom startupu?,"Nemusí to byť len nová technológia, môže to byť produkt, po ktorom je dopyt alebo nový biznis model."
 Čo je to valuácia?,Ohodnocovanie startupov
 "Aký je hlavný rozdiel v ""korporátnej"" a startupovej mentalite?","Korporátna: ""Stačí mi jedno nie a skončil som"". = Ak ma raz niekto pošle do prdele nikam sa ďalej nepohnem
-Startup: ""Stačí mi 1 áno a idem ďalej"" = Stačí ak presvedčím 1 investora a môžem pokračovat"
-"Pomenujte fázy vývoja tímu.
 
-","1. Forming: spoznávanie
-2. Storming: konflikty
-3. Norming: sadnutie si
-4. Performing: Vysoká efektivita
-5. Rozpustenie(Bey Bey Bitches!)
-"
+Startup: ""Stačí mi 1 áno a idem ďalej"" = Stačí ak presvedčím 1 investora a môžem pokračovat"
+V akých fázach projektu by malo prebiehať monitorovanie a kontrola?,"Vo všetkých, bez toho nemôžem riadiť projekt."
 Kedy môže začať realizácia projektu?,Keď mám povolenie a všetko je dobre naplánované.
 Čo je hlavným cieľom monitoringu a kontroly?,"Aby sme sa po odklonení od ""baseline"" (projektového plánu) vedeli vrátiť späť"
-Aké dva druhy opatrení využívame v priebehu kontoly a monitoringu aby sme sa vrátili k pôvodnému plánu? ,"1. Preventívne : aby sme sa od plánu neodklonili ak to hrozí - napr. mám deadline na január ale ja viem, že v decembri si všetci budú chcieť zobrať dovolenku, tak to spravíme skôr
-2. Nápravné : aby sme sa vrátili ak už sme sa odklonili - meškáme s termínom lebo niekto ochorel, tak potiahneme nadčas"
+Aké dva druhy opatrení využívame v priebehu kontoly a monitoringu aby sme sa vrátili k pôvodnému plánu? ,"1. Preventívne 
+- aby sme sa od plánu neodklonili ak to hrozí 
+- napr. mám deadline na január ale ja viem, že v decembri si všetci budú chcieť zobrať dovolenku, tak to spravíme skôr
+
+2. Nápravné 
+- aby sme sa vrátili ak už sme sa odklonili 
+- meškáme s termínom lebo niekto ochorel, tak potiahneme nadčas"
 Čo je podstatnou súčasťou fázy vykonávania projektu?,Komunikácia ľudí a ich riadenie
 Prečo vždy ukladáme pôvodnú verziu plánu riadenia? ,"Pretože voči nemu potom v záverečnej fáze porovnávame, čo išlo a nešlo ako malo aby sme si mohli zobrať ponaučenie."
 Čo je to kick-off meeting?,"Je to meeting na ktorom oficiálne povieme, že začíname realizáciu zákazníkom a partnerom. Pomyslené ""strihanie červenej pásky"""
-Pomenujte dobré odporúčanie pre kick-off meeting.,"1. Mal by byť prítomný každý člen tímu, zákazníci aj partneri
+Pomenujte dobré odporúčanie pre kick-off meeting.(7),"1. Mal by byť prítomný každý člen tímu, zákazníci aj partneri
 2. Každý by mal vidieť zmysel prijektu, prečo to robíme.
 3. Sám musím robiť, že to dáme
 4. Mal by sa zoznámiť tím a naplánovať komunikáciu
@@ -616,114 +485,118 @@ Pomenujte dobré odporúčanie pre kick-off meeting.,"1. Mal by byť prítomný 
 6. Ideálne je mať predtým interný meeting aby sa niekto neopýtal na Matúša
 7. Prezentujem tam plán, ktorý nemusí byť úplne hotový"
 Čo je hlavným cieľom kontroly?,"Zisťovať odchýlky od plánu (čas, náklady, zdroje)"
-"Aké typy činností máme v rámci projektu?
-
-","1. Dôležité, naliehavé: Reaktívne úlohy - kríza, činnosti s pevnými termínmi
-
-2. Dôležité, nenaliehavé: Proaktívne úlohy - tvoria vzťahy (mali by sme riešiť najviac)
-
-3. Nedôležité, naliehavé: Priority niekoho iného
-
-4. Nedôležité, nenaliehavé: Zabíjanie času - bežné zbytočné činnosti
-"
-"Kde sa tvorí plán komunikácie?
-
-","Na kick-off meetingu
-"
-"Popíšte problémy, ktoré nastávajú pri kontrolách?","1. Príliš časté kontroly alebo žiadne alebo príliš malé kontroly
-2. Nehospodárnosť: stojí ma to viac ako je reálny prínos
-3. Subjektivita: Nehovoríme realitu ale to, čo chce nadriadený počuť"
+Ako môžem kontrolovať plnenie termínov?(3),"1. Môžem kontrolovať začaté úlohy a riešiť, či ma tam niečo nebrzdí
+2. Môžem monitorovať aj ešte nezačaté a už ukončené úlohy ale to stojí veľa času
+3. Dokončené úlohy porovnávam s tým koľko zdrojov na ne bolo použitých, pre úlohy mimo kritickej cesty to nie je podstatné"
+Prečo je dôležitá dôsledná kontrola zdrojov a nákladov?,"Ak to budem robiť len preto aby to bolo, nebude to presné a nepomôže mi to."
+"Popíšte problémy, ktoré nastávajú pri kontrolách?(3)","1. Príliš časté kontroly, žiadne alebo príliš malé kontroly
+2. Nehospodárnosť - stojí ma to viac ako je reálny prínos
+3. Subjektivita - nehovoríme realitu ale to, čo chce nadriadený počuť"
 Popíšte jednoduchý spôsob reportovania stavu projektu.,"Semafór pri ktorom mám štádia napr. V poriadku, Pozor, Tu sa niečo dojebalo"
-Prečo je dôležité evidovať zamietnostie opatrenia pri kontrole?,"Aby ma niekto potom nemohol zdrbať, že som ""nič nespravil"". Ja im to ukážem a poviem ""Aha, ja som to chcel riešiť ale tento tu mi povedal, že sa mám na to vykašlať."""
+Prečo je dôležité evidovať zamietnutie opatrenia pri kontrole?,"Aby ma niekto potom nemohol zdrbať, že som ""nič nespravil"". Ja im to ukážem a poviem ""Aha, ja som to chcel riešiť ale tento tu mi povedal, že sa mám na to vykašlať."""
 Popíšte issue log.,"Je to zoznam bodov aby sme dospeli k nejakému riešeniu, do ktorého môžu prispievať všetci členovia tímu ale zodpovedný je manažér."
-Popíšte rôzne možnosti riešenia problému v projekte.,"1. Metóda štrukturovaných porád: prednesenie problému a doskusia s moderátorom
+Popíšte rôzne možnosti riešenia problému v projekte.(3),"1. Metóda štrukturovaných porád: prednesenie problému a doskusia s moderátorom
 2. Metóda prepnutia: dve protistrany majú prezentácie a chcem dosiahnuť konsenzus
 3. Metóda 6 otázok: Čo je problém a čo nie? Kedy problém nastáva a nenastáva? Kde nastáva? Kto prispieva príčinami? Ako zistím, že mám problém?"
-Prečo je dôležité nepreskakovať fázu ukončenia projektu?,"1. Treba dokončiť všetky úlohy
+Prečo je dôležité nepreskakovať fázu ukončenia projektu?(3),"1. Treba dokončiť všetky úlohy
 2. Riešim preklopenie do prevázdky a SLA (zmluva o supporte)
 3. Treba spísať záverečnú správu a vyhodnotiť finančné a iné záväzky"
 Na čo by sme sa mali zamerať pri riadení zmien?,"Na to, čo sa bude diať, keď príde zmena, ako ju prijmeme alebo zamietneme. "
-Aký je rozdiel medzi zmenou a odchýlkou v kontexte riadenia zmien v projekte?,"Zmena je implementovaná odchýlka tj. zmena je niečo, čo mi mení projektový plán, odchýlka ja niečo, s čím sme nepočítali ale nezmenilo to plán."
+Aký je rozdiel medzi zmenou a odchýlkou v kontexte riadenia zmien v projekte?,"Zmena je implementovaná odchýlka tj. zmena je niečo, čo mi mení projektový plán
+
+Odchýlka ja niečo, s čím sme nepočítali ale nezmenilo to plán."
 Aké tri triedy zmien poznáme a kto ich schvaľuje?,"1. Zásadný vplyv (trieda A) : musí byť bezodkladne implementovaná, napr. pri zmene legislatívy, schvaľuje štatutár
 2. Významná zmena (trieda B) : významne mi mení plán, býva dané napr. že ak sa prekročí rozpoćet o xy tak je to trieda A, ak je to menej, tak trieda B, schvaľuje to riadiaci výbor
 3. Bez významného vplyvu (trieda C) : menšie zmeny, schvaľuje projektový manažér ale musí to byť niekde zaevidované
 
 "
 Aké dva typy zmien poznáme podľa toho kto ich vyvolal? Uveďte príklady.,"1. zmeny vyvolané okolím : napr. zmena požiadaviek zákazníka alebo vlastníka projektu, legislatívne zmeny, zmeny na trhu (napr. v dôsledku pandémie)
+
 2. zmeny vyvolané samotným projektom : prešvihnuté odhady, nedostatočné plánovanie času zdrojov a nákladov"
-Popíšte proces schvaľovania zmeny.,"1. Dostanem podnet, či už vyvolaný okolím alebo projektom
+Popíšte proces schvaľovania zmeny.(5),"1. Dostanem podnet, či už vyvolaný okolím alebo projektom
 2. Predložím návrh na zmenu
 3. Prebehne analýza zmeny (tvorba variantov, analýza dopadov, výber najlepšieho variantu)
 4. Realizujem zmeny a monitorujem
 5. Schválim a vytvorím záverečnú správu"
-Uveďte dobré rady pri schvaľovaní zmien.,"1. Aj keď zmenu zamietnem, mal by som zaznamenať prečo som to urobil
-2. Vždy by sme mali komunikovať s tými, čo zmenu vudú implementovať
+Uveďte dobré rady pri schvaľovaní zmien.(4),"1. Aj keď zmenu zamietnem, mal by som zaznamenať prečo som to urobil
+2. Vždy by sme mali komunikovať s tými, čo zmenu budú implementovať
 3. Zmena by mala byť schválená príslušným orgánom
 4. Zmena by mala byť komunikovaná zákazníkom"
-"Aké výsledky konfliktu sú možné?
-
-","1. výhra /prehra: jeden má všetko a druhý nič - toto v realite nefunguje
-2. kompromis: akceptovateľné ale nie ideálne
-3. Win/win : chceme dosiahnuť
-4. prehra /prehra: vo finále je to každá vyhra/prehra lebo sme si dojebali na pr. vsťahy s dodávateľom
-"
+Ktoré štyri činnosti sú hlavné pri riadení ľudí a zdrojov?,"1. Plánovanie ľudí a zdrojov : akí ľudia budú kde + zodpovednosti
+2. Zostavovanie tímu : nie len na papieri
+3. Rozvoj tímu : potrebujeme aby sa tím zladil a fungoval
+4. Riadenie tímu : riešeni konfliktov, sledovanie spätnej väzby"
 "Čo je to kapacitný plán, kedy sa vytvára a prečo ho robím?","Je to plán riadenia zamestnancov, organizačná schéma ľudí a zodpovedností.
+
 Vytvára sa v rámci plánovania ľudí a zdrojov.
+
 Robím ho preto aby som nemala ľudí vo firme, ktorí sú na benchi = nie sú pridelení na projekt"
 Kedy musím revidovať kapacitný plán?,"Keď zistím, že potrebujem kapacitu, ktorú nemám, napr. sľúbili mi architekta ale nakoniec je na inom projekte."
 Na čo slúži Dantov diagram?,"Na to aby som zistila, či sa mi nemôže stať, že nejaká činnosť vyžaduje viac ľudí ako mám."
-"Ako môžem riešiť situáciu, keď zistím, že potrebujem viac ľudí ako mám?","1. Činnosť môžem natiahnuť v čase alebo presunúť v rámci časového plánu (nemusí ísť súbežne s inou)
+"Ako môžem riešiť situáciu, keď zistím, že potrebujem viac ľudí ako mám?(2)","1. Činnosť môžem natiahnuť v čase alebo presunúť v rámci časového plánu (nemusí ísť súbežne s inou)
 2. Riešim zmeny termínov so zákazníkom"
-Akým spôsobom môžem získať ľudí na projekt?,"1. Prijmem nových ľudí do pracovného pomeru
+Akým spôsobom môžem získať ľudí na projekt?(3),"1. Prijmem nových ľudí do pracovného pomeru
 2. Krátkodobá spolupráca s expertmi, ktorých potrebujem na chvílu
 3. Outsourcing = celé to dám urobiť inej firme"
-Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.,"Dostupnosť človeka, náklady, hĺbku skúseností v danej oblasti, schopnosť použiť svoje znalosti, znalosť prostredia zákazníka a domény, schopnosť spolupracovať, medzinárodné faktory"
+Čo posudzujem pri výbere ľudí na projekt? Uveďte príklad.(7),"1. dostupnosť človeka
+2. náklady
+3. hĺbku skúseností v danej oblasti
+4. schopnosť použiť svoje znalosti
+5. znalosť prostredia zákazníka a domény
+6. schopnosť spolupracovať
+7. medzinárodné faktory"
 Akými spôsobmi môžem rozvíjať projektový tím?,"1. Vzdelávanie a tréningy v nejakej oblasti (preverovanie znalostí z praxe)
+
 2. Koučovanie: pracujem s presvedčením a zaoberá sa hĺbkou človeka
+
 3. Mentoring: podpora od skúsenejšieho človeka  v danej oblasti"
 "Uveďte rozdiely medzi tímom, skupinou a komunitou.","skupina = jednolivci, ktorí pracujú vedľa seba, majú spoločného manažéra, ale ich úohy nie sú závislé
+
 tím = sústredia sa na dosiahnutie spoločného cieľa, ich úlohy sú závislé, potrebujú dobré vedenie
+
 komunita = ľudia majú niečo spoločné ale nesnažia sa o spoločné dosiahnutoe cieľa (napr. klub priaznivcov psov)"
 Pri akých činnostiach v rámci tvorby SW je vhodná skupina a nie tím?,Napr. pri technickej podpore.
-Čo je dôležité pre správne fungovanie tímu? Uveďte príklady.,"1. Treba pripomínať spoločný cieľ
+Čo je dôležité pre správne fungovanie tímu? Uveďte príklady.(5),"1. treba pripomínať spoločný cieľ
 2. vzájomná zodpovednosť a akcieschopnosť navzájom
 3. konštruktívne konflikty: vznikajú z nich dobré riešenia
 4. vzajomná dôvera, otvorenosť a informovanosť
 5. vodcovské schopnosti manažéra"
-Pomenujte fázy vývoja tímu.,"1. Forming: spoznávanie
+Pomenujte fázy vývoja tímu.(5),"1. Forming: spoznávanie
 2. Storming: konflikty
 3. Norming: sadnutie si
 4. Performing: Vysoká efektivita
 5. Rozpustenie"
-Aké funkcie má komunikácia tíme?,"1. Informačná: poskytovanie informácii
+Aké funkcie má komunikácia tíme?(4),"1. Informačná: poskytovanie informácii
 2. Motivačná: motivovanie k naplneniu cieľa
 3. Kontrolná: kontrolujem, či bolo niečo vykonané, či to bolo dobre pochopené
 4. Emotívna: vyjadrujem cítenie a náladu"
 Prečo je dôležitá distribúcia údajov v tíme?,Nie každý musí vedieť všetko. Veľa informácii môže byť rovnako zlé ako málo informácii.
 Aký je rozdiel medzi účinnosťou a účelnosťou informácii?,"Účinnosť = dávam potrebné informácie
+
 Účelnosť = sú podané v správny čas"
-Kde sa tvorí plán komunikácie?,Na kick.off meetingu
+Kde sa tvorí plán komunikácie?,Na kick-off meetingu
 Prečo nie je dobré posielať maily o všetkom?,Môže prísť k zahlteniu a nikto to nebude sledovať.
 Čo je to implicitná komunikácia?,"Nepoviem narovinu to, čo chcem a môžem to neskôr ohnúť ako potrebujem."
 Popíšte hygienický a motivačný faktor motivácie a uveďte príklady.,"Hygienický faktor = krátkodobý efekt, ktoré musia byť naplnené napr. peniaze ale nemotivujú zamestnanca
+
 Motivačný faktor = dlhodobý efekt, nemusia byť naplnené ale keď sú motivuje to ľudí dopredu, napr. zamestnanecké benefity"
-Aké typy činností máme v rámci projektu?,"1. Dôležité, naliehavé: Reaktívne úlohy - kríza, činnosti s pevnými termínmi
+Aké typy činností máme v rámci projektu?(4),"1. Dôležité, naliehavé: Reaktívne úlohy - kríza, činnosti s pevnými termínmi
 2. Dôležité, nenaliehavé: Proaktívne úlohy - tvoria vzťahy (mali by sme riešiť najviac)
 3. Nedôležité, naliehavé: Priority niekoho iného
 4. Nedôležité, nenaliehavé: Zabíjanie času - bežné zbytočné činnosti"
-Aké výsledky konfliktu sú možné?,"1. výhra /prehra: jeden má všetko a druhý nič - toto v realite nefunguje
+Aké výsledky konfliktu sú možné?,"1. výhra /prehra: jeden má všetko a druhý nič - toto v realite nefunguje = prehra/prehra
 2. kompromis: akceptovateľné ale nie ideálne
-3. Win/win : chceme dosiahnuť"
-Uveďte typy ako produktívne riešiť konflikt.,"1. emocionálny odstup
+3. win/win : chceme dosiahnuť"
+Uveďte typy ako produktívne riešiť konflikt.(5),"1. emocionálny odstup
 2. vecná diskusia
 3. počúvanie a snaha o dobrý úmysel
 4. nepopierať, že konflikt existuje
 5. navrhnutie spôsobu riešenia"
-"Uveďte 5 chýb, ktorým by sa mal projektový manažér pri monitorovaní a kontrole vyhnúť.","1.prilišná kontrola – kontrolujem veľla a často, vyhnem sa jej plánovaním kedy sa má vykonávať
-2.príliš riedka / žiadna kontrola - vyhnem sa jej plánovaním kedy sa má vykonávať
-3.neobjektívna – neodráža aktuálny stav, hovorí to čo sa páči šéfovi – riešenie = dôvera
-4.nehospodárna – kontrola stojí viac ako prináša, riašenie je zaznamenávať si náklady a prínos
+"Uveďte 5 chýb, ktorým by sa mal projektový manažér pri monitorovaní a kontrole vyhnúť.","1.prilišná kontrola – kontrolujem veľla a často, vyhnem sa jej plánovaním kedy sa má vykonávať 
+2.príliš riedka / žiadna kontrola - vyhnem sa jej plánovaním kedy sa má vykonávať 
+3.neobjektívna – neodráža aktuálny stav, hovorí to čo sa páči šéfovi – riešenie = dôvera 
+4.nehospodárna – kontrola stojí viac ako prináša, riašenie je zaznamenávať si náklady a prínos 
 5.nedostatočná – nie je dôsledná, len aby sa epovedalo, riašenie = ísť podľa štandardu"
-Uveď 3 príklady na indikátory krízy,"1.nestíhanie termínov
-2.prekročenie rozpočtu
-3.neskoré reportovanie/ zlá nálada v tíme"
+Uveď 3 príklady na indikátory krízy,"1. nestíhanie termínov 
+2. prekročenie rozpočtu 
+3. neskoré reportovanie/ zlá nálada v tíme..."
