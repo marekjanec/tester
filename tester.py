@@ -141,7 +141,9 @@ def update_question_answer():
     question = txt_field_question.get(1.0, END)
     answer = txt_field_answer.get(1.0, END)
 
-    otazky[question_index] = [question, answer]
+    otazky.pop(question_index)
+
+    otazky.append([question, answer])
 
     with open(filename, 'w', newline='', encoding="utf-8") as csvfile:
         fieldnames = ['otazka', 'odpoved']
