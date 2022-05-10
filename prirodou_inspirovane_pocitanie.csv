@@ -1,0 +1,432 @@
+otazka,odpoved
+"Čo je to pracovný systém?
+","je taký system, ktorý je orientovaný do štuktúry a účelového správania, ktoré mu predpísal človek
+"
+"Čo je to celok?
+","Celok môže byť pochopený len na základe objasnenia povahy jeho častí – analýzou celku, ale opačne to
+neplatí
+
+kto pozná len časti bez súvislostí, nepozná ešte celok, pokial nepozná súvislosti medzi časťami = Štruktúru systému
+"
+"Aké vlastnosti prvku(elementu) systému majú význam?
+","len tie vlastnosti ktoré určujú jeho vzájoné pôsobenie s inými prvkami systému
+"
+"Čo je to podsystém?
+","je ľubovolný súhrn prvkov daného systému spolu s väzbami medzi nimi
+"
+"Daj dve posdtsty podsystémov:
+","1. na jednej strane je sám systémom s množstvom prvkov
+
+2. na druhej strane
+predstavuje prvok zložitého systému (napr.: úsek vo verejnej správe alebo dielňa vo výrobnom závode, organela v
+bunke, orgán v živočíchovy, list na rastline)
+"
+"Čo určuje stav systému?
+","určujú hodnoty parametrov, premenných alebo súradníc jeho prvkov
+"
+"Aký je to dynamický systém?
+","je taký systém, v ktorom sa hodnoty premenných menia v čase i
+priestore, t.j. keď system mení svoj stav
+"
+"Čo je to proces vzhľadom na systém?
+","prechod systému z jedného stavu do druhého
+"
+"Čo je to riadenie z pohľadu na systém?
+","je prevod systému do nového stavu cestou pôsobenia na jeho
+premenné
+"
+"Čo je to riadenie z pohľadu na systém?
+
+
+","je prevod systému do nového stavu cestou pôsobenia na jeho premenné
+
+je to práca s informáciami
+
+"
+"Čo je cieľom riadenia z pohladu na system?
+","Cieľom riadenia je prevod systému do nového, už skôr určeného stavu (= účelové riadenie)
+
+Principiálna schéma systému riadenia SR (samoriadiaceho sa systému)
+
+základným obsahom riadenia je ROZHODOVANIE
+"
+"Čo je to spätná väzba?
+","každé rozhodnutie vyvolá činnosť, ktorá vplýva na okolité prostredie a jeho zmena vedie k novému rozhodnutiu a teda aj činnosti vplývajúcej
+na okolité prostredie = SPÄTNOVÄZOBNÁ REŤAZ
+
+napr. regulácia rovnováhy, teploty, tlaku, objednávky – skladové zásoby – výroba, vedenie auta, regulácia glykémie
+"
+"Čo je to dopredná väzba?
+","umožňuje pozorovaním zmien na vstupe zavčasu určiť, či tieto zmeny môžu byť príčinou porúch pri dosahovaní žiaducich cieľov, aby bol čas na nápravné akcie
+
+napr. nevytiahnete dáždnik z kabelky, až keď zmoknete, ale hneď, keď začne pršať; zošľapnete plyn (akcelerátor) pri ceste do kopca skôr, než
+poklesne rýchlosť
+"
+"Vymenuj 4 nástroje systémovej biológie:
+","1.CellDesigner
+2.Copasi
+3.Cytoscape
+4.SBMLtoolbox for MATLAB
+"
+"Daj niečo k SMBL formátu
+","Systems Biology Markup Language
+
+je reprezentačný formát založený na XML na
+komunikáciu a ukladanie výpočtových
+modelov biologických procesov
+
+primárne určený na opis biochemických reakcií
+a modelovanie biochemických dráh
+"
+"Daj niečo k PDB formátu
+","Formát “Protein Data Bank” (PDB) je štandardom pre súbory obsahujúce atómové súradnice
+
+Štruktúra proteínov, interakcie proteínov, proteínov s ligandom
+"
+"Daj niečo k FASTA formátu
+","textový formát, ktorý predstavuje buď nukleotidové sekvencie, alebo aminokyselinové sekvencie, v ktorých sú nukleotidy, alebo aminokyseliny predstavované pomocou jednopísmenkových kódov
+"
+"Daj niečo k SMILES formátu
+","simplified molecular-input line-entry system
+
+opisuje 2D alebo 3D štruktúru molekúl (jednoduchých)
+
+využíva reťazce znakov ASCII
+"
+"Čím sa zaoberá Bioinformatika?
+","je štúdijny odbor na pomädzí informatiky, biológie a biochémie
+
+nástroj systémovej biológie
+
+zaoberá sa metódmi na zhromažďovanie, analýzu a vizualizáciu veľkých súborov biologických dát
+"
+"Čo je to ""in sillico""?
+","“simulované experimenty/ “suché experimenty”
+"
+"Čím sa zaoberá komparatívna genomika?
+","oblasť biologického výskumu, v ktorej vedci používajú rôzne nástroje na porovnanie úplných sekvencií genómu
+rôznych druhov
+
+dôkladným porovnaním charakteristík, ktoré definujú rôzne organizmy, môžu vedci presne určiť oblasti podobnosti a rozdielu
+
+tvorba fylogenetických kmeňov
+
+evolučná biológia
+"
+"Čo to je anotácia genómu/DNA?
+","proces identifikácie umiestnenia génov a všetkých kódujúcich oblastí v genóme a určenia toho, čo tieto gény kódujú
+"
+"Čo sú to sekvenčné analýzy?
+","výpočtová analýza sekvencie DNA, RNA alebo peptide, s cieľom získať poznatky o jej vlastnostiach, biologických funkciách, štruktúre a vývoji
+
+pochopenie jej vlastností, funkcií, štruktúry alebo vývoja
+"
+"Ako predpovedáme štruktúry proteinov?(4)
+","1.Využitie fyzikálno-chemických vlastností
+2.Využitie biologických znalostí
+3.Využitie experimentálne zistenia tvaru proteínov
+4.Kombinácia
+"
+"Čo je to synergetika?
+","Synergetika - sa zaoberá štúdiom systémov zložených z mnohých podsystémov
+
+Cieľ je preskúmať ich vzájomné pôsobenie, ktoré vedie k vzniku priestorových, časových alebo priestorovo-časových štruktúr
+
+Sústreďuje sa na situácie, keď štruktúry vznikajú ako výsledok samoorganizácie a pokúša sa objasniť, aké princípy riadia procesy samoorganizácie bez vzťahu k podstate podsystémov
+"
+"Synergia vs. Synergetika
+","Synergia – spolupráca, súčinnosť
+
+Synergetika – štúdium systémov, pre ktoré sú
+podstatné kooperatívne javy
+"
+"SYNERGETIKA a bod bifurkácie, vysvetli:
+","bod bifurkácie je okamih nestability, kedy systém vyberá ďalšiu cestu vývoja (evolúcie)
+
+v tomto bode prebieha katastrofa, t. j. kvalitatívna skoková zmena pri plynulej zmene vonkajších podmienok
+
+v blízkosti tohto bodu narastá úloha náhodných porúch – fluktuácií, v dôsledku čoho môže dôjsť k prechodu systému z oblasti príťažlivosti jedného atraktora (konečný stav systému) k druhému
+
+Stavy chaosu nie sú od začiatku škodlivé, keďže systém v tom čase vyberá rôzne varianty samoorganizácie a zastavuje sa na optimálnom 
+"
+"Bod bifurkácie je čo?
+","• jav, keď sa malou zmenou parametra (α) zásadne zmení dlhodobé správanie systému (X je priestorová súradnica)
+
+Pri zmene parametra α nastane zmena
+1. Kvantitatívna (napr. strmší graf)
+2. Kvalitatívna (zmena topológie grafu = bifurkácia)
+"
+"Čím sa zoberá Fluktuačný teorém?
+","sa zaoberá relatívnou pravdepodobnosťou, že entropia systému, ktorý je momentálne mimo termodynamickej rovnováhy (t. j. maximálnej entropie), sa v priebehu daného času zvýši alebo zníži
+"
+"Atraktor je čo doboaaaa?
+","• je konečný stav systému
+• Je stav, do ktorého dynamický systém v čase smeruje (je do neho priťahovaný)
+
+Napr. Atraktor kyvadla je ustálený stav, v ktorom zavesené teleso nekmitá – ostane v najnižšom bode svojej dráhy
+"
+"Čo je to kybernetika?
+","Skúma procesy riadenia, ktoré prebiehajú v živej prírode, technických, sociálnych a iných objektoch
+
+Predmet štúdia: systém
+
+Systém = súhrn elementov vytvárajúcich určitú štruktúru, ktorá funguje za účelom dosiahnutia nejakého cieľa
+
+Študuje vlastnosti systému z pohľadu riadenia
+"
+"Čó tó jé Biokybernetika?
+","Je oblast kybernetiky, ktorá skúma všeobecné zákonitosti prenosu a uchovnia informácie v biologických systémoch
+
+Hlavná metóda: MODELOVANIE štruktúry a zákonitostí správania sa živého systému
+"
+"Sú tri smery biokybernetiky. Aké?
+","Fyziologická kybernetika – študuje procesy zberu a analýzy fyziologickej informácie, organizácie a riadenia fyziologických procesov
+
+Neuro - kybernetika – študuje procesy riadenia a riadiace štruktúry v CNS a PNS
+
+Medicínska kybernetika – študuje prostriedky a spôsoby riadenia patologických procesov, spôsoby zberu a analýzy medicínskej informácie pre diagnostiku a liečenie
+"
+"Čo je to modelovanie?
+","Proces spracovania matematického opisu objektu
+
+Napr. Model systému krvného obehu, model termoregulácie, farmakokinetický model, modely ekologických systémov, správanie sa ľudskej populácie
+"
+"Cieľ modelovania je dáka pičovina, aká?
+","formulácia a zdôvodnenie predpokladov o vlastnostiach bio objektov (vypracované hypotézy sa neskôr môžu overiť exprimentálne)
+"
+"Čo je to systém? Daj aj Čo súúúúú tooo funkcie systému?
+","Je súhrn elementov, v ktorom su všetky elementy tak účelovo návzajom zviazané, že vo vzťahu k okolitým podmienkam a iným systémom vystupujú ako celok
+
+Funkcie systému = integratívne vlastnosti – sú take vlastnosti, ktoré sú vlastné systému ako celku, ale nie sú vlastné ani jednému z jeho elementov
+
+Systém má vždy ciele, pre ktoré funguje a existuje
+"
+"Čo sú to prvky (elementy) systému?
+
+
+","nazývame také jeho časti, ktorých ďalšie delenie by znamenalo už prechod ku kvalitatívne inému celku (príklady: pracoviská, bunky, chemické prvky, čajová súprava)
+
+"
+"Ako klasifikujeme systémy?
+","A1-Determinované (jeho správanie je možné absolútne predvídať) /
+B1-stochastické (nekontrolovateľné prvky, náhodnosť = výrobný závod, letisko, oblička)
+A2-Dynamické (ich výstupné signály v danom čase sú určované charakterom vstupných pôsobení v minulosti a prítomnosti = biologické, ekonomické, sociálne…) /
+B2-statické
+A3-Nestacionárne (parametre sa menia v čase = stárnutie) /
+B3-stacionárne
+"
+"Živé systémy sú kybernetické systémy - daj k tomu pokec...
+","Základná vlastnosť živých systémov z pohľadu kybernetiky: mnohočetné interakcie s okolím
+
+Vonkajšie parametre (premenlivé) ovplyvňujúce systém = vstup
+• Parametre (premenlivé), ktorými systém pôsobí na svoje okolie = výstup
+"
+"Analýza a syntéza systémov - give me answers!!!
+","Analýza systému – poznáme štruktúru – musíme určit chovanie
+
+Syntéza systému – štruktúra má být určená – chovanie je známé
+
+Čierna skrinka (black box) – systém má neznámu štruktúru aj chovanie.
+
+Identifikácia systému sa robí na základe vzťahu medzi vstupnými a výstupnými premennými
+"
+"Transformácia je:
+Rozlišujeme ju na:
+","závislosť hodnôt výstupnej premennej (output) na hodnotách vstupnej premennej (input)
+
+lineárne systémy (priamka, ideálny prípad)
+nelineárny systémy
+
+Linearizácia nelineárneho systému – aproximácia priamkou
+Časový priebeh zmien výstupnej premennej určuje chovanie systému
+"
+"Aké poznáme základné druhy transformácií?
+","Zosilenie alebo zoslabenie vstupnej premennej
+Jej časové omeškanie
+Prevedenie logickej operácie
+Selektívna priepustnosť
+Generovanie špecifických časových priebehov
+Zo všetými týmito transformáciami sa stretávame pri biologických systémoch
+"
+"Spätná väzba je čo do psej matere? Kladná?? Záporná??
+","Spätná väzba: pôsobenie výstupnej veličiny systému na vlastný vstup
+
+Kladná spätná väzba - odchylka výstupnej veličiny pôsobí tak, že veličina vstupná je trvale zosilovaná alebo zoslabovaná (kumulačný
+účinok – nežiadúci pre riadenie dynamických systémov)
+
+Záporné spätná väzba pôsobí zmena výstupnej veličiny proti smeru veličiny vstupnej a tým zmenu vstupnej veličiny minimalizuje (účinek kompenzačný - umožňuje regulaciu). Základ homeostázy.
+"
+"Naval sem príklad na kladnú spätnú väzbu
+","1.proces zrážania krvi
+2.laktácia
+3.generovanie nervových signálov
+4.excitácia-kontrakcia srdca
+"
+"Ej móre, príklad na negatívnu spätnú väzbu
+","Glukózová homeostáza
+Sekrécia hormónov
+
+"
+"Čo je modelovanie a čo je simulácia??
+","Modelovanie je súbor aktivít vedúcich k vývoju matematického modelu, ktorý súčasne reprezentuje štruktúru a správanie reálneho systému.
+
+Simulácia je súbor aktivít slúžiacich na overenie správnosti modelu a získanie nových poznatkov o činnosti reálnych systémov
+"
+"Pri modelovaní a simulovaní je reálny objekt ČO?
+","Skúmaná časť reálneho sveta
+
+prírodný (kvetina, včelí roj, kardiovaskulárny systém človeka, ...) 
+umelý (počítač, tok materiálu vo výrobnom podniku);
+
+existujúci
+plánovaný
+
+Zdroj údajov o svojom správaní
+"
+"Čo je to model pri moelovaní a simulovani?
+","zjednodušený abstraktný opis reálneho objektu (súbor vzťahov, resp. Inštrukcií pre generovanie dát popisujúcich správanie reálneho objektu)
+
+modely systémov s neznámou štruktúrou (to je spravidla prípad biologických systémov) sú založené na analýze experimentálnych dát. Tento proces stanovenia štruktúry systému (modelu) sa nazýva => inverzný problém
+"
+"V spojen=i s modelovan=im a simulovaním je abstrakcia a interpretácia čo?
+","Reálny objekt a jeho model sú navzájom prepojené dvoma reláciami - abstrakciou a interpretáciou.
+Abstrakcie znamená zovšeobecnenie (generalizáciu) - uvažovanie najdôležitejších zložiek reálneho systému a ignorovanie menej dôležitých rysov. Dôležitosť je v tomto prípade
+posudzovaná podľa relatívneho vplyvu prvkov systému na jeho dynamiku. 
+Interpretácia znamená výklad vzťahu medzi modelom (s jeho prvkami, vlastnosťami a správaním) a reálnym systémom. Ak nie je možné parametre modelu interpretovať, potom nemožno na reálnom systéme merať ich vlastnosti
+"
+"Čo je to realizácia modelu a platnosť modelu?
+","Realizácia modelu (väčšinou počítačom, ale môže byť fyzikálne, geometrický, ...)= Na zariadení schopnom spracovanie dát, resp. signálov
+
+Platnosť modelu hovorí ako dobre model reprezentuje reálny objekt (v prvom priblížení je to miera súhlasu medzi dátami generovaným objektom a jeho modelom)
+"
+"Aký je princíp simulácie?
+","Princíp simulácie – vytvorenie modelu zvoleného procesu, ktorého správanie chceme skúmať, experimentovanie s modelom a vyhodnocovanie dôsledku zmien
+"
+"Aké 4 časti má princíp simulácie? Respektive ako prebieha
+","1. realny systém
+2. simulačný systém
+3. výsledky
+4. aplikácie na reálny systém
+
+"
+"Model musí mať tieto charaktzeristické črty:
+","a) Mať možnosť zobraziť ľubovoľnú príčnno-následnú väzbu, ktorú chceme vziať do
+úvahy
+b) Mať jednoduchú matematickú formu
+c) Využívať terminológiu, ktorá je synonymická k jazyku spoločenských vied, ekonómie, biológie a biologických procesov
+d) Zachytávať veľké množstvo premenných (stovky a tisíce), v rámci možností PC
+e) Byť vhodný na zobrazenia “nepretržitých” vzájomných pôsobení.
+"
+"Čo je to hladina v základnej štruktúre modelu?
+","HLADINY (charakterizujú vznikajúce nahromadenie vnútri systému ako výsledok v dôsledku rozdielov medzi vstupnými a výstupnými tokmi, napr. počet zákazníkov, objem objednávok, odbytu,...
+"
+"Čo sú to toky v základnej štruktúre modelu?
+","TOKY (premiestňujú obsah jednej hladiny k druhej, pričom rýchlosti tokov určujú existujúce
+okamžité toky medzi hladinami v systéme)
+
+Menia obsah hladiny v čase – proces napĺňania hladiny alebo vypúšťania
+
+Rýchlosť toku – vzniká na báze hladiny v súlade so zákonmi, ktoré určujú tvar funkcie rozhodnutia
+"
+"Aké existujú procesy v populácii? dajme tomu že ľudskej...
+","autonomny prírastok (daný počtom (hustotou) jedincov, ktorí sa v časovom intervale Δt v populaci narodili), 
+
+autonomny úbytok (počet (hustota) jedincov, ktorí v danom intervale Δt zomreli) a počtom (hustotou) jedincov, ktorí do populácie prišli (imigrovali) z iného prostredia, piíp. odišli (emigrovali) inam
+"
+"Deterministické vyjadrenie pri populácií je Čo?
+","detreministické vyjadrenie dynamiky stavu populácie x(t) za predpokladu, že tento stav môžeme popísať spojitou funkciou (pri veľmi malej zmene hodnoty sa funkčná hodnota zmení veľmi málo)
+"
+"Detreministické vyjadrenie dynamiky stavu populácie je možné za:
+","1. Kvantovacia podmienka ( populácia x(t) je natoľko veľká, že nie je nutné počítať s jednotlivcami
+2. Vzorkovacia podmienka (generácie v populácii sa prekrývajú, resp. všetci jedinci v populácii sú identický, nie je vekové rozlíšenie - populácia je homogénna z hľadiska jedincov v reprodukčnom veku) ( kým populácia baktérii ale aj stavovcov túto podmienku spravidla spĺňa, tak u populácii hymzu či rastlin to tak nie je vždy!!!)
+"
+"Aký je fundamentálny predpoklad pre všetky modely rastu?
+","proporcionálnosť rýchlosti rastu početnosti populácie (zajacov, buniek, kvasiniek…)
+
+Jednobunkové organizmy a bunky – rozmnožovanie = jednoduché delenie (zdvojenie počtu buniek za určitý časový interval) = charakteristický čas
+delenia
+
+Zložité organizmy ako rastliny a
+živočíchy – zjednodušenie, predpoklad:
+rýchlosť rozmnoženia druhu je
+proporcionálna početnosti tohto druhu
+"
+"Malthusov model by chcelo byť čo?
+","Je najjednoduchšou variantou spojitého modelu jednodruhovej populácie
+
+vychádza z predpokladu, že γ(x,t) = konšt.
+
+Potom platí: γ(x,t) = b(x,t) – d(x,t) = r
+
+prepdokladá sa, že rozdiel úbytku a prírastu je v čase stály
+"
+"Rovnovážny stav Malthusovho systému je čoooooo?
+","Rovnovážny stav systému je považovaný za stabilný, ak systém po vychýlení z tohto stavu z dôvodu poruchy, sa dostane do iného stavu, ktorý je taký, že sa jeho vzdialenosť od pôvodného stavu nezväčšuje.
+"
+"Aké dve zložky ovplyvňujú stabilitu systému?
+","1. ODOLNOSŤ (zotrvačnosť) - schopnosť systému zachovať pri rušivom pôsobení pôvodný stav (čím menšia výchylka spôsobená poruchou tým je odolnosť systému väčšia)
+
+2. PRUŽNOSŤ – schopnosť systému vrátiť sa späť do pôvodného systému po ukončení poruchy
+"
+"Prečo jeden obajekt nemá len jeden model?
+","Pretože modelov toho istého objektu (systému) môže byť veľa a všetky môžu byť z pohľadu cieľa skúmania správne.
+"
+"Čo určuje obsah modelu a výber faktorov, ktoré vstupujú do modelu?
+","Otázky, ktoré majú byť simuláciou zodpovedané BIAČ!
+"
+"Prečo musia byť otázky, ktoré chce zodpovedať modelom veľmi konkrétne?
+","Otázky, ktoré majú byť simuláciou zodpovedané, určujú obsah modelu a v dôsledku toho aj výber faktorov, ktoré vstupujú do modelu. Preto!
+"
+"Matematický vs. Simulačný/dynamický model... porozprávaj mi k tomu
+","• V minulosti, keď matematické modely boli ohraničené hľadaním analytických riešení, nebolo možné do modelov zahrnúť celý objem predstáv, ktorý je zahrnutý v našom opisnom poznaní.
+
+• V dynamickom systéme samoriadiacom rôzne javy vytvárajú informáciu ako základ pre rozhodnutia, ktoré riadia činnosti smerujúce k zmenám týchto javov = neprerušený cyklus, uzatvorený obvod
+"
+"Ako určujeme stabiitu systému?
+","schémami vzájomných väzieb v systéme, zosilneniami, ktoré sú vyvolané rozhodnutiami I pravidlami správania, oneskorenie činností a tiež skerslenie informácií
+
+jedna činnosť vyvolá druhú a tá zase tretiu atď., a môže sa znova vrátiť k prvej, vyvolá to nestabilitu = charakteristické pre regulačné
+mechanizmy
+"
+"Aké poznáme oneskorenia v systéme?
+","1. Informačné oneskorenie (napr. Info o náraste predaja produktu, ktorý vyústi do jeho zvýšenej výroby) – DELAYINF
+
+2. Materiálové oneskorenie (napr. čas od objednania produktu, až kým nie je dodaný alebo čas, od ktorého sa človek infikuje baktériou/vírusom, až kým neochorie. - DELAYMTR
+"
+"Čo spôsobuje zmena medzi rýchlosťami tokov na vstupe a výstupe?
+","môže to byť zdrojom nestability (napr. Odstrel medveďov…)
+"
+"Aký je postup pri dynamickom modelovaní?
+","1. Definovanie problému.
+2. Vyčlenenie faktorov, ktoré zrejme spolupôsobia pri vzniku pozorovaných faktorov
+3. Zostavenie kauzálnej reťaze (práčina/následok) v informačnom toku
+4. Formulovanie prijateľných všeobecných pravidiel, ktoré vysvetlujú, akým spôsobom vznikajú na základe existujúcich informačných
+tokov take alebo iné rozhodnutia.
+5. Zostavenie matematického modelu, ktorý zahrňuje pravidlá rozhodvoania, zdroje informácií a vzájomné pôsobenie komponentov... systému
+"
+"ty kok, zabudol si na dalsich 5 korkov pri dynamickom modelovani systemu
+","6. Uvedenie do činnosti systému opisovaného modelom (IKT) za účelom vykonania náročných výpočtov.
+7. Porovnanie získaných výsledkov so všetými informáciami, ktoré sú k dispozícii zreálneho systému.
+8. Korigovanie modelu tak, aby bol dostatočne adekvátny reálnemu systému.
+9. Prestavba organizačných väzieb s cieľom preveriť nakoľko dané zmeny môžu zlepšiť správanie sa systému.
+10. Zdokonaľovanie reálneho systému v smeroch, ktoré podľa výsledkov experimentovania na modeli zabezpečia zlepšenie fungovania systému
+"
+"Čo to je kapacita prostredia?
+","Limitujúca vlastnosť prostredia
+
+Maximálna hustoto populácie, ktorá sa môže v danom prostredí udržať
+"
+"Kedy sa používajú deterministické modely?
+","Ak sa generácie žijúce v populácii navzájom neprekrývajú (v populácii sú jedinci iba jednej
+generácie) nie je možné použiť spojité modely
+"
+"Koeficient r robí čo prosím ťa pekne???
+","Dynamická forma krivky rastu populácie je závislá od priebehu rastu pri malých početnostiach = je určovaná deriváciou = tangensom uhlu sklonu tejto krivky v bode nula =
+určuje sa koeficinetom r
+"
+"Daj príklady na dôvody sledovania rastu(4):
+","Orgány – ochorenia, genetické poruchy
+Rastliny – živiny
+Živočíchy - potrava
+Mikroorganizmy – priemyselné využitie potravinárstvo, probiotiká
+"
