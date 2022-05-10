@@ -430,3 +430,73 @@ Rastliny – živiny
 Živočíchy - potrava
 Mikroorganizmy – priemyselné využitie potravinárstvo, probiotiká
 "
+"Daj priklad na konkurenciu v ludskom tele(3):
+","1.Hormonálna regulácia
+2.Inhibibícia metabolických dráh = lieky
+3.Kompetitívne súťaženie substrátov
+"
+"Čo je to symbióza?
+","forma vzájomného vzťahu organizmov, spočívajúca v obojstranne výhodnom spolužití v oblasti
+ochrany, výživy a podobne
+"
+"Podla čoho sa opisuje kinetika procesov?
+","Kinetika procesov v štruktúrach sa v matematických modeloch spravidla opisuje pomocou
+systému rovníc pre pravdepodobnostné stavy komplexov
+"
+"Volterov predpoklad je čo do prdele?
+","predpokladal podľa analógie so štatistickou fyzikou, že intenzita vzájomných pôsobení je proporcionálna pravdepodobnosti stretnutia (pravdepodobnosti zrážok molekúl), t. j. súčinu koncentrácií.
+- toto, ale aj niektoré iné predpoklady, umožnili zostrojiť matematickú teóriu vzájomného pôsobenia populácií jednej koristníckej úrovne (konkurencia, symbióza) alebo rôznych koristníckych úrovní (dravec-obeť, parazit-hostiteľ).
+- jednoduchým modelom je model selekcie na základe konkurenčných vzťahov - biologické konjunkcie, optické aktivity rôzneho typu, konkurujúcich buniek, osôb, populácií, jeho modifikácie sa používajú aj pre opis konkurencií v ekonomike
+"
+"Čo je to AAAAAAAtraktor?
+","je konečný stav systému. Je to stav, do ktorého dynamický sytstém v čase smeruje
+"
+"Aké dva atraktory poznáme a popíš ako vyzerajú:
+","1. Rovnovážny bod - popisuje systémy ako napríklad tlmené kyvadlo, které po uplynutí prechodného deja prejdu do jedného kľudového stavu
+2. Limitný cyklus - systémy ako napr ideálne netlmené kyvadlo, které precháza do periodických oscilací. Trajektória limitního cyklu sleduje pravideľnú dráhu, napr.. kruhovu alebo eliptickú.
+3. Toroid - podobá se povrchu pneumatiky. Tvar toroidu popisuje pohyb generovaný dvoma nezávislými oscilátormi a niekdy se nazývá kvaziperiodický. Trajektoria ovíja telo toroidu v stavovom priestore, jedna oscilačná frekvencia popisujúca pohyb v kratšom kruhu a druhá frekvence popisuje pohyb po dlhšom okruhu pneumatiky.
+4. Lorenzov atraktor - jednoduchý systému s niekoľkými stupnňami voľnosti, ktorý se chová velmi zložito.Je ho možné zapísať rovnicami: x= p.(y - x); y= - xz+ rx - y; z= xy - bz, kde p, r a b sú nastaviteľné parametre
+"
+"Autooscilačné systémy, daj mi k tomu niečo
+","kmitania v systéme majú stálu periódu a amplitúdu
+
+sú nezávislé od počiatočných podmienok
+
+udržujú sa vďaka vlastnostiam samotného systému a nie v dôsledku pôsobenia periodickej sily 
+
+autooscilačnému režimu zodpovedá vo fázovej rovine uzavretá izolovaná fázová trajektória – limitný cyklus
+"
+"Do triedy autooscilačných systémov patria:
+","1.oscilácie v metabolických systémoch
+2.periodické procesy fotosyntézy,
+3.oscilácie koncentrácie vápnika v bunke
+4.oscilácie v srdcovom svale
+5.oscilácie početnosti živočíchov v populáciách a spoločenstvách.
+"
+"Toto bolo boldom... ale na kerú piču to mám vediet?? Operón? Promotor? Gén pre naviazanie represora?
+","Operón - funkčná jednotka DNA, ktorá obsahuje niekoľko génov, ktoré ovplyvňuje jediný promótor
+Promotor - sekvencia DNA, na ktorú se viaže RNA polymeráza; Tým sa zahaji transkripcia konkrétneho génu
+Gén pre naviazanie represora – miesto, kde sa naviaže repressor a zabráni génovej expresii
+"
+"Aký to je Bistabilný systém?
+","Systém je bistabilný, ak je schopný spočívať v dvoch stabilných ustálených stavoch oddelených od seba nestabilným stavom
+
+Príklad: spínač svetla, termostat v byte, regulácia génovej expresie
+"
+"Porosprávaj mi viac bistabilnému systému:
+
+Bonusová otázka za pusu na riť - Systém je možné „premiesniť“ akými dvoma spôsobmi?
+","Základom spôsobilosti systému k preklápaniu je konkurencia druhov, metabolitov, stavov.
+
+Dôležitou pre bunkový cyklus, diferenciáciu a iné javy je otázka o možnom preklopení bistabilného obvodu z jedného do druhého stabilného stacionárneho stavu
+Bonus:
+1. pridať dostatočne veľké množstvo látky, ktorá sa v počiatočnom stave nachádza v minime,
+2. alebo parametricky zmeniť charakter fázového portrétu takým spôsobom, že počiatočný stav>>> systému sa stáva nestabilný (prechod cez bifurkáciu sedlo-uzol) a systém nadobúda iba  jeden stabilný stacionárny stav
+"
+"Farmakokinetika (FK) & farmakodynamika (FD)
+
+čo to robí?? jedno aj druhé?
+","FK – čo robí organizmus lieku? – Absorpcia, distribúcia, metabolizmus, exkrécia (ADME)
+
+FD – čo robí liek organizmu? – Koncentrácia lieku v mieste pôsobenia alebo v plazme je vo vzťahu k veľkosti účinku
+"
